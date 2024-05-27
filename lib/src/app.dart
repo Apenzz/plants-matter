@@ -7,16 +7,37 @@ import 'package:go_router/go_router.dart';
 
 
 import 'screens/myplants_screen.dart';
+import 'screens/homepage.dart';
 import 'screens/scaffold.dart';
 import 'widgets/fade_transition_page.dart';
+import '/material_theme.dart';
+import 'package:google_fonts/google_fonts.dart';
+
+
 
 
 
 final appShellNavigatorKey = GlobalKey<NavigatorState>(debugLabel: 'app shell');
 final plantsNavigatorKey = GlobalKey<NavigatorState>(debugLabel: 'plants shell');
+final texttheme = TextTheme(
+    //Body Small
+     bodySmall:GoogleFonts.montserrat(
+       fontSize: 13,fontWeight: FontWeight.w600, color: Colors.black),
+                
+    //Body Medium
+      bodyMedium: GoogleFonts.montserrat(
+       fontSize: 16, color: Colors.black, fontWeight: FontWeight.w700),
+
+    //Body Large
+      bodyLarge: GoogleFonts.aBeeZee(
+        fontSize: 19,  fontWeight: FontWeight.w800, color: Colors.white),
+
+  );
 
 class Plantsmatter extends StatefulWidget {
   const Plantsmatter({super.key});
+  
+  
 
   @override
   State<Plantsmatter> createState() => _PlantsmatterState();
@@ -28,6 +49,9 @@ class _PlantsmatterState extends State<Plantsmatter> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp.router(
+
+      theme: MaterialTheme(texttheme).light(),
+      darkTheme: MaterialTheme(texttheme).dark(),
       routerConfig: GoRouter(
         debugLogDiagnostics: true,
         initialLocation: '/myplants',
@@ -46,6 +70,21 @@ class _PlantsmatterState extends State<Plantsmatter> {
               );
             },
             routes: [
+              GoRoute(
+                path: '/home',
+                pageBuilder: (context, state) {
+                  return FadeTransitionPage<dynamic>(
+                    key: state.pageKey,
+                    child: Builder(builder: (context) {
+                      return HomePageScreen(
+                        onTap: (plant) {
+                        },
+                      );
+                    }),
+                  );
+                },
+            
+              ),
               GoRoute(
                 path: '/myplants',
                 pageBuilder: (context, state) {
@@ -70,3 +109,5 @@ class _PlantsmatterState extends State<Plantsmatter> {
     );
   }
 }
+
+
