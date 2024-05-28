@@ -4,8 +4,8 @@
 
 import 'package:flutter/material.dart';
 import '../data/plant.dart';
-import '../data/myplants.dart';
-import '../widgets/myplants_list.dart';
+import '../widgets/tab_plant_tasks.dart';
+import '../widgets/add_plant_button.dart';
 
 class HomePageScreen extends StatelessWidget {
   final String title;
@@ -18,15 +18,16 @@ class HomePageScreen extends StatelessWidget {
   });
 
   @override
-  Widget build(BuildContext context) => Scaffold(
+  Widget build(BuildContext context) {
+    return DefaultTabController(
+      length: 2,
+      child: Scaffold(
         appBar: AppBar(
           title: Text(title),
+          bottom: const TabPlantTasks(),
         ),
-        floatingActionButton: FloatingActionButton.large(
-                  onPressed: () {
-                   
-                  },
-                  child: const Icon(Icons.add),
-                ),
-      );
+        floatingActionButton: const AddPlantButton(),
+      ),
+    );
+  }
 }
