@@ -27,6 +27,9 @@ class HomePageScreen extends StatelessWidget {
           bottom: const TabPlantTasks(),
         ),
         floatingActionButton: const AddPlantButton(),
+        body: const TabBarView(
+          children: <Widget>[],
+        )
       ),
     );
   }
