@@ -6,11 +6,12 @@ import 'package:flutter/material.dart';
 import '../data/plant.dart';
 import '../widgets/tab_plant_tasks.dart';
 import '../widgets/add_plant_button.dart';
+import '../data/myplants.dart';
 
 class HomePageScreen extends StatelessWidget {
   final String title;
   final ValueChanged<Plant> onTap;
-  final List<String> plantList = const ['Plant #1', 'Plant #2', 'Plant #3'];
+  // final List<String> plantList = const ['Plant #1', 'Plant #2', 'Plant #3'];
 
   const HomePageScreen({
     required this.onTap,
@@ -31,10 +32,10 @@ class HomePageScreen extends StatelessWidget {
         body: TabBarView(
           children: [
             ListView.builder(
-              itemCount: plantList.length,
+              itemCount: myPlantsInstance.myPlants.length,
               itemBuilder: (context, index) {
                 return ListTile(
-                  title: Text(plantList[index]),
+                  title: Text(myPlantsInstance.myPlants[index].name),
                 );
               },
             )
