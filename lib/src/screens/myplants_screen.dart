@@ -18,6 +18,7 @@ class MyPlantsScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) => Scaffold(
         appBar: const MyPlantsAppBar(),
+        
         body: MyPlantsList(
           plants: myPlantsInstance.myPlants,
           onTap: onTap,

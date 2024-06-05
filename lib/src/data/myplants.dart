@@ -9,31 +9,57 @@ class MyPlants {
     required String type,
     required String imagePath,
     required DateTime lastWatered,
+    required String botanicalName,
+    required String healthStatus,
+    //expressed in number of days
+    required int wateringPlan,
+    required int fertilizingPlan,
+    required int pruningPlan
   }) {
-    var plant = Plant(id, name, type, imagePath, lastWatered);
+    var plant = Plant(id, name, type, imagePath, lastWatered, wateringPlan, fertilizingPlan, pruningPlan, botanicalName, healthStatus);
     myPlants.add(plant);
+  }
+  Plant getPlant(String id) {
+    return myPlants[int.parse(id)];
   }
 }
 
 final myPlantsInstance = MyPlants()
   ..addPlant(
-      id: 1,
+      id: 0,
       name: 'Vine Maple',
       type: 'Bonsai',
-      imagePath: 'assets/images/bonsai-vine-maple.jpg',
+      botanicalName: 'Acer circinatum',
+      imagePath: 'assets/images/vinemaple.jpg',
       lastWatered: DateTime.now(),
+      wateringPlan: 7,
+      fertilizingPlan: 14,
+      pruningPlan: 30,
+      healthStatus: 'undiagnosed'
+  )
+  ..addPlant(
+      id: 1,
+      name: 'Cactus',
+      type: 'Caryophyllales',
+      botanicalName: 'Cactaceae',
+      imagePath: 'assets/images/cactus.jpg',
+      lastWatered: DateTime.now(),
+      wateringPlan: 7,
+      fertilizingPlan: 14,
+      pruningPlan: 30,
+      healthStatus: 'undiagnosed'
   )
   ..addPlant(
       id: 2,
-      name: 'Cactus',
-      type: 'Cactaceae',
-      imagePath: 'assets/images/cactus.jpg',
-      lastWatered: DateTime.now(),
-  )
-  ..addPlant(
-      id: 3,
       name: 'Rose',
-      type: 'Rosaceae',
+      type: 'Perennial shrub',
+      botanicalName: 'Rosaceae',
       imagePath: 'assets/images/rose.jpg',
       lastWatered: DateTime.now(),
+      wateringPlan: 7,
+      fertilizingPlan: 14,
+      pruningPlan: 30,
+      healthStatus: 'undiagnosed'
   );
+
+  

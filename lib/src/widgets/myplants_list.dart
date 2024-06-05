@@ -33,7 +33,7 @@ class MyPlantsList extends StatelessWidget {
           ),
           title: Text(plant.name),
           subtitle: Text('Last watered: $wateredText'),
-          onTap: onTap != null ? () => onTap!(plant) : null,
+          onTap: onTap != null ? () => onTap!(plants[index]) : null,
         );
       },
     );

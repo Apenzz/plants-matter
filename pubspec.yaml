@@ -64,7 +64,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/bonsai-vine-maple.jpg
+    - assets/images/vinemaple.jpg
     - assets/images/cactus.jpg
     - assets/images/rose.jpg
 

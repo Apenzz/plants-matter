@@ -4,9 +4,11 @@
 
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
+import 'package:plants_matter/src/data/myplants.dart';
 
 
 import 'screens/myplants_screen.dart';
+import 'screens/plantprofile.dart';
 import 'screens/homepage.dart';
 import 'screens/scaffold.dart';
 import 'widgets/fade_transition_page.dart';
@@ -100,8 +102,20 @@ class _PlantsmatterState extends State<Plantsmatter> {
                     }),
                   );
                 },
-            
+                routes: [
+                      GoRoute(
+                        path: 'plant/:plantId',
+                        parentNavigatorKey: appShellNavigatorKey,
+                        builder: (context, state) {
+                          return PlantProfileScreen(
+                            plant: myPlantsInstance
+                                .getPlant(state.pathParameters['plantId'] ?? ''),
+                          );
+                        },
+                      ),
+                    ],
               ),
+            
             ],
           ),
         ],

@@ -16,6 +16,7 @@ class MyPlantsAppBar extends StatelessWidget implements PreferredSizeWidget {
     @override
   Widget build(BuildContext context) {
     return AppBar(
+      title: Text("My plants"),
       leading: onBack != null
           ? IconButton(
               icon: Icon(Icons.arrow_back),
