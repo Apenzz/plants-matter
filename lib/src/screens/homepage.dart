@@ -20,6 +20,13 @@ class HomePageScreen extends StatelessWidget {
     super.key,
   });
 
+  void _completeTask(BuildContext context, Plant plant) {
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(content: Text("${plant.name} watered!")),
+    );
+    // TODO
+  }
+
   @override
   Widget build(BuildContext context) {
     return DefaultTabController(
@@ -39,6 +46,7 @@ class HomePageScreen extends StatelessWidget {
                 return BasicPlantCard(
                   name: plant.name,
                   imagePath: plant.imagePath,
+                  onComplete: () => _completeTask(context, plant),
                 );
               },
             ),
@@ -49,6 +57,7 @@ class HomePageScreen extends StatelessWidget {
                 return BasicPlantCard(
                   name: plant.name,
                   imagePath: plant.imagePath,
+                  onComplete: () => _completeTask(context, plant),
                 );
               },
             ),
