@@ -35,7 +35,10 @@ class _BasicPlantCardState extends State<BasicPlantCard> {
           backgroundImage: AssetImage(widget.imagePath),
           ),
         trailing: IconButton(
-          icon: Icon(_isCompleted ?Icons.check_circle : Icons.water_drop),
+          icon: Icon(
+            _isCompleted ?Icons.check_circle : Icons.water_drop,
+            color: Colors.blue,
+          ),
           onPressed: _handleComplete,
         ),
         ),
