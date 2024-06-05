@@ -7,6 +7,7 @@ import '../data/plant.dart';
 import '../widgets/tab_plant_tasks.dart';
 import '../widgets/add_plant_button.dart';
 import '../data/myplants.dart';
+import '../widgets/basic_plant_card.dart';
 
 class HomePageScreen extends StatelessWidget {
   final String title;
@@ -34,20 +35,23 @@ class HomePageScreen extends StatelessWidget {
             ListView.builder(
               itemCount: myPlantsInstance.myPlants.length,
               itemBuilder: (context, index) {
-                return ListTile(
-                  title: Text(myPlantsInstance.myPlants[index].name),
+                final plant = myPlantsInstance.myPlants[index];
+                return BasicPlantCard(
+                  name: plant.name,
+                  imagePath: plant.imagePath,
                 );
               },
             ),
             ListView.builder(
               itemCount: myPlantsInstance.myPlants.length,
               itemBuilder: (context, index) {
-                return ListTile(
-                  title: Text(myPlantsInstance.myPlants[index].name),
+                final plant = myPlantsInstance.myPlants[index];
+                return BasicPlantCard(
+                  name: plant.name,
+                  imagePath: plant.imagePath,
                 );
               },
-            )
-
+            ),
           ]
         )
       ),
