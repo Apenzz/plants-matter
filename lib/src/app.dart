@@ -56,7 +56,7 @@ class _PlantsmatterState extends State<Plantsmatter> {
       darkTheme: MaterialTheme(texttheme).dark(),
       routerConfig: GoRouter(
         debugLogDiagnostics: true,
-        initialLocation: '/myplants',
+        initialLocation: '/home',
         routes: [
           ShellRoute(
             navigatorKey: appShellNavigatorKey,

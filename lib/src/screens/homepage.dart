@@ -7,6 +7,7 @@ import '../data/plant.dart';
 import '../widgets/tab_plant_tasks.dart';
 import '../widgets/add_plant_button.dart';
 import '../data/myplants.dart';
+import '../widgets/basic_plant_card.dart';
 
 class HomePageScreen extends StatelessWidget {
   final String title;
@@ -18,6 +19,13 @@ class HomePageScreen extends StatelessWidget {
     this.title = 'Plants matter',
     super.key,
   });
+
+  void _completeTask(BuildContext context, Plant plant) {
+    ScaffoldMessenger.of(context).showSnackBar(
+      SnackBar(content: Text("${plant.name} watered!")),
+    );
+    // TODO
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -34,11 +42,25 @@ class HomePageScreen extends StatelessWidget {
             ListView.builder(
               itemCount: myPlantsInstance.myPlants.length,
               itemBuilder: (context, index) {
-                return ListTile(
-                  title: Text(myPlantsInstance.myPlants[index].name),
+                final plant = myPlantsInstance.myPlants[index];
+                return BasicPlantCard(
+                  name: plant.name,
+                  imagePath: plant.imagePath,
+                  onComplete: () => _completeTask(context, plant),
                 );
               },
-            )
+            ),
+            ListView.builder(
+              itemCount: myPlantsInstance.myPlants.length,
+              itemBuilder: (context, index) {
+                final plant = myPlantsInstance.myPlants[index];
+                return BasicPlantCard(
+                  name: plant.name,
+                  imagePath: plant.imagePath,
+                  onComplete: () => _completeTask(context, plant),
+                );
+              },
+            ),
           ]
         )
       ),
