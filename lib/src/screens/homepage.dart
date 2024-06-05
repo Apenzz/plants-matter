@@ -38,7 +38,16 @@ class HomePageScreen extends StatelessWidget {
                   title: Text(myPlantsInstance.myPlants[index].name),
                 );
               },
+            ),
+            ListView.builder(
+              itemCount: myPlantsInstance.myPlants.length,
+              itemBuilder: (context, index) {
+                return ListTile(
+                  title: Text(myPlantsInstance.myPlants[index].name),
+                );
+              },
             )
+
           ]
         )
       ),
