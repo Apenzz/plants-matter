@@ -11,6 +11,7 @@ import 'screens/myplants_screen.dart';
 import 'screens/plantprofile.dart';
 import 'screens/homepage.dart';
 import 'screens/scaffold.dart';
+import 'screens/search.dart';
 import 'widgets/fade_transition_page.dart';
 import '/material_theme.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -115,7 +116,18 @@ class _PlantsmatterState extends State<Plantsmatter> {
                       ),
                     ],
               ),
-            
+              GoRoute(
+                path: '/search',
+                pageBuilder: (context, state) {
+                  return FadeTransitionPage<dynamic>(
+                    key: state.pageKey,
+                    child: Builder(builder: (context) {
+                      return const SearchScreen(
+                      );
+                    }),
+                  );
+                },
+              )
             ],
           ),
         ],
