@@ -44,9 +44,9 @@ final myPlantsInstance = MyPlants()
       botanicalName: 'Cactaceae',
       imagePath: 'assets/images/cactus.jpg',
       lastWatered: DateTime.now(),
-      wateringPlan: 7,
-      fertilizingPlan: 14,
-      pruningPlan: 30,
+      wateringPlan: 5,
+      fertilizingPlan: 10,
+      pruningPlan: 15,
       healthStatus: 'undiagnosed'
   )
   ..addPlant(
@@ -56,9 +56,9 @@ final myPlantsInstance = MyPlants()
       botanicalName: 'Rosaceae',
       imagePath: 'assets/images/rose.jpg',
       lastWatered: DateTime.now(),
-      wateringPlan: 7,
-      fertilizingPlan: 14,
-      pruningPlan: 30,
+      wateringPlan: 3,
+      fertilizingPlan: 6,
+      pruningPlan: 9,
       healthStatus: 'undiagnosed'
   );
 

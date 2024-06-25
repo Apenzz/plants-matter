@@ -25,7 +25,7 @@ class PlantsmatterScaffold extends StatelessWidget {
         selectedIndex: selectedIndex,
         body: child,
         onDestinationSelected: (idx) {
-          if (idx == 0) goRouter.go('/home');
+          if (idx == 0) goRouter.go('/');
           if (idx == 1) goRouter.go('/search');
           if (idx == 2) goRouter.go('/myplants');
         },
