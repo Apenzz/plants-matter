@@ -122,7 +122,7 @@ class _PlantsmatterState extends State<Plantsmatter> {
                   return FadeTransitionPage<dynamic>(
                     key: state.pageKey,
                     child: Builder(builder: (context) {
-                      return const SearchScreen(
+                      return SearchScreen(
                       );
                     }),
                   );
