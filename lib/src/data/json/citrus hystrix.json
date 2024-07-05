@@ -1,0 +1,35 @@
+{
+    "pid": "citrus hystrix",
+    "basic": {
+        "floral_language": "",
+        "origin": "Southeast Asia",
+        "production": "Southern China",
+        "category": "Rutaceae, Citrus",
+        "blooming": "Flowering period April-May, fruiting period September-November",
+        "color": "Flower color white, fruit yellow"
+    },
+    "display_pid": "Citrus hystrix",
+    "maintenance": {
+        "size": "Diameter \u2265 15 cm, height \u2265 25 cm",
+        "soil": "Soil with loose texture or soil with specific nutrients",
+        "sunlight": "Like sunshine, slight resistant to shade, high quality fruits in sunny places",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7400,
+        "min_light_mmol": 3300,
+        "max_light_lux": 65000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\citrus hystrix.jpg"
+}

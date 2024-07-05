@@ -1,0 +1,35 @@
+{
+    "pid": "cymbidium insigne",
+    "basic": {
+        "floral_language": "Cymbidium insigne\nFloriography: virtuous, tender, intelligent\nCymbidium insigne, commonly referred to as the Chinese orchid, represents simplicity and serenity.\nCymbidium insigne are graceful with slender leaves and colorful, exotic flowers with pure colors and fragrances, though not as huge as the orchids flowers in the West, but very elegant. For its high ornamental value, often used to decorate rooms.\nCymbidium insigne like half shaded environments. Flowering time differs in different varieties throughout the year with a month-long flowering time, promptly cut the scape after flowering for germination in the next year.",
+        "origin": "China",
+        "production": "China",
+        "category": "Orchidaceae, Cymbidium",
+        "blooming": "Flowering period November-December, viewing period 3-4 weeks",
+        "color": "Flower color white or with slight pink"
+    },
+    "display_pid": "Cymbidium insigne",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Breathable and loose planting materials with coconut shell, bark or sphagnum moss",
+        "sunlight": "Like half shade, in autumn and winter may take 2-3h sunlight, receive more light when leaves are dark green",
+        "watering": "Water thoroughly when soil is dry, may spray to the ambient environment in summer, reduce watering in winter",
+        "fertilization": "Apply fertilizers every 10-15 days in the growing seasons of spring and autumn, foliar fertilizer spray also do good for its growth , fertilize under 10 \u2103 (50 \u2109) is forbidden",
+        "pruning": "Remove old, diseased and dead leaves timely, remove peduncle after flowering"
+    },
+    "parameter": {
+        "max_light_mmol": 3400,
+        "min_light_mmol": 2000,
+        "max_light_lux": 25000,
+        "min_light_lux": 800,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 45,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\cymbidium insigne.jpg"
+}

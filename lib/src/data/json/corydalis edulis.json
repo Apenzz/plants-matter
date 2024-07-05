@@ -1,0 +1,35 @@
+{
+    "pid": "corydalis edulis",
+    "basic": {
+        "floral_language": "",
+        "origin": "China",
+        "production": "China",
+        "category": "Papaveraceae, Corydalis",
+        "blooming": "Flowering period April-May",
+        "color": "Flower colorpink purple, purple"
+    },
+    "display_pid": "Corydalis edulis",
+    "maintenance": {
+        "size": "Flower length \u2265 1.5 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like sunshine, resistant to half shade",
+        "watering": "Water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\corydalis edulis.jpg"
+}

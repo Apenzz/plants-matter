@@ -1,0 +1,35 @@
+{
+    "pid": "ervatamia divaricata",
+    "basic": {
+        "floral_language": "",
+        "origin": "China",
+        "production": "China",
+        "category": "Apocynaceae, Ervatamia",
+        "blooming": "Flowering period May-November",
+        "color": "Flower color white"
+    },
+    "display_pid": "Ervatamia divaricata",
+    "maintenance": {
+        "size": "Diameter\u22655cm\uff0cHeight\u226515cm",
+        "soil": "Loose fertile soil",
+        "sunlight": "Enjoy half shade environment, put in place with bright scatted light",
+        "watering": "Keep soil moist",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in its growing seasons",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5000,
+        "min_light_mmol": 1800,
+        "max_light_lux": 35000,
+        "min_light_lux": 1000,
+        "max_temp": 37,
+        "min_temp": 10,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 1500,
+        "min_soil_ec": 150
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\ervatamia divaricata.jpg"
+}

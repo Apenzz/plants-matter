@@ -1,0 +1,35 @@
+{
+    "pid": "sedum spathulifolium",
+    "basic": {
+        "floral_language": "",
+        "origin": "North America",
+        "production": "China",
+        "category": "Crassulaceae, Sedum",
+        "blooming": "Succulent plants, sometimes flowers with yellow flowers",
+        "color": "Flower color yellow, leaf color green, fleshy and covered with white powder"
+    },
+    "display_pid": "Sedum spathulifolium",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 15-18 cm",
+        "soil": "Soil with loose texture or soil with specific nutrients",
+        "sunlight": "Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 8300,
+        "min_light_mmol": 4000,
+        "max_light_lux": 85000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\sedum spathulifolium.jpg"
+}

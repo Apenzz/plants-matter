@@ -1,0 +1,35 @@
+{
+    "pid": "echeveria runyonii cv",
+    "basic": {
+        "floral_language": "Echeveria runyonii cv\nFloriography: lovely, bold, pure\nEcheveria runyonii cv has a dark gray-green to light blue leaf color, flat leaf blade with a tip, closely arranged in rosette, a thin layer of white powder on leaf surface, like a blooming lotus. Leaf edges become pink under a great diurnal temperature range and abundant light.\nEcheveria runyonii cv likes light, short period of dormancy in summer, shade properly, sometimes blooms with orange flowers.",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, Echeveria",
+        "blooming": "Succulent plants, sometimes flowers, orange red flowers",
+        "color": "Leaf color gray green to light blue, when sunny leaf edges turning to pink"
+    },
+    "display_pid": "Echeveria runyonii cv",
+    "maintenance": {
+        "size": "Diameter \u2265 5 cm, height \u2265 15 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, a short period of dormancy in summer, put in places with bright scattered light",
+        "watering": "Avoid water saturation, water thoroughly when soil is dry, reduce watering when in dormancy",
+        "fertilization": "Dilute fertilizers following instructions,  apply once monthly in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7000,
+        "min_light_mmol": 3200,
+        "max_light_lux": 80000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\echeveria runyonii cv.jpg"
+}

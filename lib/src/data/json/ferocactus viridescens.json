@@ -1,0 +1,35 @@
+{
+    "pid": "ferocactus viridescens",
+    "basic": {
+        "floral_language": "",
+        "origin": "China",
+        "production": "Southern China",
+        "category": "Sapindaceae, Dimocarpus",
+        "blooming": "Flowering period March-April, fruiting period May-July",
+        "color": "Flower color cream white, fruit color yellow brown"
+    },
+    "display_pid": "Ferocactus viridescens",
+    "maintenance": {
+        "size": "Diameter \u2265 30 cm, height 50-80 cm",
+        "soil": "Soil with loose texture or soil with specific nutrients",
+        "sunlight": "Like sunshine, high quality fruits in sunny places",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5000,
+        "min_light_mmol": 3500,
+        "max_light_lux": 50000,
+        "min_light_lux": 3900,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\ferocactus viridescens.jpg"
+}

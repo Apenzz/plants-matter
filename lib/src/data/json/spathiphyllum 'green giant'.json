@@ -1,0 +1,35 @@
+{
+    "pid": "spathiphyllum 'green giant'",
+    "basic": {
+        "floral_language": "Spathiphyllum kochii \nFloriography: self-confidence, pure and good \nSpathiphyllum kochii white, originated in tropical rainforests, a symbol of the smooth sailing. Smooth sailing like anthurium, has a unique spathe. Flower buds are pure and fresh, and inflorescence simple but elegant, graceful, last very long, eagerly anticipated by his just like a pure girl. \nMaintenance is simple, can bloom all year round, flowering for 2-3 months.",
+        "origin": "Holland",
+        "production": "Yunnan",
+        "category": "Araceae, Spathiphyllum",
+        "blooming": "Flowers year around with spathe flower, viewing period 2-3 months",
+        "color": "Flower color pure white, emerald green"
+    },
+    "display_pid": "Spathiphyllum 'Green Giant'",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 16-20 cm",
+        "soil": "Peat covered with a layer of sphagnum moss on soil surface to keep moisture",
+        "sunlight": "Like half shade, should put in places with bright scattered light",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, may spray water in the air or on leaves, reduce water in winter, keep soil moist",
+        "fertilization": "Dilute fertilizers following instructions, apply liquid fertilizers 1-2 times monthly",
+        "pruning": "Remove rotten roots, old diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 3200,
+        "min_light_mmol": 1600,
+        "max_light_lux": 22500,
+        "min_light_lux": 1000,
+        "max_temp": 32,
+        "min_temp": 15,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 65,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\spathiphyllum 'green giant'.jpg"
+}

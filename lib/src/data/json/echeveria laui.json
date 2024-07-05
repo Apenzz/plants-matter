@@ -1,0 +1,35 @@
+{
+    "pid": "echeveria laui",
+    "basic": {
+        "floral_language": "Echeveria laui\nFloriography: tenacious, brave, grand\nHas a beautiful plant form, fleshy oval leaves slightly tipped, surface covered by a layer of white powders, leaves arranged in a rosette, like a blooming lotus, in a cool season with adequate sunlight, leaves turn purple red gradually, has a very high ornamental value\nLikes sunshine, has a short dormant period under summer high temperature, need place under bright scattered light. Flowers sometimes, orange color.",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, Echeveria",
+        "blooming": "Succulent plants, sometimes flowers, orange red flowers",
+        "color": "Leaf color gray green, when sunny turning to purple red"
+    },
+    "display_pid": "Echeveria laui",
+    "maintenance": {
+        "size": "Diameter \u2265 5 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, dormant in summer under high temperatures, put in places with scattered light",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce water in summer",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove peduncle, dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6900,
+        "min_light_mmol": 3500,
+        "max_light_lux": 75000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\echeveria laui.jpg"
+}

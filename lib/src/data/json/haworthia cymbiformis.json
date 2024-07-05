@@ -1,0 +1,35 @@
+{
+    "pid": "haworthia cymbiformis",
+    "basic": {
+        "floral_language": "Haworthia cymbiformis \nFloriography: pure, bright, crystal-clear\nHas a compact and short plant form, fleshy green leaves are long oval and slightly tipped, arranged in a rosette, surface marked with longitudinal dark green stripes, crystal-clear and bright, grows slowly, may be grown alone, or used in combinations with other plants in pots.\nLikes half shaded environments, avoid direct strong sunlight, need shade properly under scattered light. Flowers are light green.",
+        "origin": "South America",
+        "production": "China",
+        "category": "Liliaceae, Haworthia",
+        "blooming": "Succulent plants, sometimes flowers, light green flowers",
+        "color": "Leaf color green"
+    },
+    "display_pid": "Haworthia cymbiformis",
+    "maintenance": {
+        "size": "Diameter \u2265 3 cm, height 3-10 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes half shade environments, avoid direct strong light, suitable in places with bright scattered light",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce water in summer",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4000,
+        "min_light_mmol": 2000,
+        "max_light_lux": 30000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\haworthia cymbiformis.jpg"
+}

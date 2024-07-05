@@ -1,0 +1,35 @@
+{
+    "pid": "jasminum nudiflorum",
+    "basic": {
+        "floral_language": "Jasminum nudiflorum\nFloriography: vernal, strong and firm, beautiful.\nJasminum nudiflorum is one of the \u201cfour snow friends\u201d which flower in winter. It is the official flower of Hebi city.\nThe plant is a deciduous shrub with slender branches which could be easily shaped freely. Flower blooms before leave shoots, slightly fragrant, five to six petals. Leaves are green, round oval.\nJasminum nudiflorum requires plenty of sunlight. It is partial shade tolerant. Direct bright sunlight should be avoided in hot summer. Flower blooms in March to June for three to four weeks.",
+        "origin": "China",
+        "production": "China",
+        "category": "Oleaceae, Jasminum",
+        "blooming": "Flowering period March-June, viewing period 3-4 weeks",
+        "color": "Flower color golden yellow"
+    },
+    "display_pid": "Jasminum nudiflorum",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes light, slight shade tolerance, in summer use half shade for better care",
+        "watering": "Water thoroughly when soil is dry, reduce watering in winter",
+        "fertilization": "Dilute fertilizers following instructions,  apply 1-2 times monthly in spring",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 2800,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\jasminum nudiflorum.jpg"
+}

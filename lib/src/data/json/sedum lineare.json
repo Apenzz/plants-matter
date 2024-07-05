@@ -1,0 +1,35 @@
+{
+    "pid": "sedum lineare",
+    "basic": {
+        "floral_language": "Sedum lineare \nFloriography: tenacious, straight-hearted, vigorous\nHas many branches and thin emerald green leaves like long nails. In a cool season with adequate light, leaves turn golden yellow. Grows fast, suitable for potted individually or in gardens.\nLikes adequate light, tolerates strong sunlight, in winter takes a dormant period and the plant may dry, but will emerge in the next spring. Flowers are yellow.",
+        "origin": "China",
+        "production": "China",
+        "category": "Crassulaceae, Sedum",
+        "blooming": "Succulent plants, sometimes flowers, yellow flowers",
+        "color": "Leaf color emerald green, with a great diurnal temperature range, with adequate sunlight turning to golden yellow"
+    },
+    "display_pid": "Sedum lineare",
+    "maintenance": {
+        "size": "Diameter \u2265 3 cm, height \u2265 5 cm",
+        "soil": "No strict requirements on the soil",
+        "sunlight": "Like sunshine, not fear of strong light, dormant in winter under low temperatures",
+        "watering": "Water thoroughly when soil is dry, reduce watering in winter",
+        "fertilization": "Require litter fertilization, dilute fertilizers following instructions, in spring to autumn apply 1-2 times monthly",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\sedum lineare.jpg"
+}

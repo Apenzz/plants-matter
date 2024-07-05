@@ -1,0 +1,35 @@
+{
+    "pid": "ruta graveolens",
+    "basic": {
+        "floral_language": "",
+        "origin": "Coastal areas in Mediterranean region",
+        "production": "China",
+        "category": "Rutaceae, Ruta",
+        "blooming": "Flowering period March-June and the end of winter, fruiting period July-September",
+        "color": "Flower color golden yellow , fruit color brown"
+    },
+    "display_pid": "Ruta graveolens",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 15-20 cm",
+        "soil": "Sandy soil",
+        "sunlight": "Like half shade, may grow in places with bright scattered light",
+        "watering": "Only need keep soil moist",
+        "fertilization": "Apply enough base fertilizers",
+        "pruning": "No need pruning"
+    },
+    "parameter": {
+        "max_light_mmol": 4000,
+        "min_light_mmol": 2000,
+        "max_light_lux": 20000,
+        "min_light_lux": 3700,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\ruta graveolens.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "quercus marilandica",
+    "basic": {
+        "floral_language": "",
+        "origin": "Worldwide",
+        "production": "China",
+        "category": "Fagaceae, Quercus",
+        "blooming": "Flowering period April, fruiting period October",
+        "color": "Leaf color green"
+    },
+    "display_pid": "Quercus marilandica",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height \u2265 25 cm",
+        "soil": "Soil with loose texture or soil with specific nutrients",
+        "sunlight": "Like sunshine, grows in sunny places, slight shade tolerance",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5000,
+        "min_light_mmol": 3500,
+        "max_light_lux": 50000,
+        "min_light_lux": 3500,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\quercus marilandica.jpg"
+}

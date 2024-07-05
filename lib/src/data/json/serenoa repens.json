@@ -1,0 +1,35 @@
+{
+    "pid": "serenoa repens",
+    "basic": {
+        "floral_language": "",
+        "origin": "Americas",
+        "production": "China",
+        "category": "Palmae, Trachycarpus",
+        "blooming": "Flowering period March-May",
+        "color": "Flower color white, yellow"
+    },
+    "display_pid": "Serenoa repens",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 20-30 cm",
+        "soil": "Soil with rich organic matter and strong abilities of holding water and fertility",
+        "sunlight": "Like sunshine, resistant to half shade",
+        "watering": "Watering only when soil is dry, water thoroughly",
+        "fertilization": "Apply enough base fertilizers",
+        "pruning": "Remove dead and diseased branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\serenoa repens.jpg"
+}

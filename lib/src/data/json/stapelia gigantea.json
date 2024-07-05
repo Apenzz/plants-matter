@@ -1,0 +1,35 @@
+{
+    "pid": "stapelia gigantea",
+    "basic": {
+        "floral_language": "",
+        "origin": "Tropical Africa",
+        "production": "Southern China(Shanghai)",
+        "category": "SubFam.Asclepiadoideae, Stapelia",
+        "blooming": "Flowering period in summer",
+        "color": "Flower color yellow green, light yellow, with light black purple stripes in a radial pattern"
+    },
+    "display_pid": "Stapelia gigantea",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like sunshine, grows in sunny places",
+        "watering": "Water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\stapelia gigantea.jpg"
+}

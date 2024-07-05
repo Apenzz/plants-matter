@@ -1,0 +1,35 @@
+{
+    "pid": "crassula 'pagoda village'",
+    "basic": {
+        "floral_language": "Crassula 'Pagoda Village'\nFloriography:active, cute, beautiful\nHas a tower-like shape, triangular leaves arranged layer by layer, bigger at the base and being smaller to the top. In a cool season with adequate sunlight, leaves turn red-brown to pink, and the plant becomes more compact. Very cute and often used to decorate desks and tables. \nLikes sunny places, has a short dormant period in summer, place under scattered light. Flowers sometimes, yellow color.",
+        "origin": "South Africa",
+        "production": "China",
+        "category": "Crassulaceae, Crassula",
+        "blooming": "Succulent plants, sometimes flowers, yellow flowers",
+        "color": "Leaf color green, when sunny turning to red brown to pink"
+    },
+    "display_pid": "Crassula 'Pagoda Village'",
+    "maintenance": {
+        "size": "Diameter \u2265 5 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, dormant in summer under high temperatures, put in places with scattered light",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce water in summer",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7000,
+        "min_light_mmol": 5000,
+        "max_light_lux": 80000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\crassula 'pagoda village'.jpg"
+}

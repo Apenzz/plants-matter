@@ -1,0 +1,35 @@
+{
+    "pid": "athyrium filix femina",
+    "basic": {
+        "floral_language": "",
+        "origin": "Temperate and tropical high mountains",
+        "production": "China",
+        "category": "Athyriaceae, Athyrium",
+        "blooming": "Fern plants, no flowering",
+        "color": "Leaf color yellow green"
+    },
+    "display_pid": "Athyrium filix femina",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific amount of humus",
+        "sunlight": "Strong resistant to shade, put in places with scattered light",
+        "watering": "Water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 700,
+        "min_light_mmol": 400,
+        "max_light_lux": 4000,
+        "min_light_lux": 300,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 90,
+        "min_env_humid": 40,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 1500,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\athyrium filix femina.jpg"
+}

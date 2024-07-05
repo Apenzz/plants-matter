@@ -1,0 +1,35 @@
+{
+    "pid": "abelmoschus esculentus",
+    "basic": {
+        "floral_language": "",
+        "origin": "Africa, Tropical Asia",
+        "production": "China",
+        "category": "Malvaceae, Abelmoschus",
+        "blooming": "Flowering period June-October",
+        "color": "Flower color from white to yellow, bottom in red or with purple dots"
+    },
+    "display_pid": "Abelmoschus esculentus",
+    "maintenance": {
+        "size": "Diameter \u2265 15 cm, height \u2265 25 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like sunshine, grows in sunny places",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6500,
+        "min_light_mmol": 3300,
+        "max_light_lux": 55000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\abelmoschus esculentus.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "malope trifida",
+    "basic": {
+        "floral_language": "",
+        "origin": "Spain, North Africa",
+        "production": "Southern China",
+        "category": "Malvaceae, Malope",
+        "blooming": "Flowering period May-June",
+        "color": "Flower color red, purple red"
+    },
+    "display_pid": "Malope trifida",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 15-18 cm",
+        "soil": "Sandy loam",
+        "sunlight": "Like sunshine",
+        "watering": "Need keep soil moisture high but not saturated",
+        "fertilization": "When planting, use base fertilizers with phosphorus potassium, apply compound fertilizers with nitrogen, phosphorus, potassium once every half month, avoid to apply nitrgen-based fertilizers only",
+        "pruning": "Remove central buds in growing season to promote branching"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\malope trifida.jpg"
+}

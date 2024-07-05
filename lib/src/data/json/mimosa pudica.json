@@ -1,0 +1,35 @@
+{
+    "pid": "mimosa pudica",
+    "basic": {
+        "floral_language": "Mimosa pudica \nFloriography: shy, restrained, polite \nMimosa is pure and fresh and lovely. It is named as shy grass because the leaves will be closed by external touch. \nShy grass is green color. Leaves are lobular arrangement. Usually four lobules are palmy arrangement and look like a small palm, very lively. With the hand touch or water, petioles prolapse, lobular are closed. After the summer it will flower. Flower is white or pink velvet ball, charming and lovely. \nMimosa like the sunshine, but avoid direct light. Flowering from September to October, with ornamental period of 3 to 7 days.",
+        "origin": "Tropical Americas",
+        "production": "Southern China",
+        "category": "Leguminosae, Mimosa",
+        "blooming": "Flowering period September-October, viewing period 3-7 days",
+        "color": "Leaf color tender green, flower color white or pink"
+    },
+    "display_pid": "Mimosa pudica",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like adequate sunlight, avoid strong direct light",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, may spray water on the leaves in summer, water less frequently in winter",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove old, diseased, dead leaves and withered flowers timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5300,
+        "min_light_mmol": 2100,
+        "max_light_lux": 50000,
+        "min_light_lux": 2000,
+        "max_temp": 35,
+        "min_temp": 12,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\mimosa pudica.jpg"
+}

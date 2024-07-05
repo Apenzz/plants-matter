@@ -1,0 +1,35 @@
+{
+    "pid": "sedum rubrotinctum",
+    "basic": {
+        "floral_language": "Sedum rubrotinctum \nFloriography: lovely, beautiful, warm\nSedum rubrotinctum has green, thick, fleshy, obovate leaves with a smooth surface. Leaf colors change to red with a great diurnal temperature range and abundant sunlight. For its small and exquisite appearance, widely favored by the public.\nSedum rubrotinctum likes strong sunlight, but enter a semi-dormant period in summer and need be placed under scattered light. Sometimes blooms with pale orange flowers.",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, Sedum",
+        "blooming": "Succulent plants, flowers during spring, light orange flowers",
+        "color": "Leaf color green, with adequate sunlight, leaves turning to red"
+    },
+    "display_pid": "Sedum rubrotinctum",
+    "maintenance": {
+        "size": "Diameter 3-15 cm, height 3-15 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "A short period of dormancy in summer, use half shade for better care, spring and autumn are its growing seasons, need plenty of sunshine",
+        "watering": "Water 2 times during summer dormancy, 20ml water every time, keep soil moist in other time, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions,  apply once monthly in spring and autumn, do not apply in other seasons",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7400,
+        "min_light_mmol": 3000,
+        "max_light_lux": 90000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\sedum rubrotinctum.jpg"
+}

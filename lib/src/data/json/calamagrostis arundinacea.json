@@ -1,0 +1,35 @@
+{
+    "pid": "calamagrostis arundinacea",
+    "basic": {
+        "floral_language": "",
+        "origin": "Euro asian continent",
+        "production": "China",
+        "category": "Gramineae, Calamagrostis",
+        "blooming": "Flowering and fruiting period June-September",
+        "color": "Flower color light purple , yellow brown"
+    },
+    "display_pid": "Calamagrostis arundinacea",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 15-18 cm",
+        "soil": "Soil with loose texture or soil with specific nutrients",
+        "sunlight": "Like sunshine, slightly resistant to half shade",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3500,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\calamagrostis arundinacea.jpg"
+}

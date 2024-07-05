@@ -1,0 +1,35 @@
+{
+    "pid": "crassula arborescens willd",
+    "basic": {
+        "floral_language": "Crassula arborescens Willd\nFloriography: broad, inclusive, handsome\nCrassula arborescens Willd has thick stems with many branches, leaf blades gray-green to dark-green, inverted triangle shape and fleshy. Leaf color rarely changes, unless under a great diurnal temperature range and strong sunlight the edges become red. Typically used for outdoor and indoor landscaping.\nCrassula arborescens Willd likes full sunlight with half shade tolerance, dormant in summer and avoid direct sunlight. May bloom with white to pale pink flowers.",
+        "origin": "South Africa",
+        "production": "China",
+        "category": "Crassulaceae, Crassula",
+        "blooming": "Succulent plants, often flowers in late spring to early summer, white to pale pink flowers",
+        "color": "Leaf color gray green to dark green, when sunny leaf edges turning to red"
+    },
+    "display_pid": "Crassula arborescens Willd",
+    "maintenance": {
+        "size": "Diameter 3-10 cm, height \u2265 10 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Like sunshine, resistant to half shade, short period of dormancy in summer, use half shade for better care",
+        "watering": "Keep soil moist, water thoroughly when soil is dry, reduce water in summer",
+        "fertilization": "Dilute fertilizers following instructions,  apply once monthly in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 9300,
+        "min_light_mmol": 3800,
+        "max_light_lux": 90000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\crassula arborescens willd.jpg"
+}

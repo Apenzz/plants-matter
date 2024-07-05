@@ -1,0 +1,35 @@
+{
+    "pid": "leek mako flash f1",
+    "basic": {
+        "floral_language": "",
+        "origin": "South Eastern Asia",
+        "production": "China",
+        "category": "Liliaceae, Allium",
+        "blooming": "Flowering period May-October, fruiting period August-December",
+        "color": "Flower color white, leaf color green"
+    },
+    "display_pid": "Leek Mako Flash F1",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Acidic soil with loose texture or soil with specific nutrients, pH value 6-7",
+        "sunlight": "Grows in sunny places",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 15000,
+        "min_light_mmol": 3600,
+        "max_light_lux": 110000,
+        "min_light_lux": 2500,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 65,
+        "min_soil_moist": 25,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 50
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\leek mako flash f1.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "rhodiola rosea",
+    "basic": {
+        "floral_language": "",
+        "origin": "China, Europe",
+        "production": "China",
+        "category": "Crassulaceae, Rhodiola",
+        "blooming": "Flowering period April-June, flowering period July-September",
+        "color": "Flower color red"
+    },
+    "display_pid": "Rhodiola rosea",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 20-30 cm",
+        "soil": "Deep and well-drained loam or sandy loam containing abundant humus in sunny places",
+        "sunlight": "Like adequate light, not fear of strong light",
+        "watering": "Water thoroughly after soil dries",
+        "fertilization": "Apply enough base fertilizers",
+        "pruning": "Remove dead and diseased branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7000,
+        "min_light_mmol": 5000,
+        "max_light_lux": 80000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\rhodiola rosea.jpg"
+}

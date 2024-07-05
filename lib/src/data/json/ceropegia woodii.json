@@ -1,0 +1,35 @@
+{
+    "pid": "ceropegia woodii",
+    "basic": {
+        "floral_language": "Ceropegia woodii\nFloriography: romantic, vigorous, tenacious\nHas a beautiful shape and climbing growth, leaves in heart shape, slightly fleshy, leaf surface marked by white and dark green colored patches, with abundant sunlight, leaves or even stems turn purple red, Often grow individually as a hanging plant, high ornamental value.\nLikes half shaded environments, need shade properly under scattered light and reduce watering under summer high temperature. Flowers when conditions are right, red brown color.",
+        "origin": "South Africa",
+        "production": "China",
+        "category": "Asclepiadaceae, Ceropegia",
+        "blooming": "Succulent plants, sometimes flowers, red brown flowers",
+        "color": "Leaf color purple red"
+    },
+    "display_pid": "Ceropegia woodii",
+    "maintenance": {
+        "size": "Diameter \u2265 2 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Like half shade, put in places with scattered light, avoid strong direct light",
+        "watering": "Resistant to drought, water thoroughly when leaves become soft, reduce watering in summer",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4000,
+        "min_light_mmol": 2000,
+        "max_light_lux": 35000,
+        "min_light_lux": 2500,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\ceropegia woodii.jpg"
+}

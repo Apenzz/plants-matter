@@ -1,0 +1,35 @@
+{
+    "pid": "quercus glauca",
+    "basic": {
+        "floral_language": "",
+        "origin": "United States",
+        "production": "Northern China",
+        "category": "Fagaceae, Quercus",
+        "blooming": "Flowering period April-May, fruiting period July to September",
+        "color": "Leaf color green , fruit color light brown"
+    },
+    "display_pid": "Quercus glauca",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height \u2265 25 cm",
+        "soil": "Likes sandy loam or well-drained slightly acidic soil",
+        "sunlight": "Like sunshine, slightly resistant to half shade",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3500,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\quercus glauca.jpg"
+}

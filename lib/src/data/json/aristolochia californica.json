@@ -1,0 +1,35 @@
+{
+    "pid": "aristolochia californica",
+    "basic": {
+        "floral_language": "",
+        "origin": "Asia",
+        "production": "Guangdong, Guangxi",
+        "category": "Aristolochiaceae, Aristolochia",
+        "blooming": "Flowering period July-August, fruiting period September-October",
+        "color": "Flower color yellow green"
+    },
+    "display_pid": "Aristolochia californica",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 20-30 cm",
+        "soil": "Likes sandy yellow soil",
+        "sunlight": "Like sunshine, slight shade tolerance",
+        "watering": "No need watering frequently",
+        "fertilization": "Atop-dressing nitrogen at the flowering stage twice, add phosphorus and potassium in middle to late August",
+        "pruning": "Remove excessively grown vines that have no flower buds"
+    },
+    "parameter": {
+        "max_light_mmol": 5000,
+        "min_light_mmol": 3500,
+        "max_light_lux": 50000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\aristolochia californica.jpg"
+}

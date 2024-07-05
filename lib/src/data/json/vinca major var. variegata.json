@@ -1,0 +1,35 @@
+{
+    "pid": "vinca major var. variegata",
+    "basic": {
+        "floral_language": "",
+        "origin": "Americas",
+        "production": "Southern China",
+        "category": "Apocynaceae, Vinca",
+        "blooming": "Flowering period February-April",
+        "color": "Flower color purple, light blue"
+    },
+    "display_pid": "Vinca major var. variegata",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height \u2265 20 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like sunshine, resistant to half shade",
+        "watering": "Water thoroughly after soil surface dries",
+        "fertilization": "Dilute fertilizers following instructions,  apply 1-2 times monthly",
+        "pruning": "Remove withered flowers, dead and diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6700,
+        "min_light_mmol": 2200,
+        "max_light_lux": 35000,
+        "min_light_lux": 1800,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 16,
+        "max_soil_ec": 1500,
+        "min_soil_ec": 250
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\vinca major var. variegata.jpg"
+}

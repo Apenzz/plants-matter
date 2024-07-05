@@ -1,0 +1,35 @@
+{
+    "pid": "morchella deliciosa",
+    "basic": {
+        "floral_language": "",
+        "origin": "China",
+        "production": "China",
+        "category": "Morchellaceae, Morchella",
+        "blooming": "Fungus, no flowering",
+        "color": "the body is brown"
+    },
+    "display_pid": "Morchella deliciosa",
+    "maintenance": {
+        "size": "Diameter\u22653cm\uff0cHeight\u22655cm",
+        "soil": "Weakly alkaline soil, rotten straw, sawdust, lime in mixture",
+        "sunlight": "Weak scattered light, avoid direct sunlight",
+        "watering": "Keep moist, spray water everyday",
+        "fertilization": "Add phosphatic fertilizer when planting",
+        "pruning": "Remove rotten parts timely"
+    },
+    "parameter": {
+        "max_light_mmol": 3000,
+        "min_light_mmol": 100,
+        "max_light_lux": 5000,
+        "min_light_lux": 100,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 95,
+        "min_env_humid": 65,
+        "max_soil_moist": 70,
+        "min_soil_moist": 30,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 100
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\morchella deliciosa.jpg"
+}

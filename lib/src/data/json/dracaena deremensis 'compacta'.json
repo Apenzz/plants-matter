@@ -1,0 +1,35 @@
+{
+    "pid": "dracaena deremensis 'compacta'",
+    "basic": {
+        "floral_language": "",
+        "origin": "Africa",
+        "production": "Southern China",
+        "category": "Agavaceae, Dracaena",
+        "blooming": "Foliage plants, rarely flowers",
+        "color": "Leaf color green , flower color light yellow"
+    },
+    "display_pid": "Dracaena deremensis 'Compacta'",
+    "maintenance": {
+        "size": "Diameter \u2265 15 cm, height \u2265 25 cm",
+        "soil": "Well ventilated sandy loam",
+        "sunlight": "Like half shade, put in places with scattered light",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2000,
+        "max_light_lux": 30000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\dracaena deremensis 'compacta'.jpg"
+}

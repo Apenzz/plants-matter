@@ -1,0 +1,35 @@
+{
+    "pid": "ornamental cucumis sativus",
+    "basic": {
+        "floral_language": "Ornamental Cucumis sativus \nFloriography: gentle, sunny, active\nHas juicy fruits, fresh green, the plant is shorter than regular cucumber, very good ornamental values and edibility. \nLikes sunshine, but shade properly under summer strong sunlight, fruit setting 1-2 weeks after flowering for 1-2 months.",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Cucurbitaceae, Cucumis",
+        "blooming": "Ornamental fruit and vegetable plants, planted year around, fruits 2-3 weeks after flowering, fruiting period 1-2 months",
+        "color": "Flower color yellow, fruit color emerald green"
+    },
+    "display_pid": "Ornamental Cucumis sativus",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 20 cm",
+        "soil": "Peat or soil with specific nutrients, pH value between 5.5-6.8",
+        "sunlight": "Likes sunshine",
+        "watering": "Need a lot of water, water thoroughly when soil is dry",
+        "fertilization": "Like fertilizer, dilute fertilizers following instructions, apply 2-3 times monthly",
+        "pruning": "Remove dead and yellowish leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 13000,
+        "min_light_mmol": 3800,
+        "max_light_lux": 75000,
+        "min_light_lux": 3200,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 75,
+        "min_soil_moist": 25,
+        "max_soil_ec": 2500,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\ornamental cucumis sativus.jpg"
+}

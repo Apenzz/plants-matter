@@ -1,0 +1,35 @@
+{
+    "pid": "sempervivum arachnoideum'rubrum'",
+    "basic": {
+        "floral_language": "Sempervivum arachnoideum'Rubrum' \nFloriography: self-reliant, confident, glamorous\nSempervivum arachnoideum'Rubrum' is a well-known fine succulent with a classical and grand appearance, has fleshy colorful leaves arranged in a rosette, whit adequate sunshine leaves are more compact and turn purple, so also known as \"purple peony\".\nLikes sunlight, take a short dormancy in summer, should shade properly under scattered light. Flowers sometimes with scapes from the middle of the plant with pink flower.",
+        "origin": "Europe",
+        "production": "China",
+        "category": "Crassulaceae, Sempervivum",
+        "blooming": "Succulent plants, sometimes flowers, pink flowers",
+        "color": "Leaf color green, when sunny leaf color turning to fuchsia"
+    },
+    "display_pid": "Sempervivum arachnoideum'Rubrum'",
+    "maintenance": {
+        "size": "Diameter 6-10 cm, height 5-15 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Like sunshine, a short period of dormancy in summer, use half shade for better care",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce water in summer",
+        "fertilization": "Dilute fertilizers following instructions,  apply once monthly in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 9700,
+        "min_light_mmol": 4300,
+        "max_light_lux": 90000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\sempervivum arachnoideum'rubrum'.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "liriodendron chinense",
+    "basic": {
+        "floral_language": "",
+        "origin": "China",
+        "production": "China",
+        "category": "Magnoliceae, Liriodendron",
+        "blooming": "Flowering period5\u6708\uff0cfruit period9-10\u6708",
+        "color": "Flower color yellow green"
+    },
+    "display_pid": "Liriodendron chinense",
+    "maintenance": {
+        "size": "Diameter\u226520cm\uff0cHeight\u226535cm",
+        "soil": "Acid or less acid soil",
+        "sunlight": "planted in sufficient sunlight",
+        "watering": "Water thoroughly when soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove flower stem, diseased and rotten leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7500,
+        "min_light_mmol": 3000,
+        "max_light_lux": 65000,
+        "min_light_lux": 2500,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\liriodendron chinense.jpg"
+}

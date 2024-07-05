@@ -1,0 +1,35 @@
+{
+    "pid": "metasequoia glyptostroboides",
+    "basic": {
+        "floral_language": "",
+        "origin": "China",
+        "production": "Adjacent areas of Hubei, Chongqing, Hunan",
+        "category": "Taxodiaceae, Metasequoia",
+        "blooming": "Flowering period February, fruiting period November",
+        "color": "Leaf color light green, fruit color green, dark brown"
+    },
+    "display_pid": "Metasequoia glyptostroboides",
+    "maintenance": {
+        "size": "Diameter \u2265 15 cm, height \u2265 30 cm",
+        "soil": "Acidic soil with loose texture or soil with specific nutrients",
+        "sunlight": "Like sunshine, slight shade tolerance",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Pruning accordingly for any favorate tree shapes"
+    },
+    "parameter": {
+        "max_light_mmol": 5000,
+        "min_light_mmol": 3500,
+        "max_light_lux": 50000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\metasequoia glyptostroboides.jpg"
+}

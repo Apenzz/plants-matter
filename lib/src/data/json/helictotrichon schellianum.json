@@ -1,0 +1,35 @@
+{
+    "pid": "helictotrichon schellianum",
+    "basic": {
+        "floral_language": "",
+        "origin": "China, Former Soviet Union",
+        "production": "NorthEast China, North China, Gansu, Xingjiang, Qinghai, Sichuan, Yunnan",
+        "category": "Gramineae, Helictotrichon",
+        "blooming": "Flowering period June-September",
+        "color": "Flower colorlight brown"
+    },
+    "display_pid": "Helictotrichon schellianum",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 20-30 cm",
+        "soil": "Loose, fertile, high water permeability planting materials",
+        "sunlight": "Like sunshine, resistant to half shade",
+        "watering": "2-3 times every week",
+        "fertilization": "Apply low concentration liquid fertilizers weekly",
+        "pruning": "Remove dead and diseased branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\helictotrichon schellianum.jpg"
+}

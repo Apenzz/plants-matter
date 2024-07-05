@@ -1,0 +1,35 @@
+{
+    "pid": "aeschynanthus lobbianus",
+    "basic": {
+        "floral_language": "",
+        "origin": "Java, MalayPeninsula, Kalimantan",
+        "production": "Southern China",
+        "category": "Gesneriaceae, Aeschynanthus",
+        "blooming": "Flowering period in summer",
+        "color": "Flower color red, leaf color green"
+    },
+    "display_pid": "Aeschynanthus lobbianus",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Slightly acidic soil with loose texture or soil with specific nutrients",
+        "sunlight": "Likes half shade, grows with bright scattered light",
+        "watering": "Water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely\uff1bremove peduncle after flowering"
+    },
+    "parameter": {
+        "max_light_mmol": 4300,
+        "min_light_mmol": 2000,
+        "max_light_lux": 20000,
+        "min_light_lux": 1800,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\aeschynanthus lobbianus.jpg"
+}

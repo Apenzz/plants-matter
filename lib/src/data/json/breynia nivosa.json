@@ -1,0 +1,35 @@
+{
+    "pid": "breynia nivosa",
+    "basic": {
+        "floral_language": "",
+        "origin": "Bolivia",
+        "production": "Southern China",
+        "category": "Euphorbiaceae, Breynia",
+        "blooming": "Flowering period during summer and autumn",
+        "color": "Flower color red, orange; leaf color green with white or pink spots"
+    },
+    "display_pid": "Breynia nivosa",
+    "maintenance": {
+        "size": "Diameter\u226510cm\uff0cHeight\u226515cm",
+        "soil": "Loose, fertile, and well-drained loam soil",
+        "sunlight": "Enjoy sufficient sunlight, and resistant to half shade",
+        "watering": "Resistant to drought, water thoroughly when soil surface is dry",
+        "fertilization": "Fertilize every 15 days during spring and autumn",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7100,
+        "min_light_mmol": 2400,
+        "max_light_lux": 45000,
+        "min_light_lux": 1500,
+        "max_temp": 30,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 50
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\breynia nivosa.jpg"
+}

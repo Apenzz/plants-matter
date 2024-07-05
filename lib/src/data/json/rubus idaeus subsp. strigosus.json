@@ -1,0 +1,35 @@
+{
+    "pid": "rubus idaeus subsp. strigosus",
+    "basic": {
+        "floral_language": "",
+        "origin": "The North Temperate Zone",
+        "production": "China",
+        "category": "Rosaceae, Rubus",
+        "blooming": "Flowering period March-April, fruiting period May-June",
+        "color": "Flower color white, fruit color red, golden, black"
+    },
+    "display_pid": "Rubus idaeus subsp. strigosus",
+    "maintenance": {
+        "size": "Diameter \u2265 15 cm, height \u2265 25 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like sunshine, grows in sunny places",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove old, diseased and dead leaves timely, after flowering remove the upper part staring from 5 cm above soil surface, leaving 3-5 leaves"
+    },
+    "parameter": {
+        "max_light_mmol": 5000,
+        "min_light_mmol": 3500,
+        "max_light_lux": 50000,
+        "min_light_lux": 4000,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\rubus idaeus subsp. strigosus.jpg"
+}

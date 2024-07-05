@@ -1,0 +1,35 @@
+{
+    "pid": "zephyranthes candida",
+    "basic": {
+        "floral_language": "Zephyranthes candida \nFloriography: pure, soft, graceful\nZephyranthes candida is an herb, looks like orchids, very graceful, has slender line-like leaves, 6-petal flowers raised above the foliage on top of scape, white as snow. Suitable for flower beds or potted plants for indoor environments.\nZephyranthes candida likes sunny environments, also resistant to half shade. Flowers from June to August with a period of flower viewing 2-3 weeks.",
+        "origin": "South Africa",
+        "production": "China",
+        "category": "Amaryllidaceae, Zephyranthes",
+        "blooming": "Flowering period June-August, viewing period 2-3 weeks",
+        "color": "Flower color white"
+    },
+    "display_pid": "Zephyranthes candida",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like adequate light, resistant to half shade",
+        "watering": "Water thoroughly after soil surface dries",
+        "fertilization": "Dilute fertilizers following instructions, in summer and autumn apply fertilizers once monthly",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5500,
+        "min_light_mmol": 2300,
+        "max_light_lux": 45000,
+        "min_light_lux": 2000,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\zephyranthes candida.jpg"
+}

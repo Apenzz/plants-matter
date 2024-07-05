@@ -1,0 +1,35 @@
+{
+    "pid": "begonia havana 'rose 865'",
+    "basic": {
+        "floral_language": "Begonia grandis \nFloriography: hearty, tender, sincere\nBegonia grandis Dry has clustered delicate flowers with bright and vivid colors. Often used for indoor decoration or flower beds.\nBegonia grandis prefers gentle sunlight, tolerates half shade. May bloom all year round, with peak times in spring, autumn and winter.",
+        "origin": "China",
+        "production": "China",
+        "category": "Begoniaceae, Begonia",
+        "blooming": "Flowers year around, viewing period 2-3 weeks",
+        "color": "Flower color pink"
+    },
+    "display_pid": "Begonia Havana 'Rose 865'",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 15-18 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes moderate sunshine, avoid direct strong light, slight shade tolerance",
+        "watering": "Water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply 2-3 times monthly",
+        "pruning": "Remove old, diseased, dead leaves and withered flowers timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4800,
+        "min_light_mmol": 2400,
+        "max_light_lux": 35000,
+        "min_light_lux": 2000,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\begonia havana 'rose 865'.jpg"
+}

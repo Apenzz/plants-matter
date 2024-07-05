@@ -1,0 +1,35 @@
+{
+    "pid": "primula poissonii",
+    "basic": {
+        "floral_language": "",
+        "origin": "China\uff0cJapanese\uff0c\u671d\u9c9c",
+        "production": "North China",
+        "category": "Caprifoliaceae, Weigela",
+        "blooming": "Flowering period May-June",
+        "color": "Flower color purple red or white"
+    },
+    "display_pid": "Primula poissonii",
+    "maintenance": {
+        "size": "Diameter\u226520cm\uff0cHeight\u226525cm",
+        "soil": "Loose, fertile, and well-drained loam soil",
+        "sunlight": "Enjoy sunlight, resistant to half shade",
+        "watering": "Water thoroughly when soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove flower stem, diseased and rotten leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 75000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 20,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 150
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\primula poissonii.jpg"
+}

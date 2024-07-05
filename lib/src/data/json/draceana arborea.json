@@ -1,0 +1,35 @@
+{
+    "pid": "draceana arborea",
+    "basic": {
+        "floral_language": "",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Liliaceae, Dracaena",
+        "blooming": "Foliage plants, rarely flowers",
+        "color": "Leaf color green , some variety with yellow stripes"
+    },
+    "display_pid": "Draceana arborea",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like half shade, resistant to shade, put in places with scattered light",
+        "watering": "Water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions,  in early summer, spring and autumn apply fertilizers once monthly",
+        "pruning": "Remove yellowing leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 3500,
+        "min_light_mmol": 1500,
+        "max_light_lux": 7000,
+        "min_light_lux": 2000,
+        "max_temp": 32,
+        "min_temp": 6,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\draceana arborea.jpg"
+}

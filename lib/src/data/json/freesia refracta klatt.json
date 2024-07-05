@@ -1,0 +1,35 @@
+{
+    "pid": "freesia refracta klatt",
+    "basic": {
+        "floral_language": "",
+        "origin": "China and Japanese",
+        "production": "China",
+        "category": "Iridaceae, Iris",
+        "blooming": "Flowering period January-May",
+        "color": "Flower color blue and white"
+    },
+    "display_pid": "Freesia refracta Klatt",
+    "maintenance": {
+        "size": "Diameter\u226515cm\uff0cHeight\u226525cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like mild sunlight, resistant to half shade\uff0cavoid strong sunlight",
+        "watering": "Like wet, water thoroughly when soil surface is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove flower stem, diseased and rotten leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4800,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3500,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 18,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 180
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\freesia refracta klatt.jpg"
+}

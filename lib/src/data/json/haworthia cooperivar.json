@@ -1,0 +1,35 @@
+{
+    "pid": "haworthia cooperivar",
+    "basic": {
+        "floral_language": "Haworthia cooperivar \nFloriography: crystal-clear, pure, elegant\nHas crystal-clear and bright leaves, fresh green and shinning, marked by several longitudinal stripes, fleshy leaves closely arranged in a rosette, nearly on the same plane, cute and lovely, suitable for desks, tables, and windowsills, very high ornamental value,\nLikes gentle sunshine, avoid direct strong sunlight, has a short dormant period under summer high temperature, need shade properly under scattered light. Flowers are white.",
+        "origin": "South Africa",
+        "production": "China",
+        "category": "Liliaceae, Haworthia",
+        "blooming": "Succulent plants, sometimes flowers, white flowers",
+        "color": "Leaf color green to gray green, leaf turns light red brown with too much strong light"
+    },
+    "display_pid": "Haworthia cooperivar",
+    "maintenance": {
+        "size": "Diameter \u2265 5 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Use half shade for care, put in places with scattered light",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce water in summer",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 3000,
+        "min_light_mmol": 1100,
+        "max_light_lux": 25000,
+        "min_light_lux": 900,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\haworthia cooperivar.jpg"
+}

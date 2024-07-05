@@ -1,0 +1,35 @@
+{
+    "pid": "greenovia diplocycla var.gigantea",
+    "basic": {
+        "floral_language": "Greenovia diplocycla var.gigantea\nFloriography: perseverance, vigorous, beautiful\nGreenovia diplocycla var.gigantea looks like a flower with green oval leaves of smoothly curved edges. When in summer dormancy, leaves will close tightly, like a rose. Strong reproductive ability, may plant alone.\nLikes sunny places with half-shade tolerance, hibernates under high temperatures in summer, should shade properly and stop watering. Flowers sometimes with yellow flowers.",
+        "origin": "Africa",
+        "production": "China",
+        "category": "Crassulaceae, Aeonium",
+        "blooming": "Succulent plants, sometimes flowers, yellow flowers",
+        "color": "Leaf color green"
+    },
+    "display_pid": "Greenovia diplocycla var.gigantea",
+    "maintenance": {
+        "size": "Diameter \u2265 2 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Like sunshine, resistant to half shade, dormant under high temperature in summer",
+        "watering": "Water thoroughly when soil is dry, avoid saturated water, stop watering when in summer dormancy",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7200,
+        "min_light_mmol": 3000,
+        "max_light_lux": 75000,
+        "min_light_lux": 2500,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 200
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\greenovia diplocycla var.gigantea.jpg"
+}

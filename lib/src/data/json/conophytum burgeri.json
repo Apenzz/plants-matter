@@ -1,0 +1,35 @@
+{
+    "pid": "conophytum burgeri",
+    "basic": {
+        "floral_language": "Conophytum burgeri\nFloriography: exquisite, pure, lovely\nVery cute and lovely, the whole plant has a half spherical shape, single bodied leaf is bright green, half transparent, shinning like a light bulb, sometimes with a tip, like a volcano, very unique, suitable for growing alone or in combinations with other small succulents. \nLikes sunshine, has a short dormant period under summer high temperature, need shade properly under scattered light. Flowers are purple red.",
+        "origin": "South Africa",
+        "production": "China",
+        "category": "Aizoaceae, Conophytum",
+        "blooming": "Succulent plants, sometimes flowers, purple red flowers",
+        "color": "Leaf color tender green, when sunny leaf turns red"
+    },
+    "display_pid": "Conophytum burgeri",
+    "maintenance": {
+        "size": "Diameter \u2265 2 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Like sunshine, go into decrustation when dormant under high temperature in summer, put in places with scattered light",
+        "watering": "Water thoroughly when soil is dry, reduce water during decrustation in summer",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove old leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\conophytum burgeri.jpg"
+}

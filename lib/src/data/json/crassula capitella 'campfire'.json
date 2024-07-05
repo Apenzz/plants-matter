@@ -1,0 +1,35 @@
+{
+    "pid": "crassula capitella 'campfire'",
+    "basic": {
+        "floral_language": "Crassula capitella 'Campfire'\nFloriography: passion, vitality, and beauty \nCampfire is a succulent plant, growing in bushes easily to produce collateral branches. The leaves are flat, with short teeth at the edge. The leaf color is yellow green. In cool season and when sunlight is sufficient, leaves turn red, making one feel passionate. \nCampfire like plenty of sunshine, semi shadow resistance. In hot summer, it enters a short dormancy, so place in the shade. It is blossoming from June to July with yellow-white flowers.",
+        "origin": "South Africa",
+        "production": "Yunnan",
+        "category": "Crassulaceae, Crassula",
+        "blooming": "Succulent plants, sometimes flowers, yellow white flowers",
+        "color": "Leaf color yellow green, when sunny leaf color turning to red"
+    },
+    "display_pid": "Crassula capitella 'Campfire'",
+    "maintenance": {
+        "size": "Diameter 6-10 cm, height 5-15 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, and resistant to half shade, short period of dormancy in summer, use half shade for better care",
+        "watering": "Water thoroughly 2 times during summer dormancy, keep soil moist in other time, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions,  apply once monthly in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7500,
+        "min_light_mmol": 3700,
+        "max_light_lux": 75000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\crassula capitella 'campfire'.jpg"
+}

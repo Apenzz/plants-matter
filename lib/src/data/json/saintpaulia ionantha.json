@@ -1,0 +1,35 @@
+{
+    "pid": "saintpaulia ionantha",
+    "basic": {
+        "floral_language": "",
+        "origin": "East Africa",
+        "production": "China",
+        "category": "Gesneriaceae, Saintpaulia",
+        "blooming": "Flowering period year around",
+        "color": "Flower color purple, white, pink"
+    },
+    "display_pid": "Saintpaulia ionantha",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 10 cm",
+        "soil": "Likes loose and breathable soil, peat with some perlite",
+        "sunlight": "Like adequate sunlight in winter, put in places with bright scattered light in summer",
+        "watering": "Water thoroughly when soil is dry",
+        "fertilization": "Need more fertilization, dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove dead and yellowish leaves and withered flowers"
+    },
+    "parameter": {
+        "max_light_mmol": 4000,
+        "min_light_mmol": 2000,
+        "max_light_lux": 20000,
+        "min_light_lux": 3000,
+        "max_temp": 30,
+        "min_temp": 10,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\saintpaulia ionantha.jpg"
+}

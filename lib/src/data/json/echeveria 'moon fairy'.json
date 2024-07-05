@@ -1,0 +1,35 @@
+{
+    "pid": "echeveria 'moon fairy'",
+    "basic": {
+        "floral_language": "Echeveria 'Moon Fairy' \nFloriography: self-reliant, confident, pure\nIs a classical and grand succulent plant, with fleshy leaves in a rosette, leaf surface covered by a layer of white powders, with adequate sunlight, leaf edges turn pink, like a little fairy. \nLikes sunlight. Flowers sometimes with a scape forming in the middle of the plant, flowers are orange color.",
+        "origin": "Yunan",
+        "production": "China",
+        "category": "Crassulaceae, Echeveria",
+        "blooming": "Succulent plants, sometimes flowers, orange flowers",
+        "color": "Leaf color green, with adequate sunlight, lower leaf edges turning to pink"
+    },
+    "display_pid": "Echeveria 'Moon Fairy'",
+    "maintenance": {
+        "size": "Diameter \u2265 5 cm, height 5-20 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes adequate sunshine, not afraid of strong sunlight, when in a short period of dormancy in summer, reduce water and shade properly",
+        "watering": "Do not water frequently, keep a dry environment, water every 10-15 days",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly",
+        "pruning": "Remove withered and dead leaves and excessive daughter plants"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\echeveria 'moon fairy'.jpg"
+}

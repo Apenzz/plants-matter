@@ -1,0 +1,35 @@
+{
+    "pid": "caryota ochlandra",
+    "basic": {
+        "floral_language": "Caryota ochlandra \nFloriography: blessed, pretty, perseverance\nCaryota ochlandra Hance is from sub-tropical regions, but with a tropical flavor. It is a tree, bigger and taller than common foliage plants with thick leaves of fine serrated edges shaped like a fish. Often planted as ornamental trees in the yard, street, and parks.\nCaryota ochlandra likes half shade, avoid direct sunlight in summer, while in winter it can take 3-4 hours sunlight. When conditions are right, blooms in May to July with yellow flowers.",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Palmae, Chrysalidocarpus",
+        "blooming": "Foliage plants, sometimes flowers in May-July, yellow flowers",
+        "color": "Leaf color green"
+    },
+    "display_pid": "Caryota ochlandra",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 10 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like half shade, in winter may take 3-4h sunlight",
+        "watering": "Likes wet environments, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn",
+        "pruning": "Remove dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 3500,
+        "min_light_mmol": 1500,
+        "max_light_lux": 7000,
+        "min_light_lux": 2000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\caryota ochlandra.jpg"
+}

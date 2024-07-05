@@ -1,0 +1,35 @@
+{
+    "pid": "ribes rubrum",
+    "basic": {
+        "floral_language": "",
+        "origin": "Europe",
+        "production": "Southwest China, Northwest China, NorthEast China",
+        "category": "Ribesiaceae, Ribes",
+        "blooming": "Flowering period May-June, flowering period July-August",
+        "color": "Flower color light red, fruit color red"
+    },
+    "display_pid": "Ribes rubrum",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 20-30 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like sunshine, resistant to half shade",
+        "watering": "Water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Apply plenty base fertilizer, apply little in the seedling stage, top-dressing chemical fertilizers in peak growth stages if needed",
+        "pruning": "Remove dead and diseased branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\ribes rubrum.jpg"
+}

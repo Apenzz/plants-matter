@@ -1,0 +1,35 @@
+{
+    "pid": "crassula rogersii",
+    "basic": {
+        "floral_language": "Crassula rogersii \nFloriography: lovely, brave, gentle\nHas leaves in half olive shape covered with dense hairs, in a cool season with adequate light, leaves turn red, and more plump. May be grown individually in a pot. When in a water stress, branches become woodier with a more charming look. \nLikes sunny places, take a short sleep in summer, need reduce watering and shade properly under B116scattered light and water control. Flowers sometimes with light green flowers.",
+        "origin": "South Africa",
+        "production": "China",
+        "category": "Crassulaceae, Crassula",
+        "blooming": "Succulent plants, sometimes flowers, light green flowers",
+        "color": "Leaf color green, with strong light leaf turn to red"
+    },
+    "display_pid": "Crassula rogersii",
+    "maintenance": {
+        "size": "Diameter 6-10 cm, height 5-15 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Like sunshine, a short period of dormancy in summer, use half shade for better care",
+        "watering": "Do not water frequently, keep a dry environment, water every 7-10 days",
+        "fertilization": "Dilute fertilizers following instructions, apply once every month",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7000,
+        "min_light_mmol": 5000,
+        "max_light_lux": 80000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\crassula rogersii.jpg"
+}

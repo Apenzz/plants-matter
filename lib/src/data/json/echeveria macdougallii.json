@@ -1,0 +1,35 @@
+{
+    "pid": "echeveria macdougallii",
+    "basic": {
+        "floral_language": "Echeveria macdougallii\nFloriography:pink, exquisite, pure\nEcheveria macdougallii has smooth, long oval leave with slight tip at top, loosely arranged in a rosette form. In cool and sunny season, leaves turn red, otherwise green. Quite popular recently for the bright colors and high ornamental value.\nEcheveria macdougallii likes light, no apparent dormancy, avoid strong sunlight in summer noon time. Sometimes blooms with orange flowers.",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, Echeveria",
+        "blooming": "Succulent plants, sometimes flowers, orange red flowers",
+        "color": "Leaf color green, when sunny leaf color turning to red"
+    },
+    "display_pid": "Echeveria macdougallii",
+    "maintenance": {
+        "size": "Diameter \u2265 3 cm, height \u2265 10 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes adequate light, no apparent period of dormancy, shade properly under summer strong light",
+        "watering": "Resistant to drought, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once every month",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7000,
+        "min_light_mmol": 5000,
+        "max_light_lux": 80000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\echeveria macdougallii.jpg"
+}

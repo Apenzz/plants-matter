@@ -1,0 +1,35 @@
+{
+    "pid": "equisetum fluviatile",
+    "basic": {
+        "floral_language": "",
+        "origin": "Asia, Europe",
+        "production": "NorthEast China, North China",
+        "category": "Equisetaceae, Equisetum",
+        "blooming": "No flowering no fruiting, multiplication by spores",
+        "color": "Leaf color green"
+    },
+    "display_pid": "Equisetum fluviatile",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 15-18 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes direct sunlight",
+        "watering": "Water every 2 days",
+        "fertilization": "No need fertilization",
+        "pruning": "No need pruning"
+    },
+    "parameter": {
+        "max_light_mmol": 2500,
+        "min_light_mmol": 1200,
+        "max_light_lux": 6000,
+        "min_light_lux": 1500,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\equisetum fluviatile.jpg"
+}

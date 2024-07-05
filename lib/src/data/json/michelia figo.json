@@ -1,0 +1,35 @@
+{
+    "pid": "michelia figo",
+    "basic": {
+        "floral_language": "Michelia champaca\nFloriography: reserved, pure, solemn.\nMichelia champaca is an evergreen plant which grows sturdy, tall and straight stem. Leaves are round oval and leathery. Flowers are strongly fragrant with six thick petals. Widely cultivated for its enjoyable fragrance.\nThe plant grows best under shading places. Direct bright sunlight should be avoid. Blooms in May to September for two to three weeks.",
+        "origin": "China",
+        "production": "China",
+        "category": "Magnoliaceae, Michelia",
+        "blooming": "Flowering period March-May, viewing period 2-3 weeks",
+        "color": "Flower color white, light yellow, light purple"
+    },
+    "display_pid": "Michelia figo",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes weak shade environments, avoid direct strong light",
+        "watering": "Water thoroughly when soil is dry, reduce watering in winter",
+        "fertilization": "Dilute fertilizers following instructions,  apply 1-2 times monthly in spring, except flowering stages",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5200,
+        "min_light_mmol": 2500,
+        "max_light_lux": 50000,
+        "min_light_lux": 2500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\michelia figo.jpg"
+}

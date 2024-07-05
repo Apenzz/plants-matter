@@ -1,0 +1,35 @@
+{
+    "pid": "schefflera impressa",
+    "basic": {
+        "floral_language": "Schefflera impressa\nFloriography: optimistic, easygoing, natural\nSchefflera impressa is an evergreen foliage plant from tropical or sub-tropical rainforests. Has many branches, tightly arranged with oval, leathery leaflets forming a palm-shape. Ideal environments such as office space, conference room, living room, where the light is not strong.\nResists to half shade, suitable for a place with bright scattered light. With good care, may flower in November-December, yellow-green flowers.",
+        "origin": "Subtropical rainforests",
+        "production": "China",
+        "category": "Araliaceae, Schefflera",
+        "blooming": "Foliage plants, sometimes flowers in November-December, yellow green flowers",
+        "color": "Leaf color dark green"
+    },
+    "display_pid": "Schefflera impressa",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat mixed with coarse sand soil",
+        "sunlight": "Relatively resistant to shade, likes half shade environments",
+        "watering": "Likes wet environments, keep it relatively wet rather than dry, reduce watering in winter",
+        "fertilization": "Dilute fertilizers following instructions,  in March to September, fertilize once to twice a month",
+        "pruning": "Remove dead and yellowish leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 3400,
+        "min_light_mmol": 1500,
+        "max_light_lux": 18000,
+        "min_light_lux": 1000,
+        "max_temp": 32,
+        "min_temp": 6,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\schefflera impressa.jpg"
+}

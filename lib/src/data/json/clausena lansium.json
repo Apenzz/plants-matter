@@ -1,0 +1,35 @@
+{
+    "pid": "clausena lansium",
+    "basic": {
+        "floral_language": "",
+        "origin": "China",
+        "production": "Southern China",
+        "category": "Rutaceae, Clausena",
+        "blooming": "Flowering period April-May, fruiting period July-September",
+        "color": "Flower color white, fruit color golden yellow"
+    },
+    "display_pid": "Clausena lansium",
+    "maintenance": {
+        "size": "Height can reach 12 m",
+        "soil": "Soil with loose texture or soil with specific nutrients",
+        "sunlight": "Likes light, more resistant to shade, place in sunny places",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 2-3 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 9500,
+        "min_light_mmol": 4300,
+        "max_light_lux": 85000,
+        "min_light_lux": 3800,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 20,
+        "max_soil_ec": 2500,
+        "min_soil_ec": 100
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\clausena lansium.jpg"
+}

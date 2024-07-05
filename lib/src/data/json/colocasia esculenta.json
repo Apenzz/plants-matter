@@ -1,0 +1,35 @@
+{
+    "pid": "colocasia esculenta",
+    "basic": {
+        "floral_language": "",
+        "origin": "China, India, Malay Peninsula",
+        "production": "China",
+        "category": "Araceae, Colocasia",
+        "blooming": "Flowering period February-April or August-September",
+        "color": "Bract color light yellow to white"
+    },
+    "display_pid": "Colocasia esculenta",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 20-30 cm",
+        "soil": "Planted in paddy field or dry land with deep fertile clay soil with high water retention",
+        "sunlight": "Like sunlight, and resistant to half shade",
+        "watering": "Need a lot of water",
+        "fertilization": "Apply enough base fertilizers",
+        "pruning": "Remove dead and diseased branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 15000,
+        "min_light_mmol": 3000,
+        "max_light_lux": 95000,
+        "min_light_lux": 2000,
+        "max_temp": 37,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 80,
+        "min_soil_moist": 30,
+        "max_soil_ec": 2500,
+        "min_soil_ec": 150
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\colocasia esculenta.jpg"
+}

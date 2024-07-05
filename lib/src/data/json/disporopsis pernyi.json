@@ -1,0 +1,35 @@
+{
+    "pid": "disporopsis pernyi",
+    "basic": {
+        "floral_language": "",
+        "origin": "China",
+        "production": "China",
+        "category": "Liliaceae, Disporopsis",
+        "blooming": "Flowering period April-May, fruiting period November-December",
+        "color": "Flower color white, fruit color dark purple"
+    },
+    "display_pid": "Disporopsis pernyi",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 15-20 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like half shade, may grow in places with bright scattered light",
+        "watering": "Only need keep soil moist",
+        "fertilization": "Apply enough base fertilizers",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4000,
+        "min_light_mmol": 2000,
+        "max_light_lux": 20000,
+        "min_light_lux": 3700,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\disporopsis pernyi.jpg"
+}

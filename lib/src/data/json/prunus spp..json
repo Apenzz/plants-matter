@@ -1,0 +1,35 @@
+{
+    "pid": "prunus spp.",
+    "basic": {
+        "floral_language": "Prunus spp. \nFloriography: wisdom, purity, and noble \nPrunus spp. is beautiful, revered as the national flower of Japan. \nPrunus spp. is a kind of trees, which is tall and pretty. Leaf blade elliptic, flowers and leaves bloom at the same time or flower blooming after leaves, has single and double petals, color is pure and fresh quietly elegant. Often used for ornamental, and also production of bonsai. \nPrunus spp. like sufficient sunlight, natural flowering from March to April, ornamental period for 2-3 weeks.",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Rosaceae, Cerasus",
+        "blooming": "Flowering period March-April, viewing period 2-3 weeks",
+        "color": "Flower color white or pink"
+    },
+    "display_pid": "Prunus spp.",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes adequate sunshine",
+        "watering": "Water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions,  apply 1-2 times monthly in spring, once after flowering",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6800,
+        "min_light_mmol": 3300,
+        "max_light_lux": 50000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\prunus spp..jpg"
+}

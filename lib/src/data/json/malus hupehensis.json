@@ -1,0 +1,35 @@
+{
+    "pid": "malus hupehensis",
+    "basic": {
+        "floral_language": "Malus hupehensis\nFloriography: beautiful, warm, tall \nThe tree full of flowers, flower color is gorgeous, and flowers are fragrant, small and lovely. The fruits are red and edible as fresh. The flower is a symbol of wealth and auspicious. Chinese flowering along with peony, means \"Full of riches and honor\". The tree is often used as garden beautification and courtyard greening. \nThe plants like abundant sunshine and flowering from March to May, ornamental period for 2-3 weeks.",
+        "origin": "China",
+        "production": "China",
+        "category": "Rosaceae, Malus\\Chaenomeles",
+        "blooming": "Flowering period March-May, viewing period 2-3 weeks",
+        "color": "Flower color white, peach red, orange"
+    },
+    "display_pid": "Malus hupehensis",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon",
+        "watering": "Water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions,  apply 1-2 times monthly in spring",
+        "pruning": "Remove old, diseased, dead leaves and withered flowers timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5400,
+        "min_light_mmol": 3000,
+        "max_light_lux": 60000,
+        "min_light_lux": 2500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\malus hupehensis.jpg"
+}

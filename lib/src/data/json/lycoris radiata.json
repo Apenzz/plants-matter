@@ -1,0 +1,35 @@
+{
+    "pid": "lycoris radiata",
+    "basic": {
+        "floral_language": "Lycoris radiata \nFloriography: sincere, enthusiastic, beautiful\nLycoris radiata is a bulbous plant. Huge flowers, graceful, like dragon claws, has multiple colors, is a beautiful ornamental plant.\nLycoris radiata likes moderate sunlight, suitable under bright scattered light, short summer dormancy. Flowering period in September to October over 2-3 weeks. After the flowers fade, keep the bulbs for germination in the next spring.",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Amaryllidaceae, Lycoris",
+        "blooming": "Flowering period September-October, viewing period 2-3 weeks",
+        "color": "Flower color red, pink, yellow"
+    },
+    "display_pid": "Lycoris radiata",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like moderate light, resistant to half shade, best under bright scattered light",
+        "watering": "Water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 22500,
+        "min_light_lux": 1500,
+        "max_temp": 32,
+        "min_temp": 4,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\lycoris radiata.jpg"
+}

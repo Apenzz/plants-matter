@@ -1,0 +1,35 @@
+{
+    "pid": "asclepias tuberosa",
+    "basic": {
+        "floral_language": "",
+        "origin": "Tropical Americas",
+        "production": "Taiwan",
+        "category": "Asclepiadaceae, Asclepias",
+        "blooming": "Flowering period nearly year around, fruiting period August-December",
+        "color": "Flower color orange, yellow"
+    },
+    "display_pid": "Asclepias tuberosa",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 15-20 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like sufficient sunlight",
+        "watering": "Only need keep soil moist",
+        "fertilization": "Apply enough base fertilizers",
+        "pruning": "In spring pruning and remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5000,
+        "min_light_mmol": 3500,
+        "max_light_lux": 50000,
+        "min_light_lux": 3700,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\asclepias tuberosa.jpg"
+}

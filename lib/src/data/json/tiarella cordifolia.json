@@ -1,0 +1,35 @@
+{
+    "pid": "tiarella cordifolia",
+    "basic": {
+        "floral_language": "",
+        "origin": "Eastern Asia",
+        "production": "China",
+        "category": "Saxifragaceae, Tiarella",
+        "blooming": "Flowering period June-July",
+        "color": "Flower color white"
+    },
+    "display_pid": "Tiarella cordifolia",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 20-30 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like half shade, may grow in places with bright scattered light",
+        "watering": "Water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Apply low concentration fertilizes with more times",
+        "pruning": "Remove dead and diseased branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4000,
+        "min_light_mmol": 2000,
+        "max_light_lux": 20000,
+        "min_light_lux": 3700,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\tiarella cordifolia.jpg"
+}

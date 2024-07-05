@@ -1,0 +1,35 @@
+{
+    "pid": "trifolium pratense",
+    "basic": {
+        "floral_language": "",
+        "origin": "Europe, North Africa",
+        "production": "China",
+        "category": "Leguminosae, Trifolium",
+        "blooming": "Flowering and fruiting period May-October",
+        "color": "Flower color red, white, yellow, purple, pink"
+    },
+    "display_pid": "Trifolium pratense",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 10-25 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Warm places with scattered light",
+        "watering": "Once every 2-4 days",
+        "fertilization": "No need fertilization",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2700,
+        "max_light_lux": 35000,
+        "min_light_lux": 1500,
+        "max_temp": 37,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\trifolium pratense.jpg"
+}

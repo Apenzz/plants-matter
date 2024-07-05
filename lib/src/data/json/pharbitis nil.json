@@ -1,0 +1,35 @@
+{
+    "pid": "pharbitis nil",
+    "basic": {
+        "floral_language": "",
+        "origin": "Tropical and subtropical zone",
+        "production": "China",
+        "category": "Convolvulaceae, Pharbitis",
+        "blooming": "Flowering period April-October, viewing period three-four weeks",
+        "color": "Flower color red, pink, purple or mixed color"
+    },
+    "display_pid": "Pharbitis nil",
+    "maintenance": {
+        "size": "Diameter\u226510cm\uff0cHeight\u226510cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Enjoy sufficient sunlight",
+        "watering": "Water thoroughly when soil surface is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove flower stem, diseased and rotten leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6800,
+        "min_light_mmol": 3200,
+        "max_light_lux": 65000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 250
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\pharbitis nil.jpg"
+}

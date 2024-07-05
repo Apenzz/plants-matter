@@ -1,0 +1,35 @@
+{
+    "pid": "hibiscus tiliaceus",
+    "basic": {
+        "floral_language": "",
+        "origin": "South Africa",
+        "production": "China",
+        "category": "Malvaceae, Hibiscus",
+        "blooming": "Flowering period June-August, viewing period two-three weeks",
+        "color": "Flower color yellow"
+    },
+    "display_pid": "Hibiscus tiliaceus",
+    "maintenance": {
+        "size": "Diameter\u226510cm\uff0cHeight\u226515cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Enjoy sufficient sunlight, resistant to shade",
+        "watering": "Water thoroughly when soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove flower stem, diseased and rotten leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 8500,
+        "min_light_mmol": 3000,
+        "max_light_lux": 70000,
+        "min_light_lux": 2300,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 20,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 150
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\hibiscus tiliaceus.jpg"
+}

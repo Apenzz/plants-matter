@@ -1,0 +1,35 @@
+{
+    "pid": "asparagus densiflorus",
+    "basic": {
+        "floral_language": "",
+        "origin": "South Africa",
+        "production": "China",
+        "category": "Liliaceae, Asparagus",
+        "blooming": "Flowering period May-June, fruiting period August-October",
+        "color": "Flower color white, grenn yellow, fruit color red\u3001blue\u3001dark black, black"
+    },
+    "display_pid": "Asparagus densiflorus",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, can climb",
+        "soil": "Soil with loose texture or special humus soil",
+        "sunlight": "Like shade environments, put in places with scattered light",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 2500,
+        "min_light_mmol": 1200,
+        "max_light_lux": 6000,
+        "min_light_lux": 1500,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\asparagus densiflorus.jpg"
+}

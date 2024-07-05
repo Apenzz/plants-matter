@@ -1,0 +1,35 @@
+{
+    "pid": "lonicera hildebrandiana",
+    "basic": {
+        "floral_language": "Lonicera hildebrandiana\nFloriography: pure, honest, selfless\nCan be used for herbal tea. The flower buds are like rods before opening, after opened, they are like trumpets, initially in white color, gradually turn yellow in 1-2 days, with slight sweet fragrance. the stamens and style are extending beyond the petals, look glamorous.\nLikes gentle sunshine, tolerates to half shade, can be place under bright scattered light, flowering in March-June for 3-4 weeks.",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Caprifoliaceae, Lonicera",
+        "blooming": "Flowering period March-June, viewing period 3-4 weeks",
+        "color": "Flower color pink or white"
+    },
+    "display_pid": "Lonicera hildebrandiana",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like moderat light, resistant to half shade",
+        "watering": "Water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions,  apply 1-2 times monthly in spring",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4000,
+        "min_light_mmol": 2000,
+        "max_light_lux": 35000,
+        "min_light_lux": 1500,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\lonicera hildebrandiana.jpg"
+}

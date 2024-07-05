@@ -1,0 +1,35 @@
+{
+    "pid": "cotyledon ladismithiensis var. iegata",
+    "basic": {
+        "floral_language": "Cotyledon ladismithiensis var. iegata\nFloriography: cute, elegant, introversive.\nSeveral \"teeth\" at the apex of each fleshy, fuzzy leaf give the appearance of \"bear claws\". Porous soil with adequate drainage. Bright light for best form with ample airflow enables the \u201cbear claws\u201d turning into red. \nThe plant prefers sunny habitat. Clusters of yellowish-orange bell-shaped flowers in late spring.",
+        "origin": "Africa",
+        "production": "China",
+        "category": "Crassulaceae, Cotyledon",
+        "blooming": "Succulent plants, blooms sometimes, with orange small flowers",
+        "color": "Leaf color green, with adequate sunlight, leaves edges turning to red brown"
+    },
+    "display_pid": "Cotyledon ladismithiensis var. iegata",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 10-15 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Summer is its dormant period, use shade for better car, spring and autumn are its growing seasons, need plenty of sunshine",
+        "watering": "Water 2 times during summer dormancy, 20ml water every time, keep soil moist in other time, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6500,
+        "min_light_mmol": 3000,
+        "max_light_lux": 70000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\cotyledon ladismithiensis var. iegata.jpg"
+}

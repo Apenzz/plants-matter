@@ -1,0 +1,35 @@
+{
+    "pid": "ficus religiosa",
+    "basic": {
+        "floral_language": "",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Moraceae, Ficus",
+        "blooming": "Flowering period March-April, fruit period May-June",
+        "color": "Flower color light yellow"
+    },
+    "display_pid": "Ficus religiosa",
+    "maintenance": {
+        "size": "Diameter\u226520cm\uff0cHeight20-30m",
+        "soil": "Loose, fertile, and well-drained loam soil",
+        "sunlight": "Enjoy sunlight, resistant to half shade",
+        "watering": "Water thoroughly when soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 13000,
+        "min_light_mmol": 3200,
+        "max_light_lux": 95000,
+        "min_light_lux": 3500,
+        "max_temp": 38,
+        "min_temp": 12,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 65,
+        "min_soil_moist": 20,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 30
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\ficus religiosa.jpg"
+}

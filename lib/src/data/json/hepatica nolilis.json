@@ -1,0 +1,35 @@
+{
+    "pid": "hepatica nolilis",
+    "basic": {
+        "floral_language": "",
+        "origin": "Japanese",
+        "production": "China",
+        "category": "Ranunculaceae, Hepatica",
+        "blooming": "Flowering period April-May, fruit period May-July",
+        "color": "Flower color purple, blue, pink and white"
+    },
+    "display_pid": "Hepatica nolilis",
+    "maintenance": {
+        "size": "Diameter\u226510cm\uff0cHeight\u226515cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like mild sunlight, resistant to half shade",
+        "watering": "Water thoroughly when soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove flower stem, diseased and rotten leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6600,
+        "min_light_mmol": 2500,
+        "max_light_lux": 50000,
+        "min_light_lux": 1800,
+        "max_temp": 34,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 20,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 100
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\hepatica nolilis.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "jacobinia velutina",
+    "basic": {
+        "floral_language": "",
+        "origin": "Brazil",
+        "production": "China",
+        "category": "Acanthaceae, Cyrtanthera",
+        "blooming": "Flowering period March-July",
+        "color": "Leaf color green , flower color pink"
+    },
+    "display_pid": "Jacobinia velutina",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 15-30 cm",
+        "soil": "Fertile loam rich in organic matter",
+        "sunlight": "Like adequate light, resistant to shade, avoid summer scorching sunlight",
+        "watering": "Likes wet environments, water thoroughly when soil is dry",
+        "fertilization": "Apply 1-2 times monthly in spring",
+        "pruning": "Remove withered flowers, diseased and yellowing leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\jacobinia velutina.jpg"
+}

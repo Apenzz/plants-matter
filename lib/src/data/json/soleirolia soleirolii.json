@@ -1,0 +1,35 @@
+{
+    "pid": "soleirolia soleirolii",
+    "basic": {
+        "floral_language": "",
+        "origin": "Tropical areas",
+        "production": "Southern China",
+        "category": "Urticaceae, Pilea",
+        "blooming": "Foliage plants, viewing period year around",
+        "color": "Leaf color green in the upper surface, lower surface green"
+    },
+    "display_pid": "Soleirolia soleirolii",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Soil with loose texture or soil with specific nutrients",
+        "sunlight": "Likes half shade, grows with bright scattered light",
+        "watering": "Likes wet environments, water thoroughly when soil is dry , may spray water on the leaves in summer",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Resistant to pruning, remove dead and rotten leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 2700,
+        "min_light_mmol": 800,
+        "max_light_lux": 22500,
+        "min_light_lux": 700,
+        "max_temp": 32,
+        "min_temp": 12,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 18,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 100
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\soleirolia soleirolii.jpg"
+}

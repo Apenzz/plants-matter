@@ -1,0 +1,35 @@
+{
+    "pid": "sedeveria 'markus'",
+    "basic": {
+        "floral_language": "Sedeveria 'Markus' \nFloriography: cheerful, confident, sunny\nHas fleshy yellow green leaves closely arranged in a rosette, with enough sunlight, leaves turn golden yellow and leaf edges turn red. Can be used in a combination with other delicate and cute plants for micro landscaping, favored by many people. \nLikes sunlight, when in summer dormancy, place it under scattered light, rarely flowers, pale yellow color.",
+        "origin": "Yunan",
+        "production": "China",
+        "category": "Crassulaceae, Sedum",
+        "blooming": "Succulent plants, sometimes flowers, light yellow flowers",
+        "color": "Leaf color yellow green, when sunny leaf color turning to red, green if not sufficient"
+    },
+    "display_pid": "Sedeveria 'Markus'",
+    "maintenance": {
+        "size": "Diameter \u2265 5 cm, height 5-20 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Summer is its dormant period, use half shade for better care, spring and autumn are its growing seasons, need plenty of sunshine",
+        "watering": "Water 2 times during summer dormancy, keep soil moist in other time, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, dilute fertilizers following instructions,  in early summer, spring and autumn apply fertilizers once monthly",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 9800,
+        "min_light_mmol": 4000,
+        "max_light_lux": 85000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\sedeveria 'markus'.jpg"
+}

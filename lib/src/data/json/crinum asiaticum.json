@@ -1,0 +1,35 @@
+{
+    "pid": "crinum asiaticum",
+    "basic": {
+        "floral_language": "Crinum asiaticum\nFloriography: generous, classical, loyal\nCrinum asiaticum is a bulb-forming perennial plant. Bright green leaves with wavy edge, large showy flowers with delicate petals and elegant color.\nCrinum asiaticum likes sunlight, but should avoid summer strong light. Flowers from May to August for 2-3 weeks. Save the bulbs after the flowers fade for the next year to geminate in spring.",
+        "origin": "Indonesia",
+        "production": "China",
+        "category": "Amaryllidaceae, Crinum",
+        "blooming": "Flowering period May-August, viewing period 2-3 weeks",
+        "color": "Flower color white, pink"
+    },
+    "display_pid": "Crinum asiaticum",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes light, shade properly under summer strong light, put in places with scattered light",
+        "watering": "Water thoroughly when soil is dry, reduce watering in winter",
+        "fertilization": "Dilute fertilizers following instructions,  apply 1-2 times monthly in spring",
+        "pruning": "Remove old, diseased and dead leaves timely, remove peduncle after flowering"
+    },
+    "parameter": {
+        "max_light_mmol": 5000,
+        "min_light_mmol": 3500,
+        "max_light_lux": 50000,
+        "min_light_lux": 2500,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\crinum asiaticum.jpg"
+}

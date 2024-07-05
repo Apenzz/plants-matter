@@ -1,0 +1,35 @@
+{
+    "pid": "geranium molle",
+    "basic": {
+        "floral_language": "",
+        "origin": "North America, China",
+        "production": "China",
+        "category": "Geraniaceae, Geranium",
+        "blooming": "Flowering period June-August, fruiting period August-September",
+        "color": "Flower color white, light red"
+    },
+    "display_pid": "Geranium molle",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Soil with loose texture or soil with specific nutrients",
+        "sunlight": "Like adequate light, slight shade tolerance",
+        "watering": "Resistant to flood, water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove and shape excessive branches"
+    },
+    "parameter": {
+        "max_light_mmol": 5000,
+        "min_light_mmol": 3500,
+        "max_light_lux": 50000,
+        "min_light_lux": 3500,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\geranium molle.jpg"
+}

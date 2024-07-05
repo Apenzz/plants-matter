@@ -1,0 +1,35 @@
+{
+    "pid": "pachyveria 'glauca'",
+    "basic": {
+        "floral_language": "Pachyveria 'Glauca'\nFloriography: vigorous, beautiful, delicate\nHas a tight compact rosette form with rigid fleshy leaves in long oval shapes with small tips, thick particularly along the middle part, surface covered by white powders, with great diurnal temperature range and abundant sunlight, leaf tips turn red. \nLikes sunny places, shade properly under summer strong sunlight, does not have an apparent dormant period. Flowers sometimes, orange.",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, Pachyphytum",
+        "blooming": "Succulent plants, sometimes flowers, orange red flowers",
+        "color": "Leaf color gray blue, with adequate sunlight, leaf tips turning to red"
+    },
+    "display_pid": "Pachyveria 'Glauca'",
+    "maintenance": {
+        "size": "Diameter \u2265 5 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, no apparent period of dormancy, shade properly under summer strong light",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce water in summer high temperature",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7000,
+        "min_light_mmol": 5000,
+        "max_light_lux": 80000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\pachyveria 'glauca'.jpg"
+}

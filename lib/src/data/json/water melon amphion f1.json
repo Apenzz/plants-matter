@@ -1,0 +1,35 @@
+{
+    "pid": "water melon amphion f1",
+    "basic": {
+        "floral_language": "",
+        "origin": "Africa",
+        "production": "China",
+        "category": "Cucurbitaceae, Citrullus",
+        "blooming": "Flowering period April-July, fruiting period July-September",
+        "color": "Flower color yellow, fruit color green, dark green, yellow"
+    },
+    "display_pid": "Water melon Amphion F1",
+    "maintenance": {
+        "size": "Diameter 25-35 cm, can climb",
+        "soil": "Peat or soil with specific nutrients, pH value between 6-7",
+        "sunlight": "Like sunshine, high quality fruits in sunny places",
+        "watering": "Resistant to drought, water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply fertilizers one to twice on average in each month, 2-3 times in fruiting stages",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 23000,
+        "min_light_mmol": 5500,
+        "max_light_lux": 120000,
+        "min_light_lux": 4200,
+        "max_temp": 40,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 65,
+        "min_soil_moist": 22,
+        "max_soil_ec": 2500,
+        "min_soil_ec": 200
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\water melon amphion f1.jpg"
+}

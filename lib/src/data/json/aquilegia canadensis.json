@@ -1,0 +1,35 @@
+{
+    "pid": "aquilegia canadensis",
+    "basic": {
+        "floral_language": "",
+        "origin": "Europe, North America",
+        "production": "Northern China",
+        "category": "Ranunculaceae, Aquilegia",
+        "blooming": "Flowering period May-July, fruiting period July-August",
+        "color": "Flower color dark blue purple or white, fruit color black"
+    },
+    "display_pid": "Aquilegia canadensis",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Soil with loose texture or soil with specific nutrients",
+        "sunlight": "Like sunshine, avoid high temperature and direct exposure to the sun in summer",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\aquilegia canadensis.jpg"
+}

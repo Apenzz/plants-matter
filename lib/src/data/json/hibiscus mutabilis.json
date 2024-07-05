@@ -1,0 +1,35 @@
+{
+    "pid": "hibiscus mutabilis",
+    "basic": {
+        "floral_language": "Hibiscus mutabilis\nFloriography: noble, delicate, beautiful.\nConfederate rose is the official flower of Chengdu city. Leaves crack at tips like a palm. Flowers are single petal or polyphyll, color changing by time from white or light red to dark red.\nThe plant grows best with plenty of light, slightly shade tolerant. It blooms in August to November for two to three weeks. New branches sprout in spring after dormancy in winter.",
+        "origin": "China",
+        "production": "China",
+        "category": "Malvaceae, Hibiscus",
+        "blooming": "Flowering period August-November, viewing period 2-3 weeks",
+        "color": "Flower color white, light red"
+    },
+    "display_pid": "Hibiscus mutabilis",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes light, slight shade tolerance",
+        "watering": "Water thoroughly when soil is dry, reduce watering in winter",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn, except winter in dormancy",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\hibiscus mutabilis.jpg"
+}

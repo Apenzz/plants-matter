@@ -1,0 +1,35 @@
+{
+    "pid": "tournefortia argentea",
+    "basic": {
+        "floral_language": "",
+        "origin": "Tropical regions",
+        "production": "China",
+        "category": "Boraginaceae, Messerschmidia",
+        "blooming": "Flowering period March-May, fruit period May-August",
+        "color": "Flower color white, fruit color green"
+    },
+    "display_pid": "Tournefortia argentea",
+    "maintenance": {
+        "size": "Diameter\u226515cm\uff0cHeight\u226525cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes sufficient sunshine",
+        "watering": "Water thoroughly when soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6800,
+        "min_light_mmol": 3500,
+        "max_light_lux": 65000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\tournefortia argentea.jpg"
+}

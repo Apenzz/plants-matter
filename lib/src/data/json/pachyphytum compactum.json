@@ -1,0 +1,35 @@
+{
+    "pid": "pachyphytum compactum",
+    "basic": {
+        "floral_language": "Pachyphytum compactum \nFloriography: perseverance, brave, unique\nHas a characteristic appearance and leaves in elongated oval shape, marked by stripes, leaf color pale green to grayish white, has a thin layer of white powdery. In a cool season with adequate light, leaves turn slightly red. Grows slowly, suitable for combination with other plants.\nLikes adequate light, has half shade tolerance, no apparent dormancy. Has red flowers sometimes.",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, Pachyphytum",
+        "blooming": "Succulent plants, sometimes flowers, red flowers",
+        "color": "Leaf color light green to gray white, with a great diurnal temperature range, with adequate sunlight turning to red"
+    },
+    "display_pid": "Pachyphytum compactum",
+    "maintenance": {
+        "size": "Diameter \u2265 5 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Like sunshine, resistant to half shade, no apparent dormancy",
+        "watering": "Do not water frequently, keep a dry environment, water every 7-10 days",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7000,
+        "min_light_mmol": 5000,
+        "max_light_lux": 80000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\pachyphytum compactum.jpg"
+}

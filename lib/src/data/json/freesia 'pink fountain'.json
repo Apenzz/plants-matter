@@ -1,0 +1,35 @@
+{
+    "pid": "freesia 'pink fountain'",
+    "basic": {
+        "floral_language": "Freesia\nFloriography: happiness, pure, beautiful.\n\nFreesia is a genus of herbaceous perennial flowering plants in the family Iridaceae. It was named after German botanist and doctor Friedrich Freese. Leaves of the plant are elegant long and narrow. Color of flower varies. Bell shaped flowers bloom from bottom to top on the stem are very attractive for viewers.\n\nFreesia plants grow best under mild sunlight. Direct sunlight should be avoid. Blooming in April through May, duration three to four weeks.",
+        "origin": "Africa",
+        "production": "China",
+        "category": "Iridaceae, Freesia",
+        "blooming": "Flowering period April-May, viewing period 3-4 weeks",
+        "color": "Flower color pink"
+    },
+    "display_pid": "Freesia 'pink fountain'",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes moderate sunshine, avoid direct strong light, seedling stage and flowering put in places with bright scattered light",
+        "watering": "Keep soil moist, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 10-15 days in spring",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 60,
+        "min_soil_moist": 7,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\freesia 'pink fountain'.jpg"
+}

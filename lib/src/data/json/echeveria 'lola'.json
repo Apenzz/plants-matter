@@ -1,0 +1,35 @@
+{
+    "pid": "echeveria 'lola'",
+    "basic": {
+        "floral_language": "Echeveria 'Lola'\nFloriography: delicate, elegant, cute\nIs a hybrid of Echeveria derenbergii and Echeveria lilacina, has a cute appearance, fleshy light green oval leaves with tips arranged in a rosette, surface covered by white powders, in a cool season with abundant sunlight, leaves are more closely arranged and color turns light pink. \nLikes sunshine, has a short dormant period under summer high temperature, place under scattered light. Flowers sometimes, light orange red color.",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, Echeveria",
+        "blooming": "Succulent plants, sometimes flowers, light orange red flowers",
+        "color": "Leaf color light green to gray green, when sunny turning to pale pink"
+    },
+    "display_pid": "Echeveria 'Lola'",
+    "maintenance": {
+        "size": "Diameter \u2265 3 cm, height 3-15 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, dormant in summer under high temperatures, put in places with scattered light",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce water in summer high temperature",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 8600,
+        "min_light_mmol": 4000,
+        "max_light_lux": 75000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\echeveria 'lola'.jpg"
+}

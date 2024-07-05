@@ -1,0 +1,35 @@
+{
+    "pid": "hyacinthus orientalis 'peter stuyvesant'",
+    "basic": {
+        "floral_language": "Hyacinthus orientalis 'Pink pearl' \nFloriography: vitality, fraternity, self-confidence\nHyacinth orientalis is known as \"western narcissus\", was cultivated from the flower kingdom of the Netherlands. \nHyacinth plant state low, inflorescence is plumy, flowers open from bottom to top, appearance beautiful, of quietly elegant fragrance can stabilize mood, eliminate fatigue. It is often put on the head of a bed, to create a warm and comfortable rest environment. \nHyacinth likes sunshine, full bloom in spring, flowering 3-4 weeks. Keep the bulbs for germination in the coming year in cold, and under normal circumstances it can bloom every year",
+        "origin": "Holland",
+        "production": "Yunnan",
+        "category": "Hyacinthaceae, Hyacinthus",
+        "blooming": "Flowering period March-April, viewing period 3-4 weeks",
+        "color": "Flower color purple"
+    },
+    "display_pid": "Hyacinthus orientalis 'Peter stuyvesant'",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 16-20 cm",
+        "soil": "Peat and perlite mixed",
+        "sunlight": "Long-day plant, put in sunny places, but avoid strong sunlight at noon",
+        "watering": "Water thoroughly only when soil is dry, in every 4-5 days",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove the withered parts on the ground after flowering, leaving bulbs for germination in the next year"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 2500,
+        "max_temp": 32,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\hyacinthus orientalis 'peter stuyvesant'.jpg"
+}

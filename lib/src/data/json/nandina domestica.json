@@ -1,0 +1,35 @@
+{
+    "pid": "nandina domestica",
+    "basic": {
+        "floral_language": "Nandina domestica \nFloriography: beautiful, propitious, enterprising\nNandina is a small shrub with lanceolate to oval leaves, in red when young, turning green when old, and in the autumn and winter turn bright red, very beautiful. Often used in the yard, street, parks, also be used for hedges and other types of landscaping.\nNandina is a shade-tolerant plant, suitable for bright scattered light, in winter can 2-3 hours sunlight. When conditions are right. Flowers in March to June with white flowers.",
+        "origin": "China",
+        "production": "China",
+        "category": "Berberidaceae, Nandina",
+        "blooming": "Foliage plants, sometimes flowers in March-June, white flowers",
+        "color": "Young leaf color red, old leaves green, in winter turn to red"
+    },
+    "display_pid": "Nandina domestica",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 10 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Resistant to shade, put in places with bright scattered light, in winter may take 2-3h sunlight",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, rub leaves with water in summer",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly in the growing season, stop in winter",
+        "pruning": "Remove dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5600,
+        "min_light_mmol": 1500,
+        "max_light_lux": 45000,
+        "min_light_lux": 1500,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 65,
+        "min_soil_moist": 20,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 100
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\nandina domestica.jpg"
+}

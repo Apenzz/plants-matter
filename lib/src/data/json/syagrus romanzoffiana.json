@@ -1,0 +1,35 @@
+{
+    "pid": "syagrus romanzoffiana",
+    "basic": {
+        "floral_language": "",
+        "origin": "Brazil",
+        "production": "Tropical and subtropical regions",
+        "category": "Palmae, Syagrus",
+        "blooming": "Flowering period February, fruiting period November-March",
+        "color": "Flower color yellow"
+    },
+    "display_pid": "Syagrus romanzoffiana",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 15-18 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes warm, moist, sunny and airy environment",
+        "watering": "During March to October, water every day, keep soil moist in other seasons",
+        "fertilization": "Apply organic fertilizers in May to October once every 1-2 weeks",
+        "pruning": "Remove dead and diseased branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\syagrus romanzoffiana.jpg"
+}

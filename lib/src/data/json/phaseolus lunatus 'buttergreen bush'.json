@@ -1,0 +1,35 @@
+{
+    "pid": "phaseolus lunatus 'buttergreen bush'",
+    "basic": {
+        "floral_language": "",
+        "origin": "MexicotoPeru",
+        "production": "Southern China",
+        "category": "Leguminosae, Phaseolus",
+        "blooming": "Flowering period June-July, fruiting period July-August",
+        "color": "Flower color light yellow or fuchsia, fruit color white, pale yellow, red, purple, black with color stripes"
+    },
+    "display_pid": "Phaseolus lunatus 'Buttergreen Bush'",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, can climb",
+        "soil": "Soil with loose texture or soil with specific nutrients, pH value 6-7",
+        "sunlight": "Grows in sunny places",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "No need to apply extra fertilizer before fruiting",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 17000,
+        "min_light_mmol": 4300,
+        "max_light_lux": 100000,
+        "min_light_lux": 3800,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 65,
+        "min_soil_moist": 20,
+        "max_soil_ec": 2200,
+        "min_soil_ec": 100
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\phaseolus lunatus 'buttergreen bush'.jpg"
+}

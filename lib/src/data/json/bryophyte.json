@@ -1,0 +1,35 @@
+{
+    "pid": "bryophyte",
+    "basic": {
+        "floral_language": "",
+        "origin": "All over the world",
+        "production": "China",
+        "category": "Bryophyte plants",
+        "blooming": "Bryophyte, with simple structure, no flowering",
+        "color": "Leaf color tender green"
+    },
+    "display_pid": "Bryophyte",
+    "maintenance": {
+        "size": "Diameter 3-5cm\uff0cHeight 3-10cm",
+        "soil": "Soil with loose texture and well drainage",
+        "sunlight": "Half shade, like bright scattered light",
+        "watering": "Like wet environment, spray water on leaves everyday",
+        "fertilization": "No need to fertilize",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4000,
+        "min_light_mmol": 500,
+        "max_light_lux": 18000,
+        "min_light_lux": 500,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 95,
+        "min_env_humid": 40,
+        "max_soil_moist": 75,
+        "min_soil_moist": 25,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 10
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\bryophyte.jpg"
+}

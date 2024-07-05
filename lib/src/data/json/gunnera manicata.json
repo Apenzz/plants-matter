@@ -1,0 +1,35 @@
+{
+    "pid": "gunnera manicata",
+    "basic": {
+        "floral_language": "",
+        "origin": "South America",
+        "production": "Guangdong, Guangxi, Yunnan",
+        "category": "Haloragidaceae, Gunnera",
+        "blooming": "Foliage plants",
+        "color": "Flower color yellow green"
+    },
+    "display_pid": "Gunnera manicata",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 20-30 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Put in sunny places",
+        "watering": "Keep soil moist",
+        "fertilization": "Mainly use base fertilizers",
+        "pruning": "No need pruning"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\gunnera manicata.jpg"
+}

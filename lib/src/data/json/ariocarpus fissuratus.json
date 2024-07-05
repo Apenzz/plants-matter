@@ -1,0 +1,35 @@
+{
+    "pid": "ariocarpus fissuratus",
+    "basic": {
+        "floral_language": "",
+        "origin": "America",
+        "production": "China",
+        "category": "Cactaceae, Ariocarpus",
+        "blooming": "Succulent plants, sometimes flowers with a short period time\uff0cflowering period in summer",
+        "color": "Leaf color grey green\uff0cflower color rose red\uff0cwhite and pink"
+    },
+    "display_pid": "Ariocarpus fissuratus",
+    "maintenance": {
+        "size": "Diameter\u22655cm\uff0cHeight\u22655cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Enjoy sufficient sunlight",
+        "watering": "Resistant to drought, water thoroughly when soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove flower stem, diseased and rotten leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 9000,
+        "min_light_mmol": 3300,
+        "max_light_lux": 100000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 10,
+        "max_soil_ec": 1500,
+        "min_soil_ec": 50
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\ariocarpus fissuratus.jpg"
+}

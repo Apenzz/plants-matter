@@ -1,0 +1,35 @@
+{
+    "pid": "conophytum pellucidum",
+    "basic": {
+        "floral_language": "",
+        "origin": "South Africa",
+        "production": "China",
+        "category": "Aizoaceae, Conophytum",
+        "blooming": "Succulent plants, sometimes flowers, white or pink",
+        "color": "When sunny leaf edges turning to red with lots of stripes"
+    },
+    "display_pid": "Conophytum pellucidum",
+    "maintenance": {
+        "size": "Diameter \u2265 2 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, dormant in summer under high temperatures, put in places with scattered light",
+        "watering": "Water thoroughly when soil is dry, reduce water during decrustation in summer",
+        "fertilization": "Dilute fertilizers following instructions, apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 8600,
+        "min_light_mmol": 3200,
+        "max_light_lux": 80000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 55,
+        "min_soil_moist": 10,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 50
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\conophytum pellucidum.jpg"
+}

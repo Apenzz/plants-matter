@@ -1,0 +1,35 @@
+{
+    "pid": "ceratostigma plumbaginoides",
+    "basic": {
+        "floral_language": "",
+        "origin": "China",
+        "production": "Southern China",
+        "category": "Plumbaginaceae, Ceratostigma",
+        "blooming": "Flowering period July-September, fruiting period August-October",
+        "color": "Flower color light blue"
+    },
+    "display_pid": "Ceratostigma plumbaginoides",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 15-18 cm",
+        "soil": "Soil with loose texture or soil with specific nutrients",
+        "sunlight": "Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Need more fertilization, dilute fertilizers following instructions, apply 2-3 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7500,
+        "min_light_mmol": 3500,
+        "max_light_lux": 50000,
+        "min_light_lux": 2500,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\ceratostigma plumbaginoides.jpg"
+}

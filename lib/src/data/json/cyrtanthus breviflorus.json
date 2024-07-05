@@ -1,0 +1,35 @@
+{
+    "pid": "cyrtanthus breviflorus",
+    "basic": {
+        "floral_language": "",
+        "origin": "South Africa",
+        "production": "China",
+        "category": "Amaryllidaceae, Cyrtanthus",
+        "blooming": "Flowering period November-March",
+        "color": "Flower color yellow, orange red, white, pink"
+    },
+    "display_pid": "Cyrtanthus breviflorus",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 10-30 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes adequate light, avoid direct strong light at noon in summer",
+        "watering": "Water thoroughly after soil surface dries",
+        "fertilization": "Apply 1-2 times monthly in spring",
+        "pruning": "Remove withered flowers, diseased and yellowing leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 3500,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\cyrtanthus breviflorus.jpg"
+}

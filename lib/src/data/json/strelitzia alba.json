@@ -1,0 +1,35 @@
+{
+    "pid": "strelitzia alba",
+    "basic": {
+        "floral_language": "",
+        "origin": "Madagascar",
+        "production": "Southern China",
+        "category": "Strelitziaceae, Ravenala",
+        "blooming": "Flowering period July-August, fruiting period September-December",
+        "color": "Flower color white, fruit color green blue"
+    },
+    "display_pid": "Strelitzia alba",
+    "maintenance": {
+        "size": "Diameter \u2265 40 cm, height \u2265 100 cm",
+        "soil": "Soil with loose texture or soil with specific nutrients",
+        "sunlight": "Like sunshine, high quality fruits in sunny places",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 2-3 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6700,
+        "min_light_mmol": 3800,
+        "max_light_lux": 45000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\strelitzia alba.jpg"
+}

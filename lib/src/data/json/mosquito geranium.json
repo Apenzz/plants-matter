@@ -1,0 +1,35 @@
+{
+    "pid": "mosquito geranium",
+    "basic": {
+        "floral_language": "",
+        "origin": "South Africa",
+        "production": "Southern China",
+        "category": "Geraniaceae, Pelargonium",
+        "blooming": "Flowering period May-July, fruiting period August-September",
+        "color": "Flower color rose red, pink"
+    },
+    "display_pid": "Mosquito Geranium",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Neutral or slightly alkaline soil with loose texture or soil with specific nutrients",
+        "sunlight": "Likes light, in spring and autumn put in sunny places, in summer place in a cool ventilated place",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6400,
+        "min_light_mmol": 3200,
+        "max_light_lux": 60000,
+        "min_light_lux": 3000,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\mosquito geranium.jpg"
+}

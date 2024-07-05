@@ -1,0 +1,35 @@
+{
+    "pid": "tamarix tetrandra",
+    "basic": {
+        "floral_language": "",
+        "origin": "China, United States, Japan",
+        "production": "China",
+        "category": "Tamaricaceae, Tamarix",
+        "blooming": "Flowering period April-September",
+        "color": "Flower color pink, purple red"
+    },
+    "display_pid": "Tamarix tetrandra",
+    "maintenance": {
+        "size": "Diameter \u2265 15 cm, height \u2265 25 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like sunshine, grows in sunny places",
+        "watering": "Water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove and shape excessive branches"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\tamarix tetrandra.jpg"
+}

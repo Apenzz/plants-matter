@@ -1,0 +1,35 @@
+{
+    "pid": "cynara cardunculus",
+    "basic": {
+        "floral_language": "",
+        "origin": "Western and Southern Mediterranean region",
+        "production": "Hubei, Sichuan",
+        "category": "Compositae, Cynara",
+        "blooming": "Flowering and fruiting period July",
+        "color": "Flower color blue or white"
+    },
+    "display_pid": "Cynara cardunculus",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 15-18 cm",
+        "soil": "Humus soil or sandy loam",
+        "sunlight": "Like half shade, may grow in places with bright scattered light",
+        "watering": "Keep soil moist",
+        "fertilization": "Mix proper amount of slow-release fertilizers when transplanting, apply liquid fertilizers 1-2 times monthly",
+        "pruning": "Remove dead and diseased branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4000,
+        "min_light_mmol": 2000,
+        "max_light_lux": 20000,
+        "min_light_lux": 3700,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\cynara cardunculus.jpg"
+}

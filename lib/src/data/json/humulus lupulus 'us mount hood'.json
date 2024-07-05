@@ -1,0 +1,35 @@
+{
+    "pid": "humulus lupulus 'us mount hood'",
+    "basic": {
+        "floral_language": "",
+        "origin": "Asia, Americas, Europe",
+        "production": "Xingjiang",
+        "category": "Cannabaceae, Humulus",
+        "blooming": "Flowering period July-August, fruiting period September-October",
+        "color": "Flower color yellow green, fruit color brown"
+    },
+    "display_pid": "Humulus lupulus 'US Mount Hood'",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, can climb",
+        "soil": "Neutral or slightly alkaline soil with loose texture or soil with specific nutrients",
+        "sunlight": "Like half shade, may grow in places with bright scattered light",
+        "watering": "Water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 2-3 times monthly",
+        "pruning": "Remove dead, rotten, diseased leaves and the parts that may affect the good appearance"
+    },
+    "parameter": {
+        "max_light_mmol": 3500,
+        "min_light_mmol": 2000,
+        "max_light_lux": 10000,
+        "min_light_lux": 3000,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\humulus lupulus 'us mount hood'.jpg"
+}

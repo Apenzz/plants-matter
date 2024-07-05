@@ -1,0 +1,35 @@
+{
+    "pid": "podophyllum peltatum",
+    "basic": {
+        "floral_language": "",
+        "origin": "China",
+        "production": "Guangdong, Guangxi",
+        "category": "Berberidaceae, Dysosma",
+        "blooming": "Flowering period May-June, fruiting period September-October",
+        "color": "Flower color purple red"
+    },
+    "display_pid": "Podophyllum peltatum",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 20-30 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like shade environments",
+        "watering": "Water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Apply organic fertilizers mainly, chemical fertilizer if needed",
+        "pruning": "Remove dead and diseased branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 2500,
+        "min_light_mmol": 1200,
+        "max_light_lux": 6000,
+        "min_light_lux": 1500,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\podophyllum peltatum.jpg"
+}

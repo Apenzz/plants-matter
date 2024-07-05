@@ -1,0 +1,35 @@
+{
+    "pid": "lysimachia nummularia 'aurea'",
+    "basic": {
+        "floral_language": "",
+        "origin": "China",
+        "production": "Southern China",
+        "category": "Primulaceae, Lysimachia",
+        "blooming": "Flowering period May-July, fruiting period July-October",
+        "color": "Flower color yellow"
+    },
+    "display_pid": "Lysimachia nummularia 'Aurea'",
+    "maintenance": {
+        "size": "Diameter \u2265 15 cm, height \u2265 25 cm",
+        "soil": "Soil with loose texture or soil with specific nutrients",
+        "sunlight": "Like half shade, grows in places with scattered light or shade properly, avoid direct light",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 2500,
+        "min_light_mmol": 1200,
+        "max_light_lux": 6000,
+        "min_light_lux": 1500,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\lysimachia nummularia 'aurea'.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "senecio macroglossus",
+    "basic": {
+        "floral_language": "Senecio macroglossus \nFloriography: tenacious, vigorous, beautiful\nSenecio macroglossus has a similar like to ivy, is a climbing plant, but succulent, with fleshy thick leaves, near triangle shape and symmetrical, usually placed in the living room, on desk, or make a pot for hanging.\nSenecio macroglossus likes half shade, place in scattered light in summer, but need more light in winter. When conditions are right. Flowers in yellow color.",
+        "origin": "Africa",
+        "production": "China",
+        "category": "Compositae, Senecio",
+        "blooming": "Succulent plants, sometimes flowers, yellow flowers",
+        "color": "Leaf color emerald green"
+    },
+    "display_pid": "Senecio macroglossus",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 10 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like light, also resistant to half shade, put in places with scattered light in summer, may take more light in winter",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, rub leaves with water in summer",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn, stop in summer and winter",
+        "pruning": "Remove dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 3500,
+        "min_light_mmol": 1400,
+        "max_light_lux": 30000,
+        "min_light_lux": 500,
+        "max_temp": 35,
+        "min_temp": 9,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\senecio macroglossus.jpg"
+}

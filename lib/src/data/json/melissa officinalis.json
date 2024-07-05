@@ -1,0 +1,35 @@
+{
+    "pid": "melissa officinalis",
+    "basic": {
+        "floral_language": "",
+        "origin": "Former Soviet Union",
+        "production": "China",
+        "category": "Labiatae, Melissa",
+        "blooming": "Flowering period June-August",
+        "color": "Flower color cream white, light blue"
+    },
+    "display_pid": "Melissa officinalis",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 15-18 cm",
+        "soil": "Soil with loose texture or soil with specific nutrients",
+        "sunlight": "Like sunshine, resistant to half shade",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove dead and pest-infested branches frequently"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\melissa officinalis.jpg"
+}

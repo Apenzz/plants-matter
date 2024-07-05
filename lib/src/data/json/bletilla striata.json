@@ -1,0 +1,35 @@
+{
+    "pid": "bletilla striata",
+    "basic": {
+        "floral_language": "",
+        "origin": "China, Japan, Korea",
+        "production": "China",
+        "category": "Orchidaceae, Bletilla",
+        "blooming": "Flowering period April-May, flowering period July-September",
+        "color": "Flower color purple red , white, blue, yellow and pink"
+    },
+    "display_pid": "Bletilla striata",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 15-18 cm",
+        "soil": "Soil with loose texture or soil with specific nutrients",
+        "sunlight": "Strong resistant to shade, put in places with bright scattered light",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 2500,
+        "min_light_mmol": 1200,
+        "max_light_lux": 6000,
+        "min_light_lux": 1500,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\bletilla striata.jpg"
+}

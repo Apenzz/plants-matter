@@ -1,0 +1,35 @@
+{
+    "pid": "rhizoma dioscoreae",
+    "basic": {
+        "floral_language": "",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Dioscoreaceae, Dioscorea",
+        "blooming": "Flowering period May-July",
+        "color": "Leaf color green\uff0cflower color white"
+    },
+    "display_pid": "Rhizoma dioscoreae",
+    "maintenance": {
+        "size": "Diameter\u22655cm\uff0cHeight\u22655cm",
+        "soil": "Loose, fertile, and well-drained humus soil, pH value 6-8",
+        "sunlight": "Enjoy enough sunlight",
+        "watering": "Resistant to drought, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove flower stem, diseased and rotten leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 18000,
+        "min_light_mmol": 3500,
+        "max_light_lux": 120000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 20,
+        "max_soil_ec": 2500,
+        "min_soil_ec": 200
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\rhizoma dioscoreae.jpg"
+}

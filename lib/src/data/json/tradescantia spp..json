@@ -1,0 +1,35 @@
+{
+    "pid": "tradescantia spp.",
+    "basic": {
+        "floral_language": "",
+        "origin": "Tropical Americas",
+        "production": "China",
+        "category": "Commelinaceae, Tradescantia",
+        "blooming": "Flowering period June-October",
+        "color": "Flower color purple, blue purple, purple red"
+    },
+    "display_pid": "Tradescantia spp.",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 15-20 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes bright scattered light",
+        "watering": "Keep soil moist",
+        "fertilization": "Foliar top-dressing weekly",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 2500,
+        "min_light_mmol": 1200,
+        "max_light_lux": 6000,
+        "min_light_lux": 1500,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\tradescantia spp..jpg"
+}

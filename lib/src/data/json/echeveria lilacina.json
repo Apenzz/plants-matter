@@ -1,0 +1,35 @@
+{
+    "pid": "echeveria lilacina",
+    "basic": {
+        "floral_language": "Echeveria lilacina \nFloriography: goodly, novel, beautiful\nHas a beautiful plant form, fleshy gray to blue green leaves in oval shape and with slightly tipped, leaves are sunken in the middle and arranged in a rosette, surface covered by a layer of white powders, in a cool season with abundant sunlight, the plant is more compact, leaf color turns pink. \nLikes sunshine, shade properly under summer strong sunlight, does not have an apparent dormant period. Flowers sometimes, light red color.",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, Echeveria",
+        "blooming": "Succulent plants, sometimes flowers, light red flowers",
+        "color": "Leaf color gray green, when sunny turning to pink"
+    },
+    "display_pid": "Echeveria lilacina",
+    "maintenance": {
+        "size": "Diameter \u2265 3 cm, height 3-15 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, shade properly under summer strong light, no apparent period of dormancy",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce water in summer high temperature",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 9700,
+        "min_light_mmol": 4000,
+        "max_light_lux": 95000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\echeveria lilacina.jpg"
+}

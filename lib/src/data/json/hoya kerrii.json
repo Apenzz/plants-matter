@@ -1,0 +1,35 @@
+{
+    "pid": "hoya kerrii",
+    "basic": {
+        "floral_language": "",
+        "origin": "Thailand, Laos",
+        "production": "Guangxi",
+        "category": "Asclepiadaceae, Hoya",
+        "blooming": "Flowering period May",
+        "color": "Flower color white, leaf color green"
+    },
+    "display_pid": "Hoya kerrii",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Soil with loose texture or special humus soil",
+        "sunlight": "Grows in places with bright scattered light",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4300,
+        "min_light_mmol": 2200,
+        "max_light_lux": 25000,
+        "min_light_lux": 2000,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\hoya kerrii.jpg"
+}

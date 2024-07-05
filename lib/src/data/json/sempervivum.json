@@ -1,0 +1,35 @@
+{
+    "pid": "sempervivum",
+    "basic": {
+        "floral_language": "Sempervivum \nFloriography: self-improvement, self-confident, pure \nSempervivum is a well-known one in succulent plants. Plant stature is elegant, fleshy leaves arranged in rosette, leaf color is rich. When sunny, the leaf tip will become red. Succulent plants can match a variety of delicate small plants as miniature landscape, so it is the popular trend in the public. \nSempervivum like sunshine, and when it is flowering, plants produce a stem which has pink flowers.",
+        "origin": "Holland",
+        "production": "Yunnan",
+        "category": "Crassulaceae, Sempervivum",
+        "blooming": "Succulent plants, blooms sometimes, when the plant sprouts a stem from the center, blooms with pink flowers",
+        "color": "Leaf color yellow green, gray green, dark green, brown"
+    },
+    "display_pid": "Sempervivum",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 3-7 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Summer is its dormant period, use half shade for better care, spring and autumn are its growing seasons, need plenty of sunshine",
+        "watering": "Water thoroughly 2 times during summer dormancy, keep soil moist in other time, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 10000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 90000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\sempervivum.jpg"
+}

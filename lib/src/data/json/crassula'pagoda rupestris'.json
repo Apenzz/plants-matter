@@ -1,0 +1,35 @@
+{
+    "pid": "crassula'pagoda rupestris'",
+    "basic": {
+        "floral_language": "",
+        "origin": "South Africa",
+        "production": "China",
+        "category": "Crassulaceae, Crassula",
+        "blooming": "Succulent plants, sometimes flowers with a short period time\uff0cflower color pink",
+        "color": "Leaf color green\uff0cand will turn pink red with adequate sunlight"
+    },
+    "display_pid": "Crassula'Pagoda Rupestris'",
+    "maintenance": {
+        "size": "Diameter\u22653cm\uff0cHeight\u22653cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Enjoy sunlight, resistant to half shade\uff0cno apparent dormancy",
+        "watering": "Water every 7-10 days, reduce water in summer high temperature",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove flower stem, diseased and rotten leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 8000,
+        "min_light_mmol": 3900,
+        "max_light_lux": 85000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 8,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 50
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\crassula'pagoda rupestris'.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "echeveria runyonii",
+    "basic": {
+        "floral_language": "Echeveria runyonii\nFloriography: strong, brave, philanthropic.\nThis plant is a species of succulent plant in the jade plant family, Crassulaceae. Layout of the thick leaves is similar to a blooming Indian lotus. So the plant was called 'the flower never withered' and became very popular.\nThe plant requires sunny habitat. Flowering occasionally, white, five-pointed star shaped.",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, Echeveria",
+        "blooming": "Succulent plants, sometimes flowers, orange red flowers",
+        "color": "Leaf color gray white, leaves turning to green if light is not adequate"
+    },
+    "display_pid": "Echeveria runyonii",
+    "maintenance": {
+        "size": "Diameter \u2265 3 cm, height \u2265 15 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, a short period of dormancy in summer, put in places with bright scattered light",
+        "watering": "Avoid water saturation, water thoroughly when soil is dry, reduce watering when in dormancy",
+        "fertilization": "Dilute fertilizers following instructions,  apply once monthly in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 9300,
+        "min_light_mmol": 3800,
+        "max_light_lux": 90000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\echeveria runyonii.jpg"
+}

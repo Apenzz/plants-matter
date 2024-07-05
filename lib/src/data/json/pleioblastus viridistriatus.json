@@ -1,0 +1,35 @@
+{
+    "pid": "pleioblastus viridistriatus",
+    "basic": {
+        "floral_language": "",
+        "origin": "Japan",
+        "production": "Southern China",
+        "category": "Gramineae, Pleioblastus",
+        "blooming": "Sprouting period May",
+        "color": "Flower color yellow, leaf color green"
+    },
+    "display_pid": "Pleioblastus viridistriatus",
+    "maintenance": {
+        "size": "Diameter \u2265 15 cm, height \u2265 30 cm",
+        "soil": "Soil with loose texture or soil with specific nutrients",
+        "sunlight": "Like sunshine, grows in sunny places",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Pruning accordingly for any favorate tree shapes"
+    },
+    "parameter": {
+        "max_light_mmol": 7800,
+        "min_light_mmol": 2700,
+        "max_light_lux": 60000,
+        "min_light_lux": 1000,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 1500,
+        "min_soil_ec": 100
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\pleioblastus viridistriatus.jpg"
+}

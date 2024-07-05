@@ -1,0 +1,35 @@
+{
+    "pid": "bulbophyllum radiatum",
+    "basic": {
+        "floral_language": "Fittonia verschaffeltii\nFloriography: delicate, refreshing, vitality.\nA small evergreen plant, leaves of the nerve plant are oval with white or red veins intercrossing like a web. Widely used indoor and micro-landscape for decoration.\nThe plant requires partial shade habitat. Two to three hours sunbath in winter is acceptable. Yellow flowers may bloom in September to November if growing well.",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Orchidaceae, Bulbophyllum",
+        "blooming": "Flowering period June-August",
+        "color": "Flower color yellow"
+    },
+    "display_pid": "Bulbophyllum radiatum",
+    "maintenance": {
+        "size": "Diameter \u2265 3 cm, height \u2265 10 cm",
+        "soil": "Likes moist and breathable soil, best planted in sphagnum moss",
+        "sunlight": "Like half shade, put in places with scattered light",
+        "watering": "Water thoroughly after soil surface dries, rub the leaves with water to keep moisture",
+        "fertilization": "Dilute fertilizers following instructions,  apply 1-2 times monthly in spring",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 3500,
+        "min_light_mmol": 1500,
+        "max_light_lux": 10000,
+        "min_light_lux": 2000,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\bulbophyllum radiatum.jpg"
+}

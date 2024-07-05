@@ -1,0 +1,35 @@
+{
+    "pid": "licuala mattanensis var. mapu",
+    "basic": {
+        "floral_language": "",
+        "origin": "New Britain island",
+        "production": "South China",
+        "category": "Arecaceae, Licuala",
+        "blooming": "Foliage plants",
+        "color": "Leaf color yellow green with dark green spots"
+    },
+    "display_pid": "Licuala mattanensis var. mapu",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 10 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes shady environment, put in the scattered light place",
+        "watering": "Like wet, water thoroughly when soil surface is dry, spray water on leaf",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn",
+        "pruning": "Remove dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5500,
+        "min_light_mmol": 2000,
+        "max_light_lux": 45000,
+        "min_light_lux": 1000,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 85,
+        "min_env_humid": 35,
+        "max_soil_moist": 70,
+        "min_soil_moist": 20,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 50
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\licuala mattanensis var. mapu.jpg"
+}

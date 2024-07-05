@@ -1,0 +1,35 @@
+{
+    "pid": "tillandsia spp.",
+    "basic": {
+        "floral_language": "",
+        "origin": "Americas",
+        "production": "Tropical areas in Southern China",
+        "category": "Bromeliaceae, Tillandsia",
+        "blooming": "Flowering period August-April",
+        "color": "Flower color green, purple, red, white, yellow, blue"
+    },
+    "display_pid": "Tillandsia spp.",
+    "maintenance": {
+        "size": "Diameter \u2265 15 cm, height \u2265 25 cm",
+        "soil": "No need be cultivated in soil or water, suitable for growing in air",
+        "sunlight": "Put in places with warm sunlight",
+        "watering": "Spray water on leaves daily, water twice in the morning and afternoon in summer",
+        "fertilization": "May apply diluted (at 25% recommanded concentration) liquid fertilizers on leaves once a month",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6900,
+        "min_light_mmol": 1200,
+        "max_light_lux": 45000,
+        "min_light_lux": 1000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 85,
+        "min_env_humid": 35,
+        "max_soil_moist": 0,
+        "min_soil_moist": 0,
+        "max_soil_ec": 0,
+        "min_soil_ec": 0
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\tillandsia spp..jpg"
+}

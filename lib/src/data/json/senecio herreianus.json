@@ -1,0 +1,35 @@
+{
+    "pid": "senecio herreianus",
+    "basic": {
+        "floral_language": "Senecio herreianus\nFloriography: lovely, smooth, novel\nLooks like Senecio rowleyanus, but with green leaves like olives, marked by longitudinal stripes, stems long with many branches, like string of beads. With adequate sunlight, the stripes on leaf turn purple red. \nLikes sunshine, tolerates to half shade, has a short dormant period in summer, place under bright scattered light. Flowers when conditions are right. Flowers are white.",
+        "origin": "South Africa",
+        "production": "China",
+        "category": "Compositae, Senecio",
+        "blooming": "Succulent plants, sometimes flowers, white flowers",
+        "color": "Leaf color green, with adequate sunlight, leaves with fuchsia marks"
+    },
+    "display_pid": "Senecio herreianus",
+    "maintenance": {
+        "size": "Diameter \u2265 2 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, resistant to half shade, a short period of dormancy in summer, put in places with scattered light",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce water in summer",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\senecio herreianus.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "amomum tsaoko",
+    "basic": {
+        "floral_language": "",
+        "origin": "China",
+        "production": "Yunnan, Guangxi",
+        "category": "Zingiberaceae, Alpinia",
+        "blooming": "Flowering period April-June, fruiting period May-August",
+        "color": "Leaf color green , flower color white to pale pink"
+    },
+    "display_pid": "Amomum tsaoko",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height \u2265 25 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes warm and sunny environments",
+        "watering": "Water thoroughly after soil surface dries",
+        "fertilization": "Apply enough base fertilizers",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\amomum tsaoko.jpg"
+}

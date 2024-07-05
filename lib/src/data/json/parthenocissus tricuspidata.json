@@ -1,0 +1,35 @@
+{
+    "pid": "parthenocissus tricuspidata",
+    "basic": {
+        "floral_language": "Parthenocissus tricuspidata \nFloriography: tenacious, vigorous, perseverant\nParthenocissus tricuspidata is a deciduous woody vine of beautiful leaf appearance, clinging to the wall by suckers, similar to pairs of feet, vivid and lovely. Often used as three-dimensional decorative material for green walls, park rockeries, can absorb dusts.\nParthenocissus tricuspidata is a shade-tolerant plant, but not afraid of strong light, grows best in the shade. When conditions are right. Flowers in May to June sometimes with orange flowers.",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Vitaceae, Parthenocissus",
+        "blooming": "Foliage plants, sometimes flowers in May-June, orange yellow flowers",
+        "color": "Leaf color green, turn to red in autumn and winter"
+    },
+    "display_pid": "Parthenocissus tricuspidata",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 10 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Resistant to shade plant, it is better for growth under shade",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, spray frequently to the air or leaves to keep moist in summer",
+        "fertilization": "Dilute fertilizers following instructions,  apply 1-2 times monthly in spring",
+        "pruning": "Remove dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4000,
+        "min_light_mmol": 1200,
+        "max_light_lux": 30000,
+        "min_light_lux": 1100,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\parthenocissus tricuspidata.jpg"
+}

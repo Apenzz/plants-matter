@@ -1,0 +1,35 @@
+{
+    "pid": "rhododendron brachycarpum",
+    "basic": {
+        "floral_language": "Rhododendron brachycarpum\nFloriography: open and bright, pure, happy \nRhododendron brachycarpum is beautiful and is called a fame as the \"flower of xi shi \u201d, which was a very pretty lady in ancient China\". It is also Taipei city flower. \nRhododendron brachycarpum blossoms clustered, pattern is diverse, and color is gorgeous. Traditional azalea has only 5 petals, and stamen and pistil protrude from the middle of flower, like a smaller version of the lilies. Azalea is often used as interior decoration or courtyard. \nRhododendron brachycarpum like mild sunshine, natural flowering is from April to June, with ornamental period up to 3-4 weeks. After flowers die, cut withered flowers and leaves, waiting for the bud spouting again in the coming year.",
+        "origin": "China",
+        "production": "Yunnan",
+        "category": "Ericaceae, Rhododendron",
+        "blooming": "Flowering period April-June, viewing period 3-4 weeks",
+        "color": "Flower color rose red"
+    },
+    "display_pid": "Rhododendron brachycarpum",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes half shade, avoid strong light, put in places with bright scattered light",
+        "watering": "Water in the evening during summer, water thoroughly every 4-5 days in spring, reduce watering in winter, keep soil moist in other time",
+        "fertilization": "Dilute fertilizers following instructions,  apply 2-3 times monthly in the growing season",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4000,
+        "min_light_mmol": 1800,
+        "max_light_lux": 25000,
+        "min_light_lux": 2000,
+        "max_temp": 32,
+        "min_temp": 12,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\rhododendron brachycarpum.jpg"
+}

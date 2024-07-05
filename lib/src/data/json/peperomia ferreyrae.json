@@ -1,0 +1,35 @@
+{
+    "pid": "peperomia ferreyrae",
+    "basic": {
+        "floral_language": "",
+        "origin": "Peru",
+        "production": "China",
+        "category": "Piperaceae, Peperomia",
+        "blooming": "Foliage plants, rarely flowers",
+        "color": "Leaf color green"
+    },
+    "display_pid": "Peperomia ferreyrae",
+    "maintenance": {
+        "size": "Diameter \u2265 15 cm, height \u2265 25 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Put in places with scattered light",
+        "watering": "Resistant to drought, water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 3500,
+        "min_light_mmol": 2000,
+        "max_light_lux": 20000,
+        "min_light_lux": 2800,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 200
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\peperomia ferreyrae.jpg"
+}

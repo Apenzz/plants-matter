@@ -1,0 +1,35 @@
+{
+    "pid": "glebionis coronaria",
+    "basic": {
+        "floral_language": "",
+        "origin": "Mediterranean coastal areas",
+        "production": "China",
+        "category": "Compositae, Chrysanthemum",
+        "blooming": "Flowering and fruiting period June-August",
+        "color": "Flower color yellow or white, leaf color green"
+    },
+    "display_pid": "Glebionis coronaria",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Neutral or slightly acidic soil with loose texture or soil with specific nutrients",
+        "sunlight": "Like adequate sunlight",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6300,
+        "min_light_mmol": 3800,
+        "max_light_lux": 65000,
+        "min_light_lux": 2500,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\glebionis coronaria.jpg"
+}

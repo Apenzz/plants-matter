@@ -1,0 +1,35 @@
+{
+    "pid": "echeveria hongjuanye",
+    "basic": {
+        "floral_language": "Echeveria hongjuanye\nFloriography: sunshine, lovely, beautiful \nEcheveria hongjuanye is a medium-sized succulent plant and is very popular recently. \nEcheveria hongjuanye plant stature is elegant. The leaf blade is long ovoid, leaf color is blue green with a layer of white powder on the surface. Leaf layers are stacked, look like a small pineapple from long distance. When it is sunny in cool season, the leaves will become pink, which is very lovely. \nEcheveria hongjuanye like the sunshine. In hot summer it needs a short dormancy, and place it in the semi-shade. It is blooming from March to May with orange color flowers.",
+        "origin": "Asia",
+        "production": "Yunnan",
+        "category": "Crassulaceae, Echeveria",
+        "blooming": "Succulent plants, sometimes flowers, orange flowers",
+        "color": "Leaf color blue green, when sunny leaf color turning to peach red"
+    },
+    "display_pid": "Echeveria hongjuanye",
+    "maintenance": {
+        "size": "Diameter 6-10 cm, height 5-15 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, and resistant to half shade, short period of dormancy in summer, use half shade for better care",
+        "watering": "Water thoroughly 2 times during summer dormancy, keep soil moist in other time, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions,  apply once monthly in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7000,
+        "min_light_mmol": 5000,
+        "max_light_lux": 80000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\echeveria hongjuanye.jpg"
+}

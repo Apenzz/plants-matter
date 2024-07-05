@@ -1,0 +1,35 @@
+{
+    "pid": "aster novi belgii",
+    "basic": {
+        "floral_language": "Aster novi-belgii \nFloriography: elegant, plain, pure\nAster novi-belgiiis very beautiful. Under sunlight, like dazzling little stars in clusters or clumps.Aster novi-belgii resist cold weather, even frost, therefore loved by the public in the fall season, and are often well loved by the ancient literati. \nAster novi-belgii like sunny days, mainly blossom in September-November for 3-4 weeks.",
+        "origin": "North America",
+        "production": "China",
+        "category": "Compositae, Aster",
+        "blooming": "Flowering period August-October, viewing period 3-4 weeks",
+        "color": "Flower color blue purple or rose red"
+    },
+    "display_pid": "Aster novi belgii",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like adequate sunshine",
+        "watering": "Resistant to drought, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn",
+        "pruning": "After flowering remove the withered flowers, the part on the ground will wither in winter, the plant germinates again in spring"
+    },
+    "parameter": {
+        "max_light_mmol": 6400,
+        "min_light_mmol": 3200,
+        "max_light_lux": 55000,
+        "min_light_lux": 3000,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 20,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\aster novi belgii.jpg"
+}

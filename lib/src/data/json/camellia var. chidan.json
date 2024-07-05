@@ -1,0 +1,35 @@
+{
+    "pid": "camellia var. chidan",
+    "basic": {
+        "floral_language": "Camellia spp.\nFloriography: modest, cautious, lovely.\nThe East Asian camellia ranks the 7th in the top 10 Chinese traditional flowers. The camellia was popular with its graceful plant shape, green oval shaped leaves, bowl shape flowers, a variety of colors (pink, red, yellow, and multi-colors) and subtle elegant scent.\nThe camellia prefers partial shade. It is best grew in places with bright scatter light during summer and fall, could be moved under direct sunlight during winter. Blooming from October to next May for a duration of three to four weeks.",
+        "origin": "China",
+        "production": "China",
+        "category": "Theaceae, Camellia",
+        "blooming": "Flowering period October-May, viewing period 3-4 weeks",
+        "color": "Flower color red, yellow, white, pink"
+    },
+    "display_pid": "Camellia var. chidan",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Likes acidic soil, peat or soil with specific nutrients",
+        "sunlight": "Like half shade, put in places with moderate light in spring and autumn, full sunlight in winter",
+        "watering": "Not resistant to drought, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn, except flowering stages",
+        "pruning": "Remove dead and yellowish leaves and withered flowers"
+    },
+    "parameter": {
+        "max_light_mmol": 5600,
+        "min_light_mmol": 2000,
+        "max_light_lux": 40000,
+        "min_light_lux": 2000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 20,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 200
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\camellia var. chidan.jpg"
+}

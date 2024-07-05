@@ -1,0 +1,35 @@
+{
+    "pid": "eupatorium fistulosum",
+    "basic": {
+        "floral_language": "",
+        "origin": "China, Japan, Korea",
+        "production": "China",
+        "category": "Compositae, Eupatorium",
+        "blooming": "Flowering and fruiting period July-November",
+        "color": "Flower color pink, rose red"
+    },
+    "display_pid": "Eupatorium fistulosum",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 20-30 cm",
+        "soil": "Sandy loam",
+        "sunlight": "Like half shade, may grow in places with bright scattered light",
+        "watering": "Only need keep soil moist",
+        "fertilization": "Apply enough base fertilizers",
+        "pruning": "Remove dead and diseased branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4000,
+        "min_light_mmol": 2000,
+        "max_light_lux": 20000,
+        "min_light_lux": 3700,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\eupatorium fistulosum.jpg"
+}

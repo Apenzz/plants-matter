@@ -1,0 +1,35 @@
+{
+    "pid": "canna edulis",
+    "basic": {
+        "floral_language": "",
+        "origin": "South America",
+        "production": "China",
+        "category": "Cannaceae, Canna",
+        "blooming": "Flowering period September-October",
+        "color": "Flower color orange red"
+    },
+    "display_pid": "Canna edulis",
+    "maintenance": {
+        "size": "Diameter\u226515cm\uff0cHeight\u226525cm",
+        "soil": "fertile sandy loam",
+        "sunlight": "Enjoy sufficient sunlight",
+        "watering": "Like wet, water thoroughly when the soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7700,
+        "min_light_mmol": 3000,
+        "max_light_lux": 75000,
+        "min_light_lux": 2500,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\canna edulis.jpg"
+}

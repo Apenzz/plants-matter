@@ -1,0 +1,35 @@
+{
+    "pid": "syngonium podophyllum 'pixie'",
+    "basic": {
+        "floral_language": "",
+        "origin": "Tropical Americas",
+        "production": "China",
+        "category": "Araceae, Syngonium",
+        "blooming": "Flowering period in summer and autumn",
+        "color": "Flower color light green or yellow, leaf color green and yellow white"
+    },
+    "display_pid": "Syngonium podophyllum 'Pixie'",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Slightly acidic soil with loose texture or soil with specific nutrients",
+        "sunlight": "Like low light level, put in places with scattered light",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, fertilize with a low concentration on average every 2 weeks",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 2500,
+        "min_light_mmol": 1200,
+        "max_light_lux": 12000,
+        "min_light_lux": 500,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\syngonium podophyllum 'pixie'.jpg"
+}

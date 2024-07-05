@@ -1,0 +1,35 @@
+{
+    "pid": "portulaca molokiniensis",
+    "basic": {
+        "floral_language": "Portulaca molokiniensis\nFloriography: blessed, grand, rich\nThe plant has strong stems often woody, with fleshy and round leaves like a pile of coins on the top, high ornamental value, often used in door as an evergreen foliar plant.\nLikes abundant sunlight, tolerates to half shade, being dormant in summer, shade properly under scattered light. Flowers are yellow.",
+        "origin": "South Africa",
+        "production": "China",
+        "category": "Portulacaceae, Portulaca",
+        "blooming": "Succulent plants, sometimes flowers, yellow flowers",
+        "color": "Leaf color green"
+    },
+    "display_pid": "Portulaca molokiniensis",
+    "maintenance": {
+        "size": "Diameter \u2265 5 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, a short period of dormancy in summer, put in places with bright scattered light",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce water in summer and winter",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6700,
+        "min_light_mmol": 3200,
+        "max_light_lux": 60000,
+        "min_light_lux": 2000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\portulaca molokiniensis.jpg"
+}

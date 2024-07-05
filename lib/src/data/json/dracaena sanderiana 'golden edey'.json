@@ -1,0 +1,35 @@
+{
+    "pid": "dracaena sanderiana 'golden edey'",
+    "basic": {
+        "floral_language": "Dracaena sanderiana 'Golden Edey'\nFloriography: good fortune, joy, tenacity \nLucky bamboo known as transit bamboo is a symbol of prosperous and peaceful. \nLucky bamboo posture is natural and unrestrained graceful, internodes is like bamboo but not bamboo. Leaf shape is long ovoid to lanceolate, and leaf color is green. Usually as ornamental potted plant, it is put in the living room, desk and bedroom. \nLucky bamboo likes semi shade. Avoid directly bright light, and place scattered light maintenance. Proper maintenance it will be flowering. Flower color is light purple.",
+        "origin": "Madagascar",
+        "production": "China",
+        "category": "Agavaceae, Dracaena",
+        "blooming": "Foliage plants, sometimes flowers, yellow green flowers",
+        "color": "Leaf color emerald green, edges golden yellow"
+    },
+    "display_pid": "Dracaena sanderiana 'Golden Edey'",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 10-30 cm",
+        "soil": "Well-drained sandy loam or hydroponics",
+        "sunlight": "Like half shade, avoid strong direct light, put in places with scattered light",
+        "watering": "Like wet environments, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, in summer and autumn apply fertilizers once monthly",
+        "pruning": "Remove dead, yellowish and disease leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 2700,
+        "min_light_mmol": 1100,
+        "max_light_lux": 25000,
+        "min_light_lux": 800,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\dracaena sanderiana 'golden edey'.jpg"
+}

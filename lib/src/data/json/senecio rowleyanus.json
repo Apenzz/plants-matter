@@ -1,0 +1,35 @@
+{
+    "pid": "senecio rowleyanus",
+    "basic": {
+        "floral_language": "Senecio rowleyanus\nFloriography: lovely, smooth, kind\nHas smooth and fleshy round green leaves, like 'Prayer's beads', has a dark green longitudinal stripe in the middle of a leaf, long stems with many branches, like strings of beads, often used as a hanging plant alone, high ornamental value, \nLikes half shaded environments, need shade properly under scattered light, reduce watering under summer high temperature. Flowers when conditions are right, white or brown flowers.",
+        "origin": "South Africa",
+        "production": "China",
+        "category": "Compositae, Senecio",
+        "blooming": "Succulent plants, sometimes flowers, white or brown flowers",
+        "color": "Leaf color green"
+    },
+    "display_pid": "Senecio rowleyanus",
+    "maintenance": {
+        "size": "Diameter \u2265 2 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Like half shade, put in places with scattered light",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, water less frequently under summer high temperature",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4000,
+        "min_light_mmol": 1600,
+        "max_light_lux": 25000,
+        "min_light_lux": 800,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\senecio rowleyanus.jpg"
+}

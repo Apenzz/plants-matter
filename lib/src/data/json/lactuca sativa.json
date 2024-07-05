@@ -1,0 +1,35 @@
+{
+    "pid": "lactuca sativa",
+    "basic": {
+        "floral_language": "",
+        "origin": "Mediterranean coastal areas",
+        "production": "China",
+        "category": "Compositae, Lactuca",
+        "blooming": "Flowering and fruiting period February-September",
+        "color": "Leaf color green"
+    },
+    "display_pid": "Lactuca sativa",
+    "maintenance": {
+        "size": "Diameter \u2265 15 cm, height \u2265 25 cm",
+        "soil": "Slightly acidic soil with loose texture or soil with specific nutrients",
+        "sunlight": "Like sunshine, resistant to half shade, avoid strong direct light",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\lactuca sativa.jpg"
+}

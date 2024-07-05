@@ -1,0 +1,35 @@
+{
+    "pid": "ranunculus asiaticus",
+    "basic": {
+        "floral_language": "Ranunculus asiaticus \nFloriography: nobel, refined, beautiful.\nRanunculus asiaticus is a small herbaceous plant. The flower is similar to tree ponies but smaller and well developed. Flower color varies. Petal are mostly polyphyll. It is very popular for pot cultivation and cut flower.\nThe plant prefers partial shade habitat, goes through dormancy in summer. It grows well in scatter light. Shade should be avoided in winter. The flower blooms in April to May for two to three weeks.",
+        "origin": "Asia, Europe",
+        "production": "China",
+        "category": "Ranunculaceae, Ranunculus",
+        "blooming": "Flowering period April-May, viewing period 2-3 weeks",
+        "color": "Red, yellow, white"
+    },
+    "display_pid": "Ranunculus asiaticus",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes half shade environments, dormant in summer, put in places with scattered light, full sunlight in winter",
+        "watering": "Water thoroughly after soil surface dries",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4000,
+        "min_light_mmol": 2000,
+        "max_light_lux": 20000,
+        "min_light_lux": 2500,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\ranunculus asiaticus.jpg"
+}

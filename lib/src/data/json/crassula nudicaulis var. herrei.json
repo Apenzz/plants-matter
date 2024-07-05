@@ -1,0 +1,35 @@
+{
+    "pid": "crassula nudicaulis var. herrei",
+    "basic": {
+        "floral_language": "Crassula nudicaulis var herrei \nFloriography: self-reliant, pure, faithful\nGreen leaves of crescent shape, meaty. Leaf edge turns into dark brown or dark red color in abundant sun light. Grows fast with lateral branches, lovely look. \nToelken likes sun, leaves turn green in lack of sun light. Occasionally produces white flowers.",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, Crassula",
+        "blooming": "Succulent plants, blooms sometimes, with white small flowers",
+        "color": "Leaf color green, with adequate sunlight, leaves edges turning to red brown"
+    },
+    "display_pid": "Crassula nudicaulis var. herrei",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 10-15 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Summer is its dormant period, use half shade for better care, spring and autumn are its growing seasons, need plenty of sunshine",
+        "watering": "Water 2 times during summer dormancy, 20ml water every time, keep soil moist in other time, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 3600,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\crassula nudicaulis var. herrei.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "euphorbia cyathophora",
+    "basic": {
+        "floral_language": "",
+        "origin": "Tropical Americas",
+        "production": "Southern China",
+        "category": "Euphorbiaceae, Euphorbia",
+        "blooming": "Flowering period May-November",
+        "color": "Leaf color green , bract red, flower color yellow green"
+    },
+    "display_pid": "Euphorbia cyathophora",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 15-50 cm",
+        "soil": "Loose, fertile, and well-drained loam soil",
+        "sunlight": "Like sunshine, resistant to half shade",
+        "watering": "Water thoroughly when soil is dry",
+        "fertilization": "Require a lot fertilization, apply fertilizers 2-3 times each month in spring and summer",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\euphorbia cyathophora.jpg"
+}

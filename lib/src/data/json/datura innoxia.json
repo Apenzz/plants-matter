@@ -1,0 +1,35 @@
+{
+    "pid": "datura innoxia",
+    "basic": {
+        "floral_language": "Datura innoxia \nFloriography: wise, graceful, fortunate\nDatura innoxia has funnel-shaped flowers, like morning glory.\nStout upright stems and broadly ovate leaves with wavy and toothed edges, huge flowers, funnel-shaped or trumpet-shaped in rich colors such as blue, purple, white, pink, etc. Datura innoxia has medical values, but may be fatally toxic.\nDatura innoxia likes adequate sunlight. Flowering from May to September for 2-3 weeks.",
+        "origin": "India",
+        "production": "China",
+        "category": "Solanaceae, Datura",
+        "blooming": "Flowering period May-September, viewing period 2-3 weeks",
+        "color": "Flower color purple, pink, white"
+    },
+    "display_pid": "Datura innoxia",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon",
+        "watering": "Water thoroughly when soil is dry, reduce watering in winter",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly, except flowering stages",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\datura innoxia.jpg"
+}

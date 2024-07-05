@@ -1,0 +1,35 @@
+{
+    "pid": "kudoacanthus albonervosa",
+    "basic": {
+        "floral_language": "",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Acanthaceae, Kudoacanthus",
+        "blooming": "Flowering period7-9\u6708",
+        "color": "Leaf color deep green, flower color yellow"
+    },
+    "display_pid": "Kudoacanthus albonervosa",
+    "maintenance": {
+        "size": "Diameter\u226510cm\uff0cHeight\u226515cm",
+        "soil": "Loose soil or soil with specific nutrient",
+        "sunlight": "Like bright scattered light, full-sun in winter",
+        "watering": "Like wet, water thoroughly when soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5200,
+        "min_light_mmol": 1800,
+        "max_light_lux": 30000,
+        "min_light_lux": 1500,
+        "max_temp": 35,
+        "min_temp": 12,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\kudoacanthus albonervosa.jpg"
+}

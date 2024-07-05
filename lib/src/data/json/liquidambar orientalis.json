@@ -1,0 +1,35 @@
+{
+    "pid": "liquidambar orientalis",
+    "basic": {
+        "floral_language": "",
+        "origin": "Asia, Americas",
+        "production": "Guangxi",
+        "category": "Altingiaceae, Liquidambar",
+        "blooming": "Flowering period March-May",
+        "color": "Flower color yellow green"
+    },
+    "display_pid": "Liquidambar orientalis",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 15-20 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes warm moist environments, like sunshine",
+        "watering": "Only need keep soil moist",
+        "fertilization": "Apply enough base fertilizers",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3700,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\liquidambar orientalis.jpg"
+}

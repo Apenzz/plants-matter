@@ -1,0 +1,35 @@
+{
+    "pid": "delphinium elatum",
+    "basic": {
+        "floral_language": "Delphinium elatum \nFloriography: elegant, light-hearted, upright\nDelphinium elatum belongs to the herbs, has a handsome and graceful plant form, unique flower with colorful colors, similar to Consolida ajacis (Delphinium ajacis, Delphinium ambiguum, doubtful knight's spur, rocket larkspur), often be confused, a closer look will find that Delphinium elatum has hairs in the middle of flower. Suitable for flower beds or home.\nDelphinium elatum likes ample sunlight, resistant to half shade, avoid direct strong sunlight. Blooms in May-October for 2-3 weeks.",
+        "origin": "Europe",
+        "production": "China",
+        "category": "Ranunculaceae, Delphinium",
+        "blooming": "Flowering period May-October, viewing period 2-3 weeks",
+        "color": "Flower color blue purple"
+    },
+    "display_pid": "Delphinium elatum",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like adequate light, resistant to half shade",
+        "watering": "Water thoroughly after soil surface dries",
+        "fertilization": "Dilute fertilizers following instructions, dilute fertilizers following instructions,  in early summer, spring and autumn apply fertilizers once monthly",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5000,
+        "min_light_mmol": 3500,
+        "max_light_lux": 50000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\delphinium elatum.jpg"
+}

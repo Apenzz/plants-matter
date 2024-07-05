@@ -1,0 +1,35 @@
+{
+    "pid": "miscanthus giganteus",
+    "basic": {
+        "floral_language": "",
+        "origin": "Asia",
+        "production": "Southern China",
+        "category": "Gramineae, Miscanthus",
+        "blooming": "Flowering periodJuly-December",
+        "color": "Flower color yellow green"
+    },
+    "display_pid": "Miscanthus giganteus",
+    "maintenance": {
+        "size": "height 1-2 m",
+        "soil": "Acidic soil",
+        "sunlight": "Put in places with adequate sunlight",
+        "watering": "Resistant to drought",
+        "fertilization": "No much requirement for fertilizers",
+        "pruning": "The ability of propagate is high, simply remove diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3700,
+        "max_temp": 33,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\miscanthus giganteus.jpg"
+}

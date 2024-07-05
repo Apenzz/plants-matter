@@ -1,0 +1,35 @@
+{
+    "pid": "osmanthus fragrans var. thunbergii",
+    "basic": {
+        "floral_language": "Osmanthus fragrans var. thunbergii\nFloriography: indifferent, chaste, glorious\nOsmanthus fragrans var. thunbergii is leafy with dark green leaf color and oblong leaf shape. Flowers are miniature in dense clusters with a sweet smell even in a far distance. Osmanthus flowers can be used to extract oil, for pastry, wine and tea, with anti-inflammatory and other cosmetics use.\nOsmanthus fragrans var. thunbergii likes sunny place, but shade properly in summer to avoid strong sunlight. Flowering from August to October 2-3 weeks.",
+        "origin": "China",
+        "production": "China",
+        "category": "Oleaceae, Osmanthus",
+        "blooming": "Flowers year around, mainly in autumn",
+        "color": "Flower color white or light yellow"
+    },
+    "display_pid": "Osmanthus fragrans var. thunbergii",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Like acid soil, peat or soil with specific nutrients",
+        "sunlight": "Like sunshine, slight shade tolerance, avoid strong light",
+        "watering": "Water thoroughly when soil is dry, reduce watering and fertilization in winter",
+        "fertilization": "Need more fertilization, apply low concentration liquid fertilizes every 7-10 days",
+        "pruning": "Remove withered and overlong branches, trim before sprouting in winner or early spring"
+    },
+    "parameter": {
+        "max_light_mmol": 5400,
+        "min_light_mmol": 3200,
+        "max_light_lux": 60000,
+        "min_light_lux": 1500,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\osmanthus fragrans var. thunbergii.jpg"
+}

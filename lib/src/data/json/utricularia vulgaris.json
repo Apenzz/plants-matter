@@ -1,0 +1,35 @@
+{
+    "pid": "utricularia vulgaris",
+    "basic": {
+        "floral_language": "",
+        "origin": "Temperate regions worldwide",
+        "production": "China",
+        "category": "Lentibulariaceae, Utricularia",
+        "blooming": "Carnivorous plant\uff0cFlowering period June-August",
+        "color": "Flower color yellow"
+    },
+    "display_pid": "Utricularia vulgaris",
+    "maintenance": {
+        "size": "Diameter\u22655cm\uff0cHeight\u22655cm",
+        "soil": "In sphagnum moss or planted in water",
+        "sunlight": "Like bright scattered light",
+        "watering": "Like wet, water thoroughly when the soil surface is dry",
+        "fertilization": "Can feed by self or provide low concentration liquid fertilizer",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 2500,
+        "min_light_mmol": 800,
+        "max_light_lux": 15000,
+        "min_light_lux": 300,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 50
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\utricularia vulgaris.jpg"
+}

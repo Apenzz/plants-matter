@@ -1,0 +1,35 @@
+{
+    "pid": "mammillaria elongata",
+    "basic": {
+        "floral_language": "Mammillaria elongata\nFloriography: lovely, warm-hearted, strong\nIs a Cereus, grows in a cluster, thick and fleshy covered by golden yellow thorns, but thorns are long and scattered. Easy to grow, often placed on a desk, coffee table, in bedrooms or offices.\nLikes sunny places, has a summer dormant period, need put under bright scattered light. With the right conditions blooms with pale yellow flowers.",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Cactaceae, Mammillaria",
+        "blooming": "Succulent plants, sometimes flowers, light yellow flowers",
+        "color": "Leaf color green, covered by thin soft yellow spines"
+    },
+    "display_pid": "Mammillaria elongata",
+    "maintenance": {
+        "size": "Diameter \u2265 5 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, a short period of dormancy in summer and winter , put in places with bright scattered light",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce water in summer and winter",
+        "fertilization": "Dilute fertilizers following instructions,  apply once monthly in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6600,
+        "min_light_mmol": 2700,
+        "max_light_lux": 75000,
+        "min_light_lux": 2000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\mammillaria elongata.jpg"
+}

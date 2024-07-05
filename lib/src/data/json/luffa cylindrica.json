@@ -1,0 +1,35 @@
+{
+    "pid": "luffa cylindrica",
+    "basic": {
+        "floral_language": "",
+        "origin": "India",
+        "production": "China",
+        "category": "Cucurbitaceae, Luffa",
+        "blooming": "Flowering and fruiting period in summer and autumn",
+        "color": "Flower color yellow, fruit color green or black green"
+    },
+    "display_pid": "Luffa cylindrica",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, can climb",
+        "soil": "Soil with loose texture or soil with specific nutrients, pH value between 6-6.5",
+        "sunlight": "Like sunshine, slight shade tolerance, high quality fruits in sunny places",
+        "watering": "Likes wet environments, not resistant to drought, water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Like fertilizer very much, apply more fertilizer during fruiting time",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely and harvest tender fruit about 10 days after flowering"
+    },
+    "parameter": {
+        "max_light_mmol": 18000,
+        "min_light_mmol": 4500,
+        "max_light_lux": 110000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 75,
+        "min_soil_moist": 25,
+        "max_soil_ec": 2800,
+        "min_soil_ec": 300
+    },
+    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\luffa cylindrica.jpg"
+}
