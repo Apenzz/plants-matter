@@ -124,14 +124,16 @@ class _CarePlanItemState extends State<CarePlanItem> {
       context: context,
       builder: (context) {
         return FrequencyPicker(
-          name: widget.name,
           onSelected: (frequency) {
             setState(() {
               _selectedFrequency = frequency;
             });
             widget.onFrequencyChanged(frequency);
           },
+          name: widget.name
+
         );
+        
       },
     );
   }
