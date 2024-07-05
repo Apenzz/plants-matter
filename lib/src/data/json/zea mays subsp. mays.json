@@ -31,5 +31,5 @@
         "max_soil_ec": 2000,
         "min_soil_ec": 200
     },
-    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\zea mays subsp. mays.jpg"
+    "image": "..\\..\\..\\..\\assets\\images\\zea mays subsp. mays.jpg"
 }

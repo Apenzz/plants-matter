@@ -31,5 +31,5 @@
         "max_soil_ec": 2000,
         "min_soil_ec": 80
     },
-    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\heteropanax fragrans.jpg"
+    "image": "..\\..\\..\\..\\assets\\images\\heteropanax fragrans.jpg"
 }

@@ -31,5 +31,5 @@
         "max_soil_ec": 2000,
         "min_soil_ec": 400
     },
-    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\rosa chinensis.jpg"
+    "image": "..\\..\\..\\..\\assets\\images\\rosa chinensis.jpg"
 }

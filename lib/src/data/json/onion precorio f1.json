@@ -31,5 +31,5 @@
         "max_soil_ec": 2500,
         "min_soil_ec": 100
     },
-    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\onion precorio f1.jpg"
+    "image": "..\\..\\..\\..\\assets\\images\\onion precorio f1.jpg"
 }

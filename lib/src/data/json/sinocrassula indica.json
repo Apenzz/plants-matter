@@ -31,5 +31,5 @@
         "max_soil_ec": 1500,
         "min_soil_ec": 60
     },
-    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\sinocrassula indica.jpg"
+    "image": "..\\..\\..\\..\\assets\\images\\sinocrassula indica.jpg"
 }

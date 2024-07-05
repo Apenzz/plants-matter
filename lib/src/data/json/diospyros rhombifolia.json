@@ -31,5 +31,5 @@
         "max_soil_ec": 2000,
         "min_soil_ec": 150
     },
-    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\diospyros rhombifolia.jpg"
+    "image": "..\\..\\..\\..\\assets\\images\\diospyros rhombifolia.jpg"
 }

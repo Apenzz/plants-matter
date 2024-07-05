@@ -31,5 +31,5 @@
         "max_soil_ec": 1500,
         "min_soil_ec": 100
     },
-    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\indocalamus latifolius.jpg"
+    "image": "..\\..\\..\\..\\assets\\images\\indocalamus latifolius.jpg"
 }

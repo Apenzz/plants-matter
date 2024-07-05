@@ -31,5 +31,5 @@
         "max_soil_ec": 1000,
         "min_soil_ec": 150
     },
-    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\echeveria apus.jpg"
+    "image": "..\\..\\..\\..\\assets\\images\\echeveria apus.jpg"
 }

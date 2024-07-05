@@ -31,5 +31,5 @@
         "max_soil_ec": 1000,
         "min_soil_ec": 300
     },
-    "image": "C:\\Users\\Rick\\Downloads\\PlantImages\\Images\\aloe erinacea.jpg"
+    "image": "..\\..\\..\\..\\assets\\images\\aloe erinacea.jpg"
 }
