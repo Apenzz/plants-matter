@@ -5,8 +5,8 @@ import json
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Specify the paths to your folders using relative paths
-json_folder = os.path.join(current_dir, "lib", "src", "data", "json")
-image_folder = os.path.join(current_dir, "assets", "images")
+json_folder = os.path.join(current_dir, "lib", "src", "data", "json-sample")
+image_folder = os.path.join(current_dir, "assets", "images-sample")
 
 # Check if the json_folder path exists
 if not os.path.exists(json_folder):
@@ -52,10 +52,10 @@ for json_filename in os.listdir(json_folder):
             
             # Check if the image file exists
             if os.path.exists(image_path):
-                # Calculate the relative path from JSON file to image file
-                rel_image_path = os.path.relpath(image_path, os.path.dirname(json_path))
+                # Set the image path in the JSON data to the desired format
+                rel_image_path = f'assets/images-sample/{image_filename}'
                 
-                # Update the 'image' value in the JSON data with relative path
+                # Update the 'image' value in the JSON data with the new path
                 data['image'] = rel_image_path
                 
                 # Write the updated JSON back to the file
@@ -67,4 +67,4 @@ for json_filename in os.listdir(json_folder):
         else:
             print(f"No 'pid' found in file: {json_path}")
 
-print("Finished updating JSON files with relative image paths.")
+print("Finished updating JSON files with new image paths.")

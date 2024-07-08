@@ -47,6 +47,11 @@ class DatabaseHelper {
     await db.insert('plants', plant);
   }
 
+  Future<List<Map<String, dynamic>>> queryAllPlants() async {
+    final db = await instance.database;
+    return await db.query('plants');
+  }
+
   Future<void> close() async {
     final db = await instance.database;
     db.close();
