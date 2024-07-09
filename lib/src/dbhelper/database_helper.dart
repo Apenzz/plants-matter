@@ -27,7 +27,7 @@ class DatabaseHelper {
   }
 
   Future _createDB(Database db, int version) async {
-    const plantTable = '''
+    await db.execute('''
     CREATE TABLE plants (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
       pid TEXT,
@@ -37,9 +37,15 @@ class DatabaseHelper {
       parameter TEXT,
       image TEXT
     );
-    ''';
+    ''');
 
-    await db.execute(plantTable);
+    await db.execute('''
+    CREATE TABLE owned_plants (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      plant_pid TEXT,
+      FOREIGN KEY (plant_pid) REFERENCES plants (pid)
+    );
+    ''');
   }
 
   Future<void> insertPlant(Map<String, dynamic> plant) async {
@@ -47,9 +53,20 @@ class DatabaseHelper {
     await db.insert('plants', plant);
   }
 
+  Future<void> insertOwnedPlant(String plantPid) async {
+    final db = await instance.database;
+    await db.insert('owned_plants', {'plant_pid': plantPid});
+  }
+
   Future<List<Map<String, dynamic>>> queryAllPlants() async {
     final db = await instance.database;
     return await db.query('plants');
+  }
+
+  Future<List<String>> queryOwnedPlantPids() async {
+    final db = await instance.database;
+    final results = await db.query('owned_plants', columns: ['plant_pid']);
+    return results.map((row) => row['plant_pid'] as String).toList();
   }
 
   Future<void> close() async {

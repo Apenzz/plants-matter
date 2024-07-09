@@ -34,9 +34,8 @@ class PlantProfileScreen extends StatelessWidget {
             PlantSection(
               title: 'Plant Info',
               content: [
-                'Plant type: ${plant!.type}',
-                'Botanical name: ${plant!.botanicalName}',
-                'Common name: ${plant!.name}',
+                'Plant category: ${plant!.category}',
+                'Origin: ${plant!.origin}',
               ],
               buttonText: 'Additional infos',
               plant: plant!,
