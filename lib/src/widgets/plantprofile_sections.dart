@@ -59,13 +59,12 @@ class PlantSection extends StatelessWidget {
                   ),
                   onPressed: () {
                     if (buttonText == 'Additional infos') {
-                      GoRouter.of(context).go('/myplants/plant/${plant.id}/additional infos');
+                      GoRouter.of(context).go('/myplants/${plant.id}/infos');
                     }
                     if (buttonText == 'Change plan') {
                       GoRouter.of(context).go('/myplants/${plant.id}/settings');
-                    } else {
-                      // Handle other button presses
                     }
+                    
                   },
                   child: buttonText == 'Diagnose' ? 
                     Row(

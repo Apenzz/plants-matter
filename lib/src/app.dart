@@ -1,7 +1,3 @@
-// Copyright 2021, the Flutter project authors. 
-// Please see the AUTHORS file for details. 
-// All rights reserved. Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.
-
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:plants_matter/src/data/myplants.dart';
@@ -11,6 +7,7 @@ import 'screens/plantprofile.dart';
 import 'screens/homepage.dart';
 import 'screens/scaffold.dart';
 import 'screens/careplansettings.dart';
+import 'screens/plantinfos.dart';
 import 'widgets/fade_transition_page.dart';
 import '../material_theme.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -97,7 +94,15 @@ class _PlantsmatterState extends State<Plantsmatter> {
                       GoRoute(
                         path: 'settings',
                         builder: (context, state) {
-                          return  CarePlanSettingsScreen(
+                          return CarePlanSettingsScreen(
+                            plant: myPlantsInstance.getPlant(state.pathParameters['plantId'] ?? ''),
+                          );
+                        },
+                      ),
+                      GoRoute(
+                        path: 'infos',
+                        builder: (context, state) {
+                          return PlantInfosScreen(
                             plant: myPlantsInstance.getPlant(state.pathParameters['plantId'] ?? ''),
                           );
                         },
