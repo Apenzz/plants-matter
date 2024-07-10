@@ -6,6 +6,8 @@ import 'screens/myplants_screen.dart';
 import 'screens/plantprofile.dart';
 import 'screens/homepage.dart';
 import 'screens/scaffold.dart';
+import 'screens/search.dart';
+
 import 'screens/careplansettings.dart';
 import 'screens/plantinfos.dart';
 import 'widgets/fade_transition_page.dart';
@@ -54,6 +56,18 @@ class _PlantsmatterState extends State<Plantsmatter> {
               );
             },
             routes: [
+               GoRoute(
+                path: '/search',
+                pageBuilder: (context, state) {
+                  return FadeTransitionPage<dynamic>(
+                    key: state.pageKey,
+                    child: Builder(builder: (context) {
+                      return SearchScreen(
+                      );
+                    }),
+                  );
+                },
+              ),
               GoRoute(
                 path: '/',
                 pageBuilder: (context, state) {
