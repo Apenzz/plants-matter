@@ -1,0 +1,76 @@
+import 'dart:io';
+import 'package:path/path.dart';
+import 'package:path_provider/path_provider.dart';
+import 'package:sqflite/sqflite.dart';
+
+class DatabaseHelper {
+  static final DatabaseHelper instance = DatabaseHelper._init();
+  static Database? _database;
+
+  DatabaseHelper._init();
+
+  Future<Database> get database async {
+    if (_database != null) return _database!;
+    _database = await _initDB('plants.db');
+    return _database!;
+  }
+
+  Future<Database> _initDB(String filePath) async {
+    Directory documentsDirectory = await getApplicationDocumentsDirectory();
+    final dbPath = join(documentsDirectory.path, filePath);
+
+    return await openDatabase(
+      dbPath,
+      version: 1,
+      onCreate: _createDB,
+    );
+  }
+
+  Future _createDB(Database db, int version) async {
+    await db.execute('''
+    CREATE TABLE plants (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      pid TEXT,
+      basic TEXT,
+      display_pid TEXT,
+      maintenance TEXT,
+      parameter TEXT,
+      image TEXT
+    );
+    ''');
+
+    await db.execute('''
+    CREATE TABLE owned_plants (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      plant_pid TEXT,
+      FOREIGN KEY (plant_pid) REFERENCES plants (pid)
+    );
+    ''');
+  }
+
+  Future<void> insertPlant(Map<String, dynamic> plant) async {
+    final db = await instance.database;
+    await db.insert('plants', plant);
+  }
+
+  Future<void> insertOwnedPlant(String plantPid) async {
+    final db = await instance.database;
+    await db.insert('owned_plants', {'plant_pid': plantPid});
+  }
+
+  Future<List<Map<String, dynamic>>> queryAllPlants() async {
+    final db = await instance.database;
+    return await db.query('plants');
+  }
+
+  Future<List<String>> queryOwnedPlantPids() async {
+    final db = await instance.database;
+    final results = await db.query('owned_plants', columns: ['plant_pid']);
+    return results.map((row) => row['plant_pid'] as String).toList();
+  }
+
+  Future<void> close() async {
+    final db = await instance.database;
+    db.close();
+  }
+}

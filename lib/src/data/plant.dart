@@ -4,15 +4,59 @@ class Plant {
   final String type;
   final String botanicalName;
   final String imagePath;
-  final DateTime lastWatered;
-  final String healthStatus;
+  DateTime lastWatered;
+  String healthStatus;
 
-  //expressed in number of days
-  final int wateringPlan;
-  final int fertilizingPlan;
-  final int pruningPlan;
+  // Expressed in number of days
+  int wateringPlan;
+  int fertilizingPlan;
+  int pruningPlan;
 
+  final String origin;
+  final String production;
+  final String category;
+  final String blooming;
+  final String color;
+  final String size;
+  final String soil;
+  final String sunlight;
+  final String watering;
+  final String fertilization;
+  final String pruning;
 
+  Plant(
+    this.id,
+    this.name,
+    this.type,
+    this.imagePath,
+    this.lastWatered,
+    this.wateringPlan,
+    this.fertilizingPlan,
+    this.pruningPlan,
+    this.botanicalName,
+    this.healthStatus,
+    this.origin,
+    this.production,
+    this.category,
+    this.blooming,
+    this.color,
+    this.size,
+    this.soil,
+    this.sunlight,
+    this.watering,
+    this.fertilization,
+    this.pruning,
+  );
 
-  Plant(this.id, this.name, this.type, this.imagePath, this.lastWatered, this.wateringPlan, this.fertilizingPlan, this.pruningPlan, this.botanicalName, this.healthStatus);
+  void setWateringPlan(int newPlan) {
+    wateringPlan = newPlan;
+  }
+
+  void setFertilizingPlan(int newPlan) {
+    fertilizingPlan = newPlan;
+  }
+
+  void setPruningPlan(int newPlan) {
+    pruningPlan = newPlan;
+  }
 }
