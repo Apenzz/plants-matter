@@ -31,5 +31,5 @@
         "max_soil_ec": 2000,
         "min_soil_ec": 120
     },
-    "image": "..\\..\\..\\..\\assets\\images\\adansonia digitata.jpg"
+    "image": "assets/images-sample/adansonia digitata.jpg"
 }

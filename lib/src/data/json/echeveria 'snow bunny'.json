@@ -31,5 +31,5 @@
         "max_soil_ec": 1500,
         "min_soil_ec": 100
     },
-    "image": "..\\..\\..\\..\\assets\\images\\echeveria 'snow bunny'.jpg"
+    "image": "assets/images-sample/echeveria 'snow bunny'.jpg"
 }

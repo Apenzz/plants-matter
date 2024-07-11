@@ -31,5 +31,5 @@
         "max_soil_ec": 2000,
         "min_soil_ec": 350
     },
-    "image": "..\\..\\..\\..\\assets\\images\\ficus aurea.jpg"
+    "image": "assets/images-sample/ficus aurea.jpg"
 }

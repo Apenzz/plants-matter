@@ -31,5 +31,5 @@
         "max_soil_ec": 1000,
         "min_soil_ec": 300
     },
-    "image": "..\\..\\..\\..\\assets\\images\\echeveia 'black prince'.jpg"
+    "image": "assets/images-sample/echeveia 'black prince'.jpg"
 }

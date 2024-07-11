@@ -31,5 +31,5 @@
         "max_soil_ec": 1200,
         "min_soil_ec": 50
     },
-    "image": "..\\..\\..\\..\\assets\\images\\ariocarpus trigonus var.minor.jpg"
+    "image": "assets/images-sample/ariocarpus trigonus var.minor.jpg"
 }

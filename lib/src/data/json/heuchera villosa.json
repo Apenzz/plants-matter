@@ -31,5 +31,5 @@
         "max_soil_ec": 1000,
         "min_soil_ec": 80
     },
-    "image": "..\\..\\..\\..\\assets\\images\\heuchera villosa.jpg"
+    "image": "assets/images-sample/heuchera villosa.jpg"
 }

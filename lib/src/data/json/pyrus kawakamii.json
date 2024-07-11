@@ -31,5 +31,5 @@
         "max_soil_ec": 2000,
         "min_soil_ec": 350
     },
-    "image": "..\\..\\..\\..\\assets\\images\\pyrus kawakamii.jpg"
+    "image": "assets/images-sample/pyrus kawakamii.jpg"
 }

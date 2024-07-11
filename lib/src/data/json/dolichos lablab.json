@@ -31,5 +31,5 @@
         "max_soil_ec": 2200,
         "min_soil_ec": 100
     },
-    "image": "..\\..\\..\\..\\assets\\images\\dolichos lablab.jpg"
+    "image": "assets/images-sample/dolichos lablab.jpg"
 }

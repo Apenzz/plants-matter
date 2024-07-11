@@ -31,5 +31,5 @@
         "max_soil_ec": 1500,
         "min_soil_ec": 50
     },
-    "image": "..\\..\\..\\..\\assets\\images\\echeveria laulensis.jpg"
+    "image": "assets/images-sample/echeveria laulensis.jpg"
 }

@@ -31,5 +31,5 @@
         "max_soil_ec": 1000,
         "min_soil_ec": 10
     },
-    "image": "..\\..\\..\\..\\assets\\images\\bryophyte.jpg"
+    "image": "assets/images-sample/bryophyte.jpg"
 }

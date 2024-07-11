@@ -31,5 +31,5 @@
         "max_soil_ec": 2000,
         "min_soil_ec": 150
     },
-    "image": "..\\..\\..\\..\\assets\\images\\capsicum mambo orange.jpg"
+    "image": "assets/images-sample/capsicum mambo orange.jpg"
 }

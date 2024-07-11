@@ -31,5 +31,5 @@
         "max_soil_ec": 1000,
         "min_soil_ec": 200
     },
-    "image": "..\\..\\..\\..\\assets\\images\\greenovia diplocycla var.gigantea.jpg"
+    "image": "assets/images-sample/greenovia diplocycla var.gigantea.jpg"
 }

@@ -31,5 +31,5 @@
         "max_soil_ec": 2000,
         "min_soil_ec": 200
     },
-    "image": "..\\..\\..\\..\\assets\\images\\astragalus sinicus.jpg"
+    "image": "assets/images-sample/astragalus sinicus.jpg"
 }

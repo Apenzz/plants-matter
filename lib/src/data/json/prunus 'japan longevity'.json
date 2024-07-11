@@ -31,5 +31,5 @@
         "max_soil_ec": 1800,
         "min_soil_ec": 400
     },
-    "image": "..\\..\\..\\..\\assets\\images\\prunus 'japan longevity'.jpg"
+    "image": "assets/images-sample/prunus 'japan longevity'.jpg"
 }

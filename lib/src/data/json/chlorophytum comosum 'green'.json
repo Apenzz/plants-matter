@@ -31,5 +31,5 @@
         "max_soil_ec": 1300,
         "min_soil_ec": 200
     },
-    "image": "..\\..\\..\\..\\assets\\images\\chlorophytum comosum 'green'.jpg"
+    "image": "assets/images-sample/chlorophytum comosum 'green'.jpg"
 }

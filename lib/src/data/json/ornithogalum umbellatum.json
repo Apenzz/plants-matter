@@ -31,5 +31,5 @@
         "max_soil_ec": 1500,
         "min_soil_ec": 200
     },
-    "image": "..\\..\\..\\..\\assets\\images\\ornithogalum umbellatum.jpg"
+    "image": "assets/images-sample/ornithogalum umbellatum.jpg"
 }

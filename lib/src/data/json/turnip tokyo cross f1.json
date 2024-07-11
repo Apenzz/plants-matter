@@ -31,5 +31,5 @@
         "max_soil_ec": 2800,
         "min_soil_ec": 350
     },
-    "image": "..\\..\\..\\..\\assets\\images\\turnip tokyo cross f1.jpg"
+    "image": "assets/images-sample/turnip tokyo cross f1.jpg"
 }

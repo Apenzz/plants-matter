@@ -31,5 +31,5 @@
         "max_soil_ec": 1500,
         "min_soil_ec": 80
     },
-    "image": "..\\..\\..\\..\\assets\\images\\arabidopsis thaliana.jpg"
+    "image": "assets/images-sample/arabidopsis thaliana.jpg"
 }

@@ -31,5 +31,5 @@
         "max_soil_ec": 1000,
         "min_soil_ec": 300
     },
-    "image": "..\\..\\..\\..\\assets\\images\\agave americana var.marginata alba.jpg"
+    "image": "assets/images-sample/agave americana var.marginata alba.jpg"
 }

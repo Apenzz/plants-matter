@@ -31,5 +31,5 @@
         "max_soil_ec": 1300,
         "min_soil_ec": 50
     },
-    "image": "..\\..\\..\\..\\assets\\images\\euphorbia obesa.jpg"
+    "image": "assets/images-sample/euphorbia obesa.jpg"
 }

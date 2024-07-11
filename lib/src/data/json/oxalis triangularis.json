@@ -31,5 +31,5 @@
         "max_soil_ec": 1600,
         "min_soil_ec": 300
     },
-    "image": "..\\..\\..\\..\\assets\\images\\oxalis triangularis.jpg"
+    "image": "assets/images-sample/oxalis triangularis.jpg"
 }

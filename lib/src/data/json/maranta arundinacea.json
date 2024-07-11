@@ -31,5 +31,5 @@
         "max_soil_ec": 1000,
         "min_soil_ec": 350
     },
-    "image": "..\\..\\..\\..\\assets\\images\\maranta arundinacea.jpg"
+    "image": "assets/images-sample/maranta arundinacea.jpg"
 }

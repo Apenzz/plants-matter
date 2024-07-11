@@ -31,5 +31,5 @@
         "max_soil_ec": 2000,
         "min_soil_ec": 300
     },
-    "image": "..\\..\\..\\..\\assets\\images\\paeonia suffruticosa.jpg"
+    "image": "assets/images-sample/paeonia suffruticosa.jpg"
 }

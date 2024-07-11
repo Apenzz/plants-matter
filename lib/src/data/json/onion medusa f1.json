@@ -31,5 +31,5 @@
         "max_soil_ec": 2500,
         "min_soil_ec": 100
     },
-    "image": "..\\..\\..\\..\\assets\\images\\onion medusa f1.jpg"
+    "image": "assets/images-sample/onion medusa f1.jpg"
 }

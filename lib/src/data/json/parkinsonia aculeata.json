@@ -31,5 +31,5 @@
         "max_soil_ec": 2000,
         "min_soil_ec": 350
     },
-    "image": "..\\..\\..\\..\\assets\\images\\parkinsonia aculeata.jpg"
+    "image": "assets/images-sample/parkinsonia aculeata.jpg"
 }

@@ -31,5 +31,5 @@
         "max_soil_ec": 2000,
         "min_soil_ec": 350
     },
-    "image": "..\\..\\..\\..\\assets\\images\\carthamus tinctorius.jpg"
+    "image": "assets/images-sample/carthamus tinctorius.jpg"
 }

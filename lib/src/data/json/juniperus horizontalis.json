@@ -31,5 +31,5 @@
         "max_soil_ec": 2000,
         "min_soil_ec": 350
     },
-    "image": "..\\..\\..\\..\\assets\\images\\juniperus horizontalis.jpg"
+    "image": "assets/images-sample/juniperus horizontalis.jpg"
 }

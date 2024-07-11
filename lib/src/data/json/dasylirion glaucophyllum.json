@@ -31,5 +31,5 @@
         "max_soil_ec": 2000,
         "min_soil_ec": 350
     },
-    "image": "..\\..\\..\\..\\assets\\images\\dasylirion glaucophyllum.jpg"
+    "image": "assets/images-sample/dasylirion glaucophyllum.jpg"
 }

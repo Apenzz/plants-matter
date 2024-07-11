@@ -31,5 +31,5 @@
         "max_soil_ec": 2000,
         "min_soil_ec": 350
     },
-    "image": "..\\..\\..\\..\\assets\\images\\leycesteria formosa.jpg"
+    "image": "assets/images-sample/leycesteria formosa.jpg"
 }

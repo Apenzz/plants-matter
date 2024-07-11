@@ -31,5 +31,5 @@
         "max_soil_ec": 1000,
         "min_soil_ec": 50
     },
-    "image": "..\\..\\..\\..\\assets\\images\\graptopetalum pentandrum ssp superbum.jpg"
+    "image": "assets/images-sample/graptopetalum pentandrum ssp superbum.jpg"
 }

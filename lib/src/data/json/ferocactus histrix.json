@@ -31,5 +31,5 @@
         "max_soil_ec": 1000,
         "min_soil_ec": 100
     },
-    "image": "..\\..\\..\\..\\assets\\images\\ferocactus histrix.jpg"
+    "image": "assets/images-sample/ferocactus histrix.jpg"
 }

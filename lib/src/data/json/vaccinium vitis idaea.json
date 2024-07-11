@@ -31,5 +31,5 @@
         "max_soil_ec": 2000,
         "min_soil_ec": 350
     },
-    "image": "..\\..\\..\\..\\assets\\images\\vaccinium vitis idaea.jpg"
+    "image": "assets/images-sample/vaccinium vitis idaea.jpg"
 }

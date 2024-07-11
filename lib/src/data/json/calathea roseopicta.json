@@ -31,5 +31,5 @@
         "max_soil_ec": 1000,
         "min_soil_ec": 350
     },
-    "image": "..\\..\\..\\..\\assets\\images\\calathea roseopicta.jpg"
+    "image": "assets/images-sample/calathea roseopicta.jpg"
 }

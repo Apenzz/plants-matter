@@ -31,5 +31,5 @@
         "max_soil_ec": 1500,
         "min_soil_ec": 50
     },
-    "image": "..\\..\\..\\..\\assets\\images\\crassula dejecta.jpg"
+    "image": "assets/images-sample/crassula dejecta.jpg"
 }

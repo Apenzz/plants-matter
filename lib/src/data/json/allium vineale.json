@@ -31,5 +31,5 @@
         "max_soil_ec": 2000,
         "min_soil_ec": 100
     },
-    "image": "..\\..\\..\\..\\assets\\images\\allium vineale.jpg"
+    "image": "assets/images-sample/allium vineale.jpg"
 }

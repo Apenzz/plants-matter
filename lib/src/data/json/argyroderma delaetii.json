@@ -31,5 +31,5 @@
         "max_soil_ec": 1000,
         "min_soil_ec": 50
     },
-    "image": "..\\..\\..\\..\\assets\\images\\argyroderma delaetii.jpg"
+    "image": "assets/images-sample/argyroderma delaetii.jpg"
 }

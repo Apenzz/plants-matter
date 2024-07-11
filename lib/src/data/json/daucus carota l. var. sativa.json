@@ -31,5 +31,5 @@
         "max_soil_ec": 2800,
         "min_soil_ec": 200
     },
-    "image": "..\\..\\..\\..\\assets\\images\\daucus carota l. var. sativa.jpg"
+    "image": "assets/images-sample/daucus carota l. var. sativa.jpg"
 }

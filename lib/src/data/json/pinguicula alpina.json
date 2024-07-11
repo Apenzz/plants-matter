@@ -31,5 +31,5 @@
         "max_soil_ec": 1000,
         "min_soil_ec": 50
     },
-    "image": "..\\..\\..\\..\\assets\\images\\pinguicula alpina.jpg"
+    "image": "assets/images-sample/pinguicula alpina.jpg"
 }

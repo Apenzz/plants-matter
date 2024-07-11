@@ -31,5 +31,5 @@
         "max_soil_ec": 1500,
         "min_soil_ec": 100
     },
-    "image": "..\\..\\..\\..\\assets\\images\\sedum comic tom.jpg"
+    "image": "assets/images-sample/sedum comic tom.jpg"
 }

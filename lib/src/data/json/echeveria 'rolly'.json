@@ -31,5 +31,5 @@
         "max_soil_ec": 1000,
         "min_soil_ec": 200
     },
-    "image": "..\\..\\..\\..\\assets\\images\\echeveria 'rolly'.jpg"
+    "image": "assets/images-sample/echeveria 'rolly'.jpg"
 }

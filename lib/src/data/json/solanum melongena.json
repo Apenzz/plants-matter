@@ -31,5 +31,5 @@
         "max_soil_ec": 2800,
         "min_soil_ec": 400
     },
-    "image": "..\\..\\..\\..\\assets\\images\\solanum melongena.jpg"
+    "image": "assets/images-sample/solanum melongena.jpg"
 }
