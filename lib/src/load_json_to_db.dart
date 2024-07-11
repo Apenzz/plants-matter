@@ -10,7 +10,7 @@ Future<void> loadDatabase() async {
     final Map<String, dynamic> manifestMap = json.decode(manifestContent);
 
     final jsonFiles = manifestMap.keys
-        .where((String key) => key.contains('lib/src/data/json-sample/'))
+        .where((String key) => key.contains('lib/src/data/json/'))
         .toList();
 
     for (String path in jsonFiles) {
