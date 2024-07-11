@@ -55,12 +55,42 @@ class _SearchScreenState extends State<SearchScreen> {
             controller: _controller,
             onChanged: _filterItems,
           ),
-          Expanded(
-            child: ListView.builder( 
+                    Expanded(
+            child: ListView.builder(
               itemCount: _filteredItems.length,
               itemBuilder: (context, index) {
-                return ListTile(
-                  title: Text(_filteredItems[index]),
+                return FutureBuilder<String?>(
+                  future: DatabaseHelper.instance.getImageByPid(_filteredItems[index]),
+                  builder: (context, snapshot) {
+                    if (snapshot.connectionState == ConnectionState.waiting) {
+                      return ListTile(
+                        leading: const CircularProgressIndicator(),
+                        title: Text(_filteredItems[index]),
+                      );
+                    } else if (snapshot.hasError) {
+                      return ListTile(
+                        leading: const Icon(Icons.error),
+                        title: Text(_filteredItems[index]),
+                      );
+                    } else if (snapshot.hasData) {
+                      return ListTile(
+                        leading: ClipOval(
+                          child: Image.asset(
+                            snapshot.data!,
+                            width: 40,
+                            height: 40,
+                            fit: BoxFit.cover,
+                          ),
+                        ),
+                        title: Text(_filteredItems[index]),
+                      );
+                    } else {
+                      return ListTile(
+                        leading: const Icon(Icons.image_not_supported),
+                        title: Text(_filteredItems[index]),
+                      );
+                    }
+                  },
                 );
               },
             ),

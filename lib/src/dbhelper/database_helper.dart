@@ -2,6 +2,7 @@ import 'dart:io';
 import 'package:path/path.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:sqflite/sqflite.dart';
+import '../data/plant.dart';
 
 class DatabaseHelper {
   static final DatabaseHelper instance = DatabaseHelper._init();
@@ -47,6 +48,23 @@ class DatabaseHelper {
     );
     ''');
   }
+
+  Future<String?> getImageByPid(String pid) async {
+  final db = await instance.database;
+  var result = await db.query(
+    'plants',
+    columns: ['image'],
+    where: 'pid = ?',
+    whereArgs: [pid],
+    limit: 1,
+  );
+
+  if (result.isNotEmpty) {
+    return result[0]['image'] as String;
+  } else {
+    return null; // Return null if no plant with the given pid is found
+  }
+}
 
   Future<void> insertPlant(Map<String, dynamic> plant) async {
     final db = await instance.database;
