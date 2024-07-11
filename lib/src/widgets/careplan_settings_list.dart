@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import '../widgets/frequencypicker.dart';
+import '../dbhelper/database_helper.dart';
 import '../data.dart';
 
 class CarePlanSettingsList extends StatefulWidget {
@@ -15,26 +16,68 @@ class CarePlanSettingsList extends StatefulWidget {
 }
 
 class _CarePlanSettingsListState extends State<CarePlanSettingsList> {
-  void _updateWateringPlan(String frequency) {
-    setState(() {
-      widget.plant.wateringPlan = _parseFrequency(frequency);
-      widget.plant.setWateringPlan(_parseFrequency(frequency));
-    });
-  }
+  void _updateWateringPlan(String frequency) async {
+  setState(() {
+    widget.plant.wateringPlan = _parseFrequency(frequency);
+    widget.plant.setWateringPlan(_parseFrequency(frequency));
+  });
 
-  void _updateFertilizingPlan(String frequency) {
-    setState(() {
-      widget.plant.fertilizingPlan = _parseFrequency(frequency);
-      widget.plant.setFertilizingPlan(_parseFrequency(frequency));
-    });
-  }
+  final dbHelper = DatabaseHelper.instance;
 
-  void _updatePruningPlan(String frequency) {
-    setState(() {
-      widget.plant.pruningPlan = _parseFrequency(frequency);
-      widget.plant.setPruningPlan(_parseFrequency(frequency));
-    });
+  try {
+    final plant = await dbHelper.queryOwnedPlantByPid(widget.plant.name);
+    if (plant != null) {
+      dbHelper.updateWateringPlan(plant, _parseFrequency(frequency));
+    } else {
+      print('Plant not found');
+    }
+  } catch (error) {
+    print('Error querying plant: $error');
   }
+}
+
+
+  void _updateFertilizingPlan(String frequency) async {
+  setState(() {
+    widget.plant.fertilizingPlan = _parseFrequency(frequency);
+    widget.plant.setFertilizingPlan(_parseFrequency(frequency));
+  });
+
+  final dbHelper = DatabaseHelper.instance;
+
+  try {
+    final plant = await dbHelper.queryOwnedPlantByPid(widget.plant.name);
+    if (plant != null) {
+      dbHelper.updateFertilizingPlan(plant, _parseFrequency(frequency));
+    } else {
+      print('Plant not found');
+    }
+  } catch (error) {
+    print('Error querying plant: $error');
+  }
+}
+
+
+  void _updatePruningPlan(String frequency) async {
+  setState(() {
+    widget.plant.pruningPlan = _parseFrequency(frequency);
+    widget.plant.setPruningPlan(_parseFrequency(frequency));
+  });
+
+  final dbHelper = DatabaseHelper.instance;
+
+  try {
+    final plant = await dbHelper.queryOwnedPlantByPid(widget.plant.name);
+    if (plant != null) {
+      dbHelper.updatePruningPlan(plant, _parseFrequency(frequency));
+    } else {
+      print('Plant not found');
+    }
+  } catch (error) {
+    print('Error querying plant: $error');
+  }
+}
+
 
   int _parseFrequency(String frequency) {
     List<String> parts = frequency.split(' ');
