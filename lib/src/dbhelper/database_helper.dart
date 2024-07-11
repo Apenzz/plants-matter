@@ -101,7 +101,7 @@ Future<Map<String, dynamic>?> queryOwnedPlantByPid(String pid) async {
   if (results.isNotEmpty) {
     var plantRecord = results.first;
     
-    // Create a new mutable map to store the results
+   
     Map<String, dynamic> mutablePlantRecord = Map.from(plantRecord);
 
     // Convert 'lastWatered' to DateTime if not null
@@ -155,13 +155,13 @@ Future<Map<String, dynamic>?> queryOwnedPlantByPid(String pid) async {
  Future<int> updateLastWatered(Map<String, dynamic> plantRecord, DateTime lastWatered) async {
   final db = await instance.database;
 
-  // Create a mutable copy of the plantRecord map
+  
   final Map<String, dynamic> updatedPlantRecord = Map<String, dynamic>.from(plantRecord);
 
-  // Update the mutable map with the new lastWatered value
+  
   updatedPlantRecord['lastWatered'] = lastWatered.millisecondsSinceEpoch; // Convert DateTime to Unix timestamp
 
-  // Perform the update operation
+  
   return await db.update(
     'owned_plants',
     updatedPlantRecord,

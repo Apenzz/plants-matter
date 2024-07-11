@@ -50,7 +50,7 @@ class InfoSection extends StatelessWidget {
               ),
             );
           }).toList(),
-          if (title == 'Health Status') Divider(thickness: 2.0), // Add divider after the third section
+          if (title == 'Health Status') Divider(thickness: 2.0), 
         ],
       ),
     );
