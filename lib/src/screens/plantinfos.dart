@@ -19,18 +19,16 @@ class PlantInfosScreen extends StatelessWidget {
       body: SingleChildScrollView(
         child: Column(
           children: <Widget>[
-            // Image Banner
             Container(
               width: double.infinity,
               height: 200,
               decoration: BoxDecoration(
                 image: DecorationImage(
-                  image: AssetImage(plant!.imagePath), // Path to your local image
+                  image: AssetImage(plant!.imagePath),
                   fit: BoxFit.cover,
                 ),
               ),
             ),
-            // Plant Info Section
             InfoSection(
               title: 'Characteristics',
               content: [
@@ -41,7 +39,6 @@ class PlantInfosScreen extends StatelessWidget {
                 'Color: ${plant!.color}',
               ],
             ),
-            // Separator
             Divider(thickness: 2.0),
             // Care Plan Section
             InfoSection(
@@ -54,7 +51,6 @@ class PlantInfosScreen extends StatelessWidget {
                 'Pruning: ${plant!.pruning}',
               ],
             ),
-            // Separator
             Divider(thickness: 2.0),
           ],
         ),

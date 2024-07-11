@@ -46,13 +46,13 @@ class PlantSection extends StatelessWidget {
                 ),
               ),
               Container(
-                height: 48, // Adjust height here
-                width: 120, // Adjust width here
+                height: 48,
+                width: 120,
                 child: TextButton(
                   style: TextButton.styleFrom(
-                    padding: EdgeInsets.zero, // Remove any default padding
-                    foregroundColor: Theme.of(context).colorScheme.onSecondaryContainer, // Text color
-                    backgroundColor: Theme.of(context).colorScheme.secondaryContainer, // Button color
+                    padding: EdgeInsets.zero,
+                    foregroundColor: Theme.of(context).colorScheme.onSecondaryContainer, 
+                    backgroundColor: Theme.of(context).colorScheme.secondaryContainer, 
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(8.0),
                     ),
@@ -70,25 +70,25 @@ class PlantSection extends StatelessWidget {
                     Row(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
-                        Icon(Icons.camera_alt_outlined), // Camera icon
-                        SizedBox(width: 4), // Add some spacing
+                        Icon(Icons.camera_alt_outlined),
+                        SizedBox(width: 4), 
                         Text(
                           buttonText,
-                          maxLines: 1, // Ensure text appears on one line
-                          overflow: TextOverflow.ellipsis, // Handle text overflow with ellipsis
+                          maxLines: 1, 
+                          overflow: TextOverflow.ellipsis, 
                         ),
                       ],
                     ) :
                     Text(
                       buttonText,
-                      maxLines: 1, // Ensure text appears on one line
-                      overflow: TextOverflow.ellipsis, // Handle text overflow with ellipsis
+                      maxLines: 1, 
+                      overflow: TextOverflow.ellipsis, 
                     ),
                 ),
               ),
             ],
           ),
-          if (title == 'Health Status') Divider(thickness: 2.0), // Add divider after the third section
+          if (title == 'Health Status') Divider(thickness: 2.0), 
         ],
       ),
     );

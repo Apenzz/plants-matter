@@ -25,7 +25,7 @@ class PlantProfileScreen extends StatelessWidget {
               height: 200,
               decoration: BoxDecoration(
                 image: DecorationImage(
-                  image: AssetImage(plant!.imagePath), // Path to your local image
+                  image: AssetImage(plant!.imagePath),
                   fit: BoxFit.cover,
                 ),
               ),
@@ -40,7 +40,6 @@ class PlantProfileScreen extends StatelessWidget {
               buttonText: 'Additional infos',
               plant: plant!,
             ),
-            // Separator
             Divider(thickness: 2.0),
             // Care Plan Section
             PlantSection(
@@ -53,7 +52,6 @@ class PlantProfileScreen extends StatelessWidget {
               buttonText: 'Change plan',
               plant: plant!,
             ),
-            // Separator
             Divider(thickness: 2.0),
             // Health Status Section
             PlantSection(

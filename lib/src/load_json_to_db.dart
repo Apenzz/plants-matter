@@ -6,11 +6,9 @@ Future<void> loadDatabase() async {
   try {
     final dbHelper = DatabaseHelper.instance;
 
-    // Load the asset manifest to get the list of all asset files
     final manifestContent = await rootBundle.loadString('AssetManifest.json');
     final Map<String, dynamic> manifestMap = json.decode(manifestContent);
 
-    // Specify the correct path to your JSON files
     final jsonFiles = manifestMap.keys
         .where((String key) => key.contains('lib/src/data/json-sample/'))
         .toList();
