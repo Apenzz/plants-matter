@@ -8,6 +8,7 @@ import '../widgets/tab_plant_tasks.dart';
 import '../widgets/add_plant_button.dart';
 import '../data/myplants.dart';
 import '../widgets/basic_plant_card.dart';
+import '../dbhelper/database_helper.dart';
 
 class HomePageScreen extends StatelessWidget {
   final String title;
@@ -23,7 +24,7 @@ class HomePageScreen extends StatelessWidget {
     ScaffoldMessenger.of(context).showSnackBar(
       const SnackBar(content: Text("Task completed!")),
     );
-    // TODO
+    
   }
 
   @override

@@ -145,16 +145,24 @@ class DatabaseHelper {
     );
   }
 
-  Future<int> updateLastWatered(Map<String, dynamic> plantRecord, DateTime lastWatered) async {
-    final db = await instance.database;
-    plantRecord['lastWatered'] = lastWatered.millisecondsSinceEpoch; // Convert DateTime to Unix timestamp
-    return await db.update(
-      'owned_plants',
-      plantRecord,
-      where: 'plant_pid = ?',
-      whereArgs: [plantRecord['plant_pid']],
-    );
-  }
+ Future<int> updateLastWatered(Map<String, dynamic> plantRecord, DateTime lastWatered) async {
+  final db = await instance.database;
+
+  // Create a mutable copy of the plantRecord map
+  final Map<String, dynamic> updatedPlantRecord = Map<String, dynamic>.from(plantRecord);
+
+  // Update the mutable map with the new lastWatered value
+  updatedPlantRecord['lastWatered'] = lastWatered.millisecondsSinceEpoch; // Convert DateTime to Unix timestamp
+
+  // Perform the update operation
+  return await db.update(
+    'owned_plants',
+    updatedPlantRecord,
+    where: 'plant_pid = ?',
+    whereArgs: [updatedPlantRecord['plant_pid']],
+  );
+}
+
   
   Future<void> close() async {
     final db = await instance.database;
