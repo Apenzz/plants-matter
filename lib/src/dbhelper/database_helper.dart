@@ -90,7 +90,7 @@ class DatabaseHelper {
     return results.map((row) => row['plant_pid'] as String).toList();
   }
 
-  Future<Map<String, dynamic>?> queryOwnedPlantByPid(String pid) async {
+Future<Map<String, dynamic>?> queryOwnedPlantByPid(String pid) async {
   final db = await instance.database;
   final results = await db.query(
     'owned_plants',
@@ -100,14 +100,21 @@ class DatabaseHelper {
 
   if (results.isNotEmpty) {
     var plantRecord = results.first;
-    if (plantRecord['lastWatered'] != null) {
-      plantRecord['lastWatered'] = DateTime.fromMillisecondsSinceEpoch(plantRecord['lastWatered'] as int);
+    
+    // Create a new mutable map to store the results
+    Map<String, dynamic> mutablePlantRecord = Map.from(plantRecord);
+
+    // Convert 'lastWatered' to DateTime if not null
+    if (mutablePlantRecord['lastWatered'] != null) {
+      mutablePlantRecord['lastWatered'] = DateTime.fromMillisecondsSinceEpoch(mutablePlantRecord['lastWatered'] as int);
     }
-    return plantRecord;
+    
+    return mutablePlantRecord;
   } else {
     return null;
   }
 }
+
 
 
 
