@@ -37,7 +37,7 @@ class _BasicPlantCardState extends State<BasicPlantCard> {
         trailing: IconButton(
           icon: Icon(
             _isCompleted ?Icons.check_circle : Icons.water_drop,
-            color: Colors.blue,
+            color: _isCompleted ? Colors.grey : Colors.blue,
           ),
           onPressed: _handleComplete,
         ),
