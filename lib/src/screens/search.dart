@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart' hide SearchBar;
 import '../widgets/searchbar.dart';
+import '../data/myplants.dart';
+
 import '../dbhelper/database_helper.dart';
+
 
 class SearchScreen extends StatefulWidget {
 
@@ -56,7 +59,7 @@ class _SearchScreenState extends State<SearchScreen> {
   }
 
     void _addPlantToOwned(String plantPid) async {
-    await DatabaseHelper.instance.insertOwnedPlant(plantPid);
+    await myPlantsInstance.addOwnedPlant(plantPid);
     ScaffoldMessenger.of(context).showSnackBar(
       const SnackBar(content: Text('Plant added to your collection!')),
     );

@@ -53,7 +53,7 @@ for json_filename in os.listdir(json_folder):
             # Check if the image file exists
             if os.path.exists(image_path):
                 # Set the image path in the JSON data to the desired format
-                rel_image_path = f'assets/images-sample/{image_filename}'
+                rel_image_path = f'assets/images/{image_filename}'
                 
                 # Update the 'image' value in the JSON data with the new path
                 data['image'] = rel_image_path

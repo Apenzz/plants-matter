@@ -95,4 +95,4 @@ class MyPlants {
   }
 }
 
-final myPlantsInstance = MyPlants();
+var myPlantsInstance = MyPlants();
