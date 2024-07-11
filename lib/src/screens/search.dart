@@ -43,6 +43,13 @@ class _SearchScreenState extends State<SearchScreen> {
     });
   }
 
+    void _addPlantToOwned(String plantPid) async {
+    await DatabaseHelper.instance.insertOwnedPlant(plantPid);
+    ScaffoldMessenger.of(context).showSnackBar(
+      const SnackBar(content: Text('Plant added to your collection!')),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -83,6 +90,12 @@ class _SearchScreenState extends State<SearchScreen> {
                           ),
                         ),
                         title: Text(_filteredItems[index]),
+                        trailing: IconButton(
+                          icon: const Icon( Icons.add,
+                          color: Colors.black,
+                          ),
+                          onPressed: () => _addPlantToOwned(_filteredItems[index]),
+                        ),
                       );
                     } else {
                       return ListTile(
