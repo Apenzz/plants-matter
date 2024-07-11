@@ -5,10 +5,8 @@
 import 'package:flutter/material.dart';
 import '../data/plant.dart';
 import '../widgets/tab_plant_tasks.dart';
-import '../widgets/add_plant_button.dart';
 import '../data/myplants.dart';
 import '../widgets/basic_plant_card.dart';
-import '../dbhelper/database_helper.dart';
 
 class HomePageScreen extends StatelessWidget {
   final String title;
@@ -33,8 +31,10 @@ class HomePageScreen extends StatelessWidget {
       length: 2,
       child: Scaffold(
         appBar: AppBar(
-          title: Text(title),
-          bottom: const TabPlantTasks(),
+          bottom: const PreferredSize(
+          preferredSize: Size.fromHeight(kToolbarHeight),
+          child: TabPlantTasks(),
+        ),
         ),
         body: TabBarView(
           children: [

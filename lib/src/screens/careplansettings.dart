@@ -17,7 +17,7 @@ class CarePlanSettingsScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Care Plan Settings'),
+        title: const Text('Care Plan Settings'),
       ),
       body: CarePlanSettingsList(
         plant: plant,
