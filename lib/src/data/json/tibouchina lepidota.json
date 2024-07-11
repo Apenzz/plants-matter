@@ -1,0 +1,35 @@
+{
+    "pid": "tibouchina lepidota",
+    "basic": {
+        "floral_language": "Tibouchina lepidota\nFloriography: sincere, pure and beautiful \nTibouchina lepidota is elegant, with the reputation of being \"the king of flowers\", is the city flower of Luoyang. \nPeony has a large size and beautiful flower appearance. The color is various and it is fragrant. Layered petals is magnificence. Peony is national beauty and heavenly fragrance, with a long history which is through the ages praise peony emerge in endlessly, the beauty of poetry was deeply loved by people all over the world. \nTibouchina lepidotalike sunshine, natural flowering from April to May, with viewing window for 1 to 2 weeks each flower. When flowers are dying, cut withered flowers and leaves, waiting for spouting next spring.",
+        "origin": "China",
+        "production": "Luoyang",
+        "category": "Ranunculaceae, Paeonia",
+        "blooming": "Flowering period April-May, viewing period 1-2 weeks",
+        "color": "Flower color pink"
+    },
+    "display_pid": "Tibouchina lepidota",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Long-day plant, likes sunshine, but avoid strong sunlight in summer at noon",
+        "watering": "Water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove old, diseased, dead leaves and withered flowers timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7400,
+        "min_light_mmol": 4400,
+        "max_light_lux": 50000,
+        "min_light_lux": 2000,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\tibouchina lepidota.jpg"
+}

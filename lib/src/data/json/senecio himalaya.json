@@ -1,0 +1,35 @@
+{
+    "pid": "senecio himalaya",
+    "basic": {
+        "floral_language": "",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Compositae, Senecio",
+        "blooming": "Flowering period August-December",
+        "color": "Flower color yellow"
+    },
+    "display_pid": "Senecio himalaya",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 15-20 cm",
+        "soil": "Sandy loam",
+        "sunlight": "Like sunshine",
+        "watering": "Only need keep soil moist",
+        "fertilization": "Apply enough base fertilizers",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 8500,
+        "min_light_mmol": 3200,
+        "max_light_lux": 85000,
+        "min_light_lux": 2000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 20,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 50
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\senecio himalaya.jpg"
+}

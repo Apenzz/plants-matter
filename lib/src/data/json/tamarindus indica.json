@@ -1,0 +1,35 @@
+{
+    "pid": "tamarindus indica",
+    "basic": {
+        "floral_language": "",
+        "origin": "Eastern Africa",
+        "production": "Southern China",
+        "category": "Leguminosae, Tamarindus",
+        "blooming": "Flowering period May-August, fruiting period December-May",
+        "color": "Flower color yellow, purple red, fruit color brown"
+    },
+    "display_pid": "Tamarindus indica",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 15-18 cm",
+        "soil": "Sandy soil",
+        "sunlight": "Like sunshine, put in warm places with adequate light",
+        "watering": "Keep soil moist",
+        "fertilization": "Apply enough base fertilizers",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\tamarindus indica.jpg"
+}

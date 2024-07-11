@@ -1,0 +1,35 @@
+{
+    "pid": "thymus serpyllum",
+    "basic": {
+        "floral_language": "Thymus serpyllum\nFloriography: courageous, lucky, noble\nIs a spice plant with a strong aromatic flavour, has small oval shaped leaves in fresh green, has culinary, medicinal, and ornamental uses.\nLikes sunshine, suitable for sunny places, shade properly under summer strong sunlight, flowering in July-August, pink or purple color.",
+        "origin": "Southern Europe",
+        "production": "China",
+        "category": "Labiatae, Thymus",
+        "blooming": "Vanilla plants, flowering period July-August",
+        "color": "Leaf color green , flower color purple, pink"
+    },
+    "display_pid": "Thymus serpyllum",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 10 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like sunshine, place under adequate light, shade properly under summer strong light",
+        "watering": "Resistant to drought, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, dilute fertilizers following instructions,  in early summer, spring and autumn apply fertilizers once monthly",
+        "pruning": "Remove old diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 4000,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\thymus serpyllum.jpg"
+}

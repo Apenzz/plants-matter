@@ -1,0 +1,35 @@
+{
+    "pid": "tropaeolum majus",
+    "basic": {
+        "floral_language": "Tropaeolum majus \nFloriography: enthusiastic, vigorous, positive\nTropaeolum majus is an herb with emerald green, nearly round leaves with wavy edges, like lotus, the flowers are raised above the foliage, have bright colors such as orange-red or yellow, very. Flowers and leaves have a high ornamental value, potted plants can be used as decorative landscaping home environment.\nTropaeolum majus like plenty of sunny, summer afternoon sunshine and strong light scattering fits in place. June-October flowering, period flower viewing 1-2 weeks,",
+        "origin": "South America",
+        "production": "China",
+        "category": "Tropaeolaceae, Tropaeolum",
+        "blooming": "Flowering period June-October, viewing period 1-2 weeks",
+        "color": "Flower color yellow, orange red, orange"
+    },
+    "display_pid": "Tropaeolum majus",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like adequate light, properly shade under strong light in summer",
+        "watering": "Water thoroughly after soil surface dries",
+        "fertilization": "Dilute fertilizers following instructions, dilute fertilizers following instructions,  in early summer, spring and autumn apply fertilizers once monthly",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\tropaeolum majus.jpg"
+}

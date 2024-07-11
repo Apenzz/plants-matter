@@ -1,0 +1,35 @@
+{
+    "pid": "zephyranthes grandiflora",
+    "basic": {
+        "floral_language": "",
+        "origin": "CentralandSouth America",
+        "production": "China",
+        "category": "Amaryllidaceae, Zephyranthes",
+        "blooming": "Flowering period June-September",
+        "color": "Flower color light purple red, rose red, pink"
+    },
+    "display_pid": "Zephyranthes grandiflora",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 15-20 cm",
+        "soil": "Humus-rich sandy loam",
+        "sunlight": "put in sunny places",
+        "watering": "Water timely when soil dries",
+        "fertilization": "Apply fertilizers once to twice in the growing season",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7600,
+        "min_light_mmol": 3500,
+        "max_light_lux": 55000,
+        "min_light_lux": 3000,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\zephyranthes grandiflora.jpg"
+}

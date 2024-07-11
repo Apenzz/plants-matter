@@ -1,0 +1,35 @@
+{
+    "pid": "sedum adolphii",
+    "basic": {
+        "floral_language": "Sedum adolphii\nFloriography: happy, confidence, sunny\nSedum adolphii is a common succulent plants with short stems and fleshy leaves tightly arranged in a rosette, yellow-green leaf color turns to golden yellow to red with enough sunlight. It is cute and can be used with a variety of exquisite small plants as a miniature landscape, very popular.\nSedum adolphii likes sun, when dormant in summer, needs scattered light. Rarely blooms with pale yellow flowers.",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, Sedum",
+        "blooming": "Succulent plants, sometimes flowers, light yellow flowers",
+        "color": "Leaf color yellow green, when sunny leaf color turning to red, green if not sufficient"
+    },
+    "display_pid": "Sedum adolphii",
+    "maintenance": {
+        "size": "Diameter 3-15 cm, height 3-15 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Summer is its dormant period, use half shade for better care, spring and autumn are its growing seasons, need plenty of sunshine",
+        "watering": "Water 2 times during summer dormancy, 20ml water every time, keep soil moist in other time, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, dilute fertilizers following instructions,  in early summer, spring and autumn apply fertilizers once monthly",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7300,
+        "min_light_mmol": 3200,
+        "max_light_lux": 80000,
+        "min_light_lux": 2800,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\sedum adolphii.jpg"
+}

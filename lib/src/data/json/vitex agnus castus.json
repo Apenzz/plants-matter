@@ -1,0 +1,35 @@
+{
+    "pid": "vitex agnus castus",
+    "basic": {
+        "floral_language": "",
+        "origin": "Shandong",
+        "production": "Jiangsu, Shanghai",
+        "category": "Verbenaceae, Vitex",
+        "blooming": "Flowering period July-August",
+        "color": "Flower color purple, blue purple"
+    },
+    "display_pid": "Vitex agnus castus",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 20-30 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like sunshine, slight shade tolerance",
+        "watering": "2-3 times every week",
+        "fertilization": "Dilute fertilizers following instructions, apply 2-3 times monthly",
+        "pruning": "After flowering removal of withered flowers can extend the flowering period"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\vitex agnus castus.jpg"
+}

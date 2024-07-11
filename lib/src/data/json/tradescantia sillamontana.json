@@ -1,0 +1,35 @@
+{
+    "pid": "tradescantia sillamontana",
+    "basic": {
+        "floral_language": "Tradescantia sillamontana\nFloriography: unique, vigorous, characteristic\nHas a unique characteristics, fleshy thin oval leaves in dark green, covered by dense white hairs, easy to take care, suitable for home decoration, can be place on desks, tables, high ornamental value, \nLikes gentle sunshine, tolerates to half shade, place under bright scattered light in summer. Flowers sometimes, purple or pink.",
+        "origin": "Central America",
+        "production": "China",
+        "category": "Commelinaceae, Commelina",
+        "blooming": "Succulent plants, sometimes flowers, pink or purple flowers",
+        "color": "Leaf color dark green"
+    },
+    "display_pid": "Tradescantia sillamontana",
+    "maintenance": {
+        "size": "Diameter \u2265 5 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Like moderate light, resistant to half shade, put in places with scattered light in summer",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce water in summer",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\tradescantia sillamontana.jpg"
+}

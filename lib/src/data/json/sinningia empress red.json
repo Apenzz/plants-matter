@@ -1,0 +1,35 @@
+{
+    "pid": "sinningia empress red",
+    "basic": {
+        "floral_language": "",
+        "origin": "Brazil",
+        "production": "China",
+        "category": "Gesneriaceae, Sinningia",
+        "blooming": "Flowering period in spring and autumn",
+        "color": "Flower color red"
+    },
+    "display_pid": "Sinningia Empress red",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Slightly acidic soil with loose texture or soil with specific nutrients",
+        "sunlight": "Like half shade, grows in places with scattered light or shade properly, avoid direct light",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4000,
+        "min_light_mmol": 2000,
+        "max_light_lux": 20000,
+        "min_light_lux": 4000,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\sinningia empress red.jpg"
+}

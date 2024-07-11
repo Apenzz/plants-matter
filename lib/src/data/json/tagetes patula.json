@@ -1,0 +1,35 @@
+{
+    "pid": "tagetes patula",
+    "basic": {
+        "floral_language": "",
+        "origin": "Mexico",
+        "production": "Sichuan, Guizhou, Yunnan",
+        "category": "Compositae, Tagetes",
+        "blooming": "Flowering period July-September",
+        "color": "Flower color golden yellow, orange"
+    },
+    "display_pid": "Tagetes patula",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 15-20 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Put in warm places with scattered light",
+        "watering": "Water only when soil is dry",
+        "fertilization": "Top-dressing monthly in vegetative stages",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5000,
+        "min_light_mmol": 3500,
+        "max_light_lux": 50000,
+        "min_light_lux": 3700,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\tagetes patula.jpg"
+}

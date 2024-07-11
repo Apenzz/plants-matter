@@ -1,0 +1,35 @@
+{
+    "pid": "sedum spurium",
+    "basic": {
+        "floral_language": "Sedum spurium \nFloriography: perseverance, lovely, beautiful\nSedum spurium has a shape of a flower with many branches, oval and green leaves with wavy edge and smooth surfaces. With abundant sunlight, leaves or even the whole plant turn bright red. Strong reproductive ability, may plant alone. \nLikes sunny places, no apparent dormancy. Flowers sometimes, mostly in summer. Flowers are rose red.",
+        "origin": "Africa",
+        "production": "China",
+        "category": "Crassulaceae, Phedimusaizoon",
+        "blooming": "Succulent plants, sometimes flowers, rose red flowers",
+        "color": "Leaf color green, when sunny leaf color turning to dark red"
+    },
+    "display_pid": "Sedum spurium",
+    "maintenance": {
+        "size": "Diameter \u2265 2 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Like sunshine, no apparent period of dormancy",
+        "watering": "Water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 8700,
+        "min_light_mmol": 4000,
+        "max_light_lux": 80000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\sedum spurium.jpg"
+}

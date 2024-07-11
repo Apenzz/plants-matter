@@ -6,6 +6,5 @@ import 'src/data/myplants.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await loadDatabase();
-  await myPlantsInstance.loadOwnedPlantsFromDatabase(); 
   runApp(const Plantsmatter());
 }

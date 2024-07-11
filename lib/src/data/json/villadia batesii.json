@@ -1,0 +1,35 @@
+{
+    "pid": "villadia batesii",
+    "basic": {
+        "floral_language": "",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, Villadia",
+        "blooming": "Succulent plants, sometimes flowers, yellow flowers",
+        "color": "Leaf color green, when sunny leave tip red"
+    },
+    "display_pid": "Villadia batesii",
+    "maintenance": {
+        "size": "Diameter \u2265 3 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes adequate light, placed in the scattered light in summer",
+        "watering": "Resistant to drought, keep soil moist, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once 1-2 monthls in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 9500,
+        "min_light_mmol": 3000,
+        "max_light_lux": 85000,
+        "min_light_lux": 3200,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 55,
+        "min_soil_moist": 10,
+        "max_soil_ec": 1500,
+        "min_soil_ec": 50
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\villadia batesii.jpg"
+}

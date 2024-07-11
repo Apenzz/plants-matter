@@ -1,0 +1,35 @@
+{
+    "pid": "solanum tuberosum",
+    "basic": {
+        "floral_language": "",
+        "origin": "South America",
+        "production": "China",
+        "category": "Solanaceae, Solanum",
+        "blooming": "Flowering period June-August",
+        "color": "Flower color white, flower color brown, purple brown"
+    },
+    "display_pid": "Solanum tuberosum",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Soil with loose texture or soil with specific nutrients, pH value between 4.8-6.5",
+        "sunlight": "Like sunshine, high quality fruits in sunny places",
+        "watering": "Reduce watering gradually when open flowers, and stop watering when leaves start to turn yellowish",
+        "fertilization": "Soil with enough compost, and apply phosphatic fertilizer during growing period",
+        "pruning": "Harvest potatoes when most of leaves turn yellowish"
+    },
+    "parameter": {
+        "max_light_mmol": 15000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 80000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 65,
+        "min_soil_moist": 20,
+        "max_soil_ec": 2500,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\solanum tuberosum.jpg"
+}

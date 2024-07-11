@@ -1,0 +1,35 @@
+{
+    "pid": "stewartia ptero petiolata",
+    "basic": {
+        "floral_language": "",
+        "origin": "East Asia",
+        "production": "China",
+        "category": "Theaceae, Stewartia",
+        "blooming": "Flowering period June-July",
+        "color": "Flower color white, light yellow"
+    },
+    "display_pid": "Stewartia ptero petiolata",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height \u2265 20 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like sunshine, resistant to half shade",
+        "watering": "Water thoroughly when soil is dry",
+        "fertilization": "Apply fertilizers once every 10-15 days in spring",
+        "pruning": "Remove dead and diseased branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\stewartia ptero petiolata.jpg"
+}

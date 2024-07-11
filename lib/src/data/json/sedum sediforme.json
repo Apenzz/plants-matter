@@ -1,0 +1,35 @@
+{
+    "pid": "sedum sediforme",
+    "basic": {
+        "floral_language": "Sedum sediforme\nFloriography: kind, independent, firm.\nA compact plant, leaves long olive shaped, arranged like Indian lotus blooms, with white powder covered, green but turning into red if received enough sunlight. It becomes a popular succulent plant because it is easy to grow.\nThe plant requires sunny habitat. It will go through dormancy in summer and should be remove from direct sunlight to a place with scattered light. Yellow flower could bloom from where leaves open.",
+        "origin": "Temperate and tropical high mountains in Northern Hemisphere",
+        "production": "China",
+        "category": "Crassulaceae, Sedum",
+        "blooming": "Succulent plants, often flowers in spring and summer, yellow flowers",
+        "color": "Leaf color green, when sunny leaf color turning to red"
+    },
+    "display_pid": "Sedum sediforme",
+    "maintenance": {
+        "size": "Diameter 3-10 cm, height 5-15 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, and resistant to half shade, short period of dormancy in summer, use half shade for better care",
+        "watering": "Very resistant to drought, water thoroughly when soil is dry, 1-2 times a month in frequency",
+        "fertilization": "Dilute fertilizers following instructions, apply once every month",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 8400,
+        "min_light_mmol": 3800,
+        "max_light_lux": 85000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\sedum sediforme.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "viburnum dilatatum",
+    "basic": {
+        "floral_language": "Viburnum dilatatum \nFloriography: beautiful, fortune, perseverant\nViburnum dilatatum is a deciduous shrub with grayish green, broadly ovate leaves covered by small hairs. Flowers nearly hemispherical shape, cute and exquisite, in flowering seasons, the plant is covered by numerous vigorous and vivid flowers. Often used as ornamental flowers and trees for landscaping or home decoration.\nViburnum dilatatum likes sunshine, also shade-tolerant. Flowers in May-June for 1-2 weeks.",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Caprifoliaceae, Viburnum",
+        "blooming": "Flowering period May-June, viewing period 1-2 weeks",
+        "color": "Flower color white"
+    },
+    "display_pid": "Viburnum dilatatum",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like light, but also resistant to half shade",
+        "watering": "Water thoroughly after soil surface dries",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5000,
+        "min_light_mmol": 3500,
+        "max_light_lux": 50000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\viburnum dilatatum.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "trinidad moruga scorpion",
+    "basic": {
+        "floral_language": "",
+        "origin": "Australia",
+        "production": "China",
+        "category": "Solanaceae, Capsicum",
+        "blooming": "vegetable plants, flowering period June-July, fruiting period August to winter",
+        "color": "Flower color white, fruit yellow"
+    },
+    "display_pid": "Trinidad Moruga Scorpion",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 10 cm",
+        "soil": "Peat or soil with specific nutrients, pH value between 6-7",
+        "sunlight": "Like adequate light, sunlight time at least 8 hours",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, more watering during fruiting period",
+        "fertilization": "Soil with rich compost, apply more fertilizer during fruiting period",
+        "pruning": "Remove dead and yellowish leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 18000,
+        "min_light_mmol": 4400,
+        "max_light_lux": 120000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 70,
+        "min_soil_moist": 22,
+        "max_soil_ec": 2500,
+        "min_soil_ec": 200
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\trinidad moruga scorpion.jpg"
+}

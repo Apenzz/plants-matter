@@ -1,0 +1,35 @@
+{
+    "pid": "sedeveria 'rink ruby'",
+    "basic": {
+        "floral_language": "Sedeveria 'Rink ruby'\nFloriography: enthusiastic, brave, beautiful\nHas a beautiful plant form, juicy and fleshy green leaves in oval shape and tipped, leaves are compactly arranged in a rosette, when sunny, the plant is more compact and leaves turn red, look bright like rubies. \nLikes sunshine, has a short dormant period under summer high temperature, place under scattered light. Flowers sometimes, orange color.",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, crossbreedofGraptopetalumandEcheveria",
+        "blooming": "Succulent plants, sometimes flowers, orange red flowers",
+        "color": "Leaf color green , when sunny leaf turns red"
+    },
+    "display_pid": "Sedeveria 'Rink ruby'",
+    "maintenance": {
+        "size": "Diameter \u2265 3 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, dormant in summer under high temperatures, put in places with scattered light",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce water in summer",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 9300,
+        "min_light_mmol": 4500,
+        "max_light_lux": 85000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\sedeveria 'rink ruby'.jpg"
+}

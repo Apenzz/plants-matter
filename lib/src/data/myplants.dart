@@ -58,46 +58,7 @@ class MyPlants {
     return myPlants[int.parse(id)];
   }
 
-  Future<void> loadOwnedPlantsFromDatabase() async {
-    final dbHelper = DatabaseHelper.instance;
-    final allPlantRecords = await dbHelper.queryAllPlants();
-
-    for (var record in allPlantRecords) {
-      // Check if the plant is already in the owned plants table
-      var basic = json.decode(record['basic']);
-      var maintenance = json.decode(record['maintenance']);
-
-      // Add plant to owned plants table
-      await dbHelper.insertOwnedPlant(record['pid']);
-
-      // Add plant to the in-memory list if not already added
-      if (!myPlants.any((plant) => plant.id == record['id'])) {
-        addPlant(
-          id: record['id'],
-          name: record['pid'],
-          type: basic['category'],
-          imagePath: record['image'],
-          lastWatered: DateTime.now(),
-          botanicalName: basic['category'],
-          healthStatus: 'undiagnosed',
-          wateringPlan: 7,
-          fertilizingPlan: 14,
-          pruningPlan: 30,
-          origin: basic['origin'],
-          production: basic['production'],
-          category: basic['category'],
-          blooming: basic['blooming'],
-          color: basic['color'],
-          size: maintenance['size'],
-          soil: maintenance['soil'],
-          sunlight: maintenance['sunlight'],
-          watering: maintenance['watering'],
-          fertilization: maintenance['fertilization'],
-          pruning: maintenance['pruning'],
-        );
-      }
-    }
-  }
+ 
 
   Future<void> addOwnedPlant(String plantPid) async {
     final dbHelper = DatabaseHelper.instance;

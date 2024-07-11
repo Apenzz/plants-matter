@@ -1,0 +1,35 @@
+{
+    "pid": "strelitzia reginae",
+    "basic": {
+        "floral_language": "Strelitzia reginae \nFloriography: happy, free, blessed\nStrelitzia reginae has a handsome looking evergreen plant with large and dark leaves, oblong shape, bright and colorful inflorescence, usually has blue-violet petals, its flower resembles a bird flying, also known as \"Bird of Paradise\". Used for garden landscaping. Flower beds or indoor decoration.\nStrelitzia reginae likes sunshine, shade properly in summer to avoid strong sunlight, in winter can be placed under sunlight. Flowers in winter up to one month.",
+        "origin": "Africa",
+        "production": "Southern China",
+        "category": "Strelitziaceae, Strelitzia",
+        "blooming": "Flowering period winter, viewing period 3-4 weeks",
+        "color": "Flower color white, purple, light blue, orange"
+    },
+    "display_pid": "Strelitzia reginae",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like sunshine, shade properly under summer strong light, in winter full sun",
+        "watering": "Not resistant to drought, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 10-15 days in spring and autumn",
+        "pruning": "Remove old, diseased, dead leaves and withered flowers timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4800,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 2500,
+        "max_temp": 37,
+        "min_temp": 5,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\strelitzia reginae.jpg"
+}

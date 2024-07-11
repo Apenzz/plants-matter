@@ -1,0 +1,35 @@
+{
+    "pid": "trachycarpus fortunei",
+    "basic": {
+        "floral_language": "Trachycarpus fortunei\nFloriography: lofty, Pretty, brave\nTrachycarpus fortunei is a tree, loftier than regular foliage plants, with an upright and graceful stem, nearly round leaves, leathery, shiny and smooth, parted with many lanceolate-shape leaflets forming a palm. Suitable for the yard, roadside, and flower beds.\nTrachycarpus fortunei like light, tolerate half shade. Bloom in April to May if conditions are good, yellow-green or light green flowers.",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Palmae, Trachycarpus",
+        "blooming": "Foliage plants, sometimes flowering in April-May, yellow green or light green flowers",
+        "color": "Leaf color green"
+    },
+    "display_pid": "Trachycarpus fortunei",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 10 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes light, slight shade tolerance",
+        "watering": "Moderately resistant to drought, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn",
+        "pruning": "Remove dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5500,
+        "min_light_mmol": 3000,
+        "max_light_lux": 50000,
+        "min_light_lux": 2500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\trachycarpus fortunei.jpg"
+}

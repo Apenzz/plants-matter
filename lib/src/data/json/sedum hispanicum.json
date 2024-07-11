@@ -1,0 +1,35 @@
+{
+    "pid": "sedum hispanicum",
+    "basic": {
+        "floral_language": "Sedum hispanicum\nFloriography: plentiful, vigorous, vigorous\n Has a short plant canopy with many branches and green fleshy leaves in a rod shape closely arrange. In a cool season with adequate light, leaves turn slightly red. Grows fast, can be grown alone as a hanging plant.\nLikes sunlight, when in the summer dormant period, the leaves crunch together, need shade properly under scattered light. Flowers are yellow.",
+        "origin": "Spain",
+        "production": "China",
+        "category": "Crassulaceae, Sedum",
+        "blooming": "Succulent plants, sometimes flowers, white pink flowers",
+        "color": "Leaf color green, with a great diurnal temperature range, with adequate sunlight turning to pink"
+    },
+    "display_pid": "Sedum hispanicum",
+    "maintenance": {
+        "size": "Diameter \u2265 3 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Like sunshine, no apparent period of dormancy, shade properly under summer strong light",
+        "watering": "Water thoroughly when soil is dry, reduce water in summer",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7000,
+        "min_light_mmol": 3200,
+        "max_light_lux": 65000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\sedum hispanicum.jpg"
+}

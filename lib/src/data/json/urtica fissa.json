@@ -1,0 +1,35 @@
+{
+    "pid": "urtica fissa",
+    "basic": {
+        "floral_language": "",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Urticaceae, Urtica",
+        "blooming": "Flowering period August-October",
+        "color": "Leaf color green , flower color white to yellow green"
+    },
+    "display_pid": "Urtica fissa",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "No strict requirements on the soil",
+        "sunlight": "Like shade environments, put in cool and ventilated places",
+        "watering": "Likes wet environments, water thoroughly when soil is dry",
+        "fertilization": "Fertilization not much required, dilute fertilizers following instructions, apply fertilizers once in each month in spring",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 2500,
+        "min_light_mmol": 1200,
+        "max_light_lux": 6000,
+        "min_light_lux": 1500,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\urtica fissa.jpg"
+}
