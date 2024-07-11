@@ -23,6 +23,5 @@ class MyPlantsScreen extends StatelessWidget {
           plants: myPlantsInstance.myPlants,
           onTap: onTap,
         ),
-        floatingActionButton: const AddPlantButton(),
       );
 }

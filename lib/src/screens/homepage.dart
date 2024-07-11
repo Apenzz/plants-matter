@@ -36,7 +36,6 @@ class HomePageScreen extends StatelessWidget {
           title: Text(title),
           bottom: const TabPlantTasks(),
         ),
-        floatingActionButton: const AddPlantButton(),
         body: TabBarView(
           children: [
             ListView.builder(
