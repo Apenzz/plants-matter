@@ -1,0 +1,35 @@
+{
+    "pid": "euphorbia aeruginosa",
+    "basic": {
+        "floral_language": "",
+        "origin": "India",
+        "production": "China",
+        "category": "Euphorbiaceae, Euphorbia",
+        "blooming": "Foliage plants, viewing period year around",
+        "color": "Flower color yellow, fleshy stems copper green"
+    },
+    "display_pid": "Euphorbia aeruginosa",
+    "maintenance": {
+        "size": "Diameter \u2265 15 cm, height \u2265 25 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like sunshine, avoid exposure to strong light in summer",
+        "watering": "Resistant to drought, water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 8000,
+        "min_light_mmol": 2000,
+        "max_light_lux": 80000,
+        "min_light_lux": 1000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\euphorbia aeruginosa.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "astilbe arendsii",
+    "basic": {
+        "floral_language": "",
+        "origin": "East Asia",
+        "production": "China",
+        "category": "Saxifragaceae, Astilbe",
+        "blooming": "Flowering and fruiting period June-September",
+        "color": "Flower color light purple to purple red"
+    },
+    "display_pid": "Astilbe arendsii",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Slightly acidic soil with loose texture or soil with specific nutrients",
+        "sunlight": "Likes half shade, moderate light",
+        "watering": "Water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4000,
+        "min_light_mmol": 2000,
+        "max_light_lux": 25000,
+        "min_light_lux": 1800,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\astilbe arendsii.jpg"
+}

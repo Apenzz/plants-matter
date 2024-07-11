@@ -1,0 +1,35 @@
+{
+    "pid": "dionaea muscipula typical",
+    "basic": {
+        "floral_language": "",
+        "origin": "North America",
+        "production": "Southern China",
+        "category": "Droseraceae, Dionaea",
+        "blooming": "Carnivorous plants, flowering period May-July",
+        "color": "Flower color white, leaf turnning red with adequate sunlight"
+    },
+    "display_pid": "Dionaea muscipula Typical",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 15-18 cm",
+        "soil": "Sphagnum moss or mixture of peat and perlile, replace once a year",
+        "sunlight": "Full sun in spring, autumn and winter, in summer put in places with scattered light and good ventilation, may result in dark green leaves under insufficient light",
+        "watering": "Like wet environments, water thoroughly after soil surface dries, reduce water in winner dormancy",
+        "fertilization": "Like low concentration fertilizers, may nourish itself by capturing insects, also can apply liquid fertilizers at 1/3 recommanded strength on leaves in each month",
+        "pruning": "Remove flower stem, diseased and rotten leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7500,
+        "min_light_mmol": 3800,
+        "max_light_lux": 80000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 50
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\dionaea muscipula typical.jpg"
+}

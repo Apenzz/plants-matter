@@ -1,0 +1,35 @@
+{
+    "pid": "asplenium nidus",
+    "basic": {
+        "floral_language": "Asplenium nidus\nFloriography: youthful, optimistic, vigorous\nBird's nest fern is a epiphytic species of fern, evergreen and of high ornamental value.\nBird's nest fern has tender green lanceolate leaves with smooth surfaces and wavy edges. As ornamental potted plants can be placed in the office, living room, or bedroom.\nBird's nest likes half shade environments, in summer and autumn can be placed under bright scattered light, in winter can take 2-3 hours sunlight. Multiplies by spores, no flowers.",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Aspleniaceae, Neottopteris",
+        "blooming": "Evergreen ferns, no flowering",
+        "color": "Leaf color tender green"
+    },
+    "display_pid": "Asplenium nidus",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes half shade, suitable in places with bright scattered light, in winter may take 2-3h sunlight",
+        "watering": "Moderately resistant to drought, water thoroughly when soil is dry, water more frequently in summer",
+        "fertilization": "Dilute fertilizers following instructions, dilute fertilizers following instructions,  in early summer, spring and autumn apply fertilizers once monthly",
+        "pruning": "Remove dead, yellowish and disease leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 2000,
+        "min_light_mmol": 800,
+        "max_light_lux": 12000,
+        "min_light_lux": 500,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\asplenium nidus.jpg"
+}

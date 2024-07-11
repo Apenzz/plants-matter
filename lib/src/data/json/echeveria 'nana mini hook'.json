@@ -1,0 +1,35 @@
+{
+    "pid": "echeveria 'nana mini hook'",
+    "basic": {
+        "floral_language": "",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, Echeveria",
+        "blooming": "Succulent plants, sometimes flowers with a short period time",
+        "color": "Leaf color blue green\uff0cand will turn red with adequate sunlight"
+    },
+    "display_pid": "Echeveria 'Nana mini hook'",
+    "maintenance": {
+        "size": "Diameter6-10cm\uff0cHeight5-15cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Enjoy sunlight, resistant to half shade\uff0ctemporary dormancy in summer, planted in half shade",
+        "watering": "Resistant to drought, water thoroughly when soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove flower stem, diseased and rotten leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 10000,
+        "min_light_mmol": 3500,
+        "max_light_lux": 100000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 60,
+        "min_soil_moist": 10,
+        "max_soil_ec": 1500,
+        "min_soil_ec": 50
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\echeveria 'nana mini hook'.jpg"
+}

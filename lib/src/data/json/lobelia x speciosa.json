@@ -1,0 +1,35 @@
+{
+    "pid": "lobelia x speciosa",
+    "basic": {
+        "floral_language": "Lobelia x speciosa\nFloriography: unique, compact, loyalty \nLobelia x speciosa belongs to herbaceous plant. Plant stature is beautiful and often is a ball type. Leaf blade is lanceolar. Flowers are small and unique. Color is mainly violet. Petals 5, part two are smaller, the other three are bigger, so it looks like half of flowers. That is why it was called \"flower lobelia\". \nLobelia x speciosa is long day plants likes sufficient sunshine. Summer lights need to be properly covered. Flowering from January to February, ornamental period 1 to 2 weeks.",
+        "origin": "Africa",
+        "production": "China",
+        "category": "Campanulaceae, Lobelia",
+        "blooming": "Flowering period July-September, viewing period 1-2 weeks",
+        "color": "Flower color blue purple , white"
+    },
+    "display_pid": "Lobelia x speciosa",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like adequate light, long-day plant, shade properly under summer strong light",
+        "watering": "Water thoroughly after soil surface dries",
+        "fertilization": "Dilute fertilizers following instructions, apply twice monthly in spring",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 2500,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\lobelia x speciosa.jpg"
+}

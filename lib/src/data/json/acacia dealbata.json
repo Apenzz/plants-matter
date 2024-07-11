@@ -1,0 +1,35 @@
+{
+    "pid": "acacia dealbata",
+    "basic": {
+        "floral_language": "",
+        "origin": "Australia",
+        "production": "Yunnan, Guangxi, Fujian",
+        "category": "Leguminosae, Acacia",
+        "blooming": "Flowering period April\uff1bflowering period July-August",
+        "color": "Flower colorlight yellow, orange, fruit color dark brown"
+    },
+    "display_pid": "Acacia dealbata",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 20-30 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like sunshine, not resistant to shade",
+        "watering": "Water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Apply enough base fertilizers",
+        "pruning": "Remove the pests-infested, old, dead and shaded branches of the plants"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\acacia dealbata.jpg"
+}

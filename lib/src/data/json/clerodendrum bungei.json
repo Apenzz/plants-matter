@@ -1,0 +1,35 @@
+{
+    "pid": "clerodendrum bungei",
+    "basic": {
+        "floral_language": "Clerodendrum bungei\nFloriography: tall, strong and unyielding \nClerodendrum bungei plants, also known as \"ugly peony\", \"dahongpao\". \nClerodendrum bungei is a shrub, thick green leaves, nearly cordate, margin irregular serrated, colorful. Flower is plump, nearly spherical. Common grown in slope, the side of the road, the bushes. Root and leaf can be used as a medicine, with effects by invigorating the circulation and repelling the stasis etc. \nClerodendrum bungei likes mild sunshine, semi-shade resistance. Avoid direct light in summer. Flowering in September 7 -, ornamental period of 2 to 3 weeks.",
+        "origin": "Tropical South America",
+        "production": "China",
+        "category": "SubFam.Viticoidaeae, Clerodendrum",
+        "blooming": "Flowering period July-September, viewing period 2-3 weeks",
+        "color": "Flower color purple, pink"
+    },
+    "display_pid": "Clerodendrum bungei",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like moderat light, slight resistant to half shade, avoid strong direct light in summer",
+        "watering": "Water thoroughly after soil surface dries",
+        "fertilization": "Fertilization not much required, dilute fertilizers following instructions, apply fertilizers once in each month in spring",
+        "pruning": "Remove withered flowers, old and diseased leaves timely, in winter remove the withered part on the ground"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 2500,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\clerodendrum bungei.jpg"
+}

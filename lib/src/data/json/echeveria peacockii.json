@@ -1,0 +1,35 @@
+{
+    "pid": "echeveria peacockii",
+    "basic": {
+        "floral_language": "Echeveria peacockii \nFloriography: strong, brave, philanthropic.\nThis plant is a species of succulent plant in the jade plant family, Crassulaceae. Layout of the thick leaves is similar to a blooming Indian lotus. So the plant was called 'the flower never withered' and became very popular.\nThe plant requires sunny habitat. Flowering occasionally, white, five-pointed star shaped.",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, Echeveria",
+        "blooming": "Succulent plants, flowers during spring, orange red flowers",
+        "color": "Leaf color blue green, when sunny leaf edges turning to pale pink"
+    },
+    "display_pid": "Echeveria peacockii",
+    "maintenance": {
+        "size": "Diameter 3-15 cm, height 3-15 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Like sunshine, relatively resistant to half shade, short dormant in summer under high temperatures, use half shade for better carebetter care",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce water in summer",
+        "fertilization": "Dilute fertilizers following instructions, dilute fertilizers following instructions,  in early summer, spring and autumn apply fertilizers once monthly",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 9300,
+        "min_light_mmol": 3800,
+        "max_light_lux": 90000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\echeveria peacockii.jpg"
+}

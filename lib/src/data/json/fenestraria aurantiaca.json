@@ -1,0 +1,35 @@
+{
+    "pid": "fenestraria aurantiaca",
+    "basic": {
+        "floral_language": "Fenestraria aurantiaca\nFloriography: guileless, cute, bright\nHas a unique and exquisite form with clustered fleshy club-like leaves, bigger on the top, fresh and juicy, like paw pads of small animals, in a cool season with abundant sunlight, leaves turn slight red brown. \nLikes sunny places, has a summer dormant period, place under scattered light. Flowers sometimes, orange-yellow color.",
+        "origin": "South Africa",
+        "production": "China",
+        "category": "Aizoaceae, Fenestraria",
+        "blooming": "Succulent plants, sometimes flowers, orange flowers",
+        "color": "Leaf color green, when sunny turning to red brown"
+    },
+    "display_pid": "Fenestraria aurantiaca",
+    "maintenance": {
+        "size": "Diameter \u2265 5 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, dormant in summer under high temperatures, put in places with scattered light",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, stop watering in summer",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7200,
+        "min_light_mmol": 3200,
+        "max_light_lux": 65000,
+        "min_light_lux": 2500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\fenestraria aurantiaca.jpg"
+}

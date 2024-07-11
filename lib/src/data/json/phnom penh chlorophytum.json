@@ -1,0 +1,35 @@
+{
+    "pid": "phnom penh chlorophytum",
+    "basic": {
+        "floral_language": "Phnom Penh Chlorophytum\nFloriography: tenacious, vigorous, goodly\nPhnom Penh Chlorophytum is an evergreen foliage plant, like orchids, with long and narrow leaf blades, tender green marked by silver white stripes along edges. Interestingly, a mature spider plant may grow stems among leaf cluster and forming a small plant on the top, becoming lusher. Spider plants are usually placed in the living room, on desks, with an effect to clean air.\nPhnom Penh Chlorophytum should avoid direct sunlight, placed under scattered light for better care, take sunshine in winter. May have white flowers sometimes.",
+        "origin": "Africa",
+        "production": "Yunnan",
+        "category": "Liliaceae, Chlorophytum",
+        "blooming": "Foliage plants, sometimes flowers, white flowers",
+        "color": "Leaf color green, on the edges with golden yellow stripes"
+    },
+    "display_pid": "Phnom Penh Chlorophytum",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat mixed with coarse sand soil",
+        "sunlight": "Relatively resistant to shade, likes half shade environments, leaves are fresh and green with some sunlight in winter",
+        "watering": "Likes wet environments, spray water in the surrounding environment to keep air moist, reduce watering in winter",
+        "fertilization": "Dilute fertilizers following instructions, apply once every 10-15 days in spring and autumn",
+        "pruning": "Remove dead and yellowish leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 2700,
+        "min_light_mmol": 1600,
+        "max_light_lux": 30000,
+        "min_light_lux": 500,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 1500,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\phnom penh chlorophytum.jpg"
+}

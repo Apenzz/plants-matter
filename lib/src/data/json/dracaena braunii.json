@@ -1,0 +1,35 @@
+{
+    "pid": "dracaena braunii",
+    "basic": {
+        "floral_language": "",
+        "origin": "Tropical regions",
+        "production": "China",
+        "category": "Asparagaceae, Dracaena",
+        "blooming": "Foliage plant, sometimes can open flower",
+        "color": "Leaf color green"
+    },
+    "display_pid": "Dracaena braunii",
+    "maintenance": {
+        "size": "Diameter\u22655cm\uff0cHeight\u226510cm",
+        "soil": "Sandy loam with good drainage or planted in water",
+        "sunlight": "Like bright scattered light",
+        "watering": "Like wet, water thoroughly when the soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 2800,
+        "min_light_mmol": 1000,
+        "max_light_lux": 25000,
+        "min_light_lux": 500,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\dracaena braunii.jpg"
+}

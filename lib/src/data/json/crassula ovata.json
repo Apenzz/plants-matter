@@ -1,0 +1,35 @@
+{
+    "pid": "crassula ovata",
+    "basic": {
+        "floral_language": "Crassula ovata \nFloriography: beautiful, spotty, sunny\nIs a pretty plant with thick long oval leaves like a pad, leaf color green and marked by yellow patches, in a cool season with abundant sunlight, leaf edges turn pink, forming a mixture of green, yellow, and pink, very colorful and spotty, has a high ornamental value.\nLikes sunshine, tolerates to half shade, has a short dormant period under summer high temperature, place under bright scattered light. Flowers sometimes, pink color.",
+        "origin": "South Africa",
+        "production": "China",
+        "category": "Crassulaceae, Crassula",
+        "blooming": "Succulent plants, sometimes flowers, white flowers",
+        "color": "Leaf color green, with yellow marks, leaf edges red"
+    },
+    "display_pid": "Crassula ovata",
+    "maintenance": {
+        "size": "Diameter \u2265 5 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, resistant to half shade, dormant in summer under high temperatures, put in places with scattered light",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce water in summer",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 11200,
+        "min_light_mmol": 3200,
+        "max_light_lux": 130000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 50
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\crassula ovata.jpg"
+}

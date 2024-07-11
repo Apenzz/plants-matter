@@ -1,0 +1,35 @@
+{
+    "pid": "pterocarpus indicus",
+    "basic": {
+        "floral_language": "",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Fabaceae, Pterocarpus",
+        "blooming": "Flowering period March-May",
+        "color": "Flower color yellow"
+    },
+    "display_pid": "Pterocarpus indicus",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 5-20 m",
+        "soil": "No strict requirements on the soil",
+        "sunlight": "Like adequate light",
+        "watering": "Water thoroughly after soil dries",
+        "fertilization": "Apply enough base fertilizers",
+        "pruning": "Remove diseased, yellowing leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 2700,
+        "max_light_lux": 55000,
+        "min_light_lux": 2800,
+        "max_temp": 30,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\pterocarpus indicus.jpg"
+}

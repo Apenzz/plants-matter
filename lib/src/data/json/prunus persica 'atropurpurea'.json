@@ -1,0 +1,35 @@
+{
+    "pid": "prunus persica 'atropurpurea'",
+    "basic": {
+        "floral_language": "Prunus persica 'Atropurpurea'\nFloriography: confident, innovative, beautiful\nIt has a strong stem, lanceolate leaf, blooms before leaf growth with delicate 5-petal univalve or multi-layer petal flowers with elegant colors, Since ancient times, beautiful peach flowers attracted the public's eye with its shy and beautiful demeanor. Commonly planted in parks and gardens.\nPrunus persica 'Atropurpurea' likes the sunshine, but shade properly under strong sunlight. Blooming in March-April over 2-3 weeks.",
+        "origin": "Southwes Asia",
+        "production": "China",
+        "category": "Rosaceae, Prunus",
+        "blooming": "Flowering period3-4\u6708\uff0c\u89c2\u8d4f2-3\u5468",
+        "color": "Leaf color purple red\uff0cFlower color rose red"
+    },
+    "display_pid": "Prunus persica 'Atropurpurea'",
+    "maintenance": {
+        "size": "Diameter\u226515cm\uff0cHeight\u226525cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like sufficient sunlight",
+        "watering": "Moderately resistant to drought, water thoroughly after soil dries",
+        "fertilization": "Dilute fertilizers following instructions, top-dressing before and after flowering and defoliation",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7200,
+        "min_light_mmol": 3500,
+        "max_light_lux": 65000,
+        "min_light_lux": 2500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 18,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 200
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\prunus persica 'atropurpurea'.jpg"
+}

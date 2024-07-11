@@ -1,0 +1,35 @@
+{
+    "pid": "gelsemium sempervirens",
+    "basic": {
+        "floral_language": "",
+        "origin": "Southern United StatestoCentral America",
+        "production": "Taiwan, Guangdong",
+        "category": "Loganiaceae, Gelsemium",
+        "blooming": "October-April",
+        "color": "Flower color yellow"
+    },
+    "display_pid": "Gelsemium sempervirens",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 20-30 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon",
+        "watering": "Water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "In flowering stage, apply fertilizers with N-P-K ratio about 15\uff0d20\uff0d25",
+        "pruning": "Remove dead and diseased branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\gelsemium sempervirens.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "brachychiton discolor",
+    "basic": {
+        "floral_language": "",
+        "origin": "Colombia",
+        "production": "China",
+        "category": "Malvaceae, Brachychiton",
+        "blooming": "Flowering period in summer",
+        "color": "Flower color red, pink"
+    },
+    "display_pid": "Brachychiton discolor",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height \u2265 30 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like sunshine, put in warm places with adequate light",
+        "watering": "Resistant to drought, water 2-3 times every week",
+        "fertilization": "Apply enough base fertilizers",
+        "pruning": "No need pruning"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\brachychiton discolor.jpg"
+}

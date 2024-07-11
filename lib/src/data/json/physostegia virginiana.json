@@ -1,0 +1,35 @@
+{
+    "pid": "physostegia virginiana",
+    "basic": {
+        "floral_language": "",
+        "origin": "North America",
+        "production": "North America",
+        "category": "Labiatae, Physostegia",
+        "blooming": "Flowering period July-September",
+        "color": "Flower color rose purple, light blue, purple red, pink, white"
+    },
+    "display_pid": "Physostegia virginiana",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 15-20 cm",
+        "soil": "Fertile sandy loam",
+        "sunlight": "Like sunshine, put in warm places with adequate light",
+        "watering": "Only need keep soil moist",
+        "fertilization": "Apply compound fertilizers with N, P, K monthly",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\physostegia virginiana.jpg"
+}

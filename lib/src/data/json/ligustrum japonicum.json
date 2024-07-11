@@ -1,0 +1,35 @@
+{
+    "pid": "ligustrum japonicum",
+    "basic": {
+        "floral_language": "Ligustrum japonicum \nFloriography: kind, handsome, optimistic\nLigustrum japonicum is a beautiful eye-catching deciduous shrub with oval leaves in golden yellow. Often planted as ornamental trees in the garden, street, parks, and other places, or to form hedges, shaped trees, and other landscaping models.\nLigustrum japonicum likes light with a little shade tolerance. When conditions are right, blooms with white flowers.",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Oleaceae, Ligustrum",
+        "blooming": "Foliage plants, sometimes flowers, white flowers",
+        "color": "Leaf color green"
+    },
+    "display_pid": "Ligustrum japonicum",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 10 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like light, and slight shade tolerance",
+        "watering": "Keep soil moist, water thoroughly after soil surface dries",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn",
+        "pruning": "Remove dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5000,
+        "min_light_mmol": 3500,
+        "max_light_lux": 50000,
+        "min_light_lux": 3600,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\ligustrum japonicum.jpg"
+}

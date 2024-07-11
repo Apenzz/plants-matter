@@ -1,0 +1,35 @@
+{
+    "pid": "echeveria 'blue brid'",
+    "basic": {
+        "floral_language": "",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, Echeveria",
+        "blooming": "Succulent plants, sometimes flowers with a short period time",
+        "color": "Leaf blue grey\uff0cand will turn red with adequate sunlight"
+    },
+    "display_pid": "Echeveria 'Blue brid'",
+    "maintenance": {
+        "size": "Diameter\u22653cm\uff0cHeight\u22655cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Enjoy adequate sunlight, avoid strong light in summer",
+        "watering": "Resistant to drought, water thoroughly when soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove flower stem, diseased and rotten leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 10000,
+        "min_light_mmol": 3800,
+        "max_light_lux": 95000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 10,
+        "max_soil_ec": 1500,
+        "min_soil_ec": 100
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\echeveria 'blue brid'.jpg"
+}

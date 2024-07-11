@@ -1,0 +1,35 @@
+{
+    "pid": "lobelia erinus aqua blue",
+    "basic": {
+        "floral_language": "Lobelia chinensis \nFloriography: rationality, freedom, delicate\nLobelia chinensis is a herb with beautiful lanceolate leaves and flowers of slender petals with elegant colors. Flowers half open, hence named \"lobelia\". Suitable for flower beds or home landscaping, known for medicinal value of detoxification as well.\nLobelia chinensis likes full sun, but requires proper shelter to avoid summer strong sunlight. Blossom period in May to August over 1-2 weeks.",
+        "origin": "China",
+        "production": "China",
+        "category": "Campanulaceae, Lobelia",
+        "blooming": "Flowering period May-August, viewing period 1-2 weeks",
+        "color": "Flower color blue"
+    },
+    "display_pid": "Lobelia erinus Aqua Blue",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like adequate light, shade properly under summer strong light",
+        "watering": "Water thoroughly after soil surface dries",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 2500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\lobelia erinus aqua blue.jpg"
+}

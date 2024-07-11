@@ -1,0 +1,35 @@
+{
+    "pid": "echeveria prolifica",
+    "basic": {
+        "floral_language": "Echeveria prolifica \nFloriography: lovely, glorious, strong\nEcheveria prolifica is a beautiful plant with thick fleshy leaves in blue- green color, closely arranged in a rosette, has a strong reproductive capacity by lateral buds. With adequate light leaves turn slightly red, like a blossoming rose. Has high ornamental value and favored by the public.\nEcheveria prolifica likes sunny places, dormant in summer high temperature, shade properly under scattered light. Flowers sometime with flowers.",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, Echeveria",
+        "blooming": "Succulent plants, sometimes flowers, yellow flowers",
+        "color": "Leaf color blue green, when sunny leaf color slightly red"
+    },
+    "display_pid": "Echeveria prolifica",
+    "maintenance": {
+        "size": "Diameter \u2265 3 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes adequate light, a short period of dormancy in summer, put in places with scattered light",
+        "watering": "Resistant to drought, less water to avoid overgrowing",
+        "fertilization": "Dilute fertilizers following instructions, apply once 1-2 monthls in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7000,
+        "min_light_mmol": 3800,
+        "max_light_lux": 75000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\echeveria prolifica.jpg"
+}

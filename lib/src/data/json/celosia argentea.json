@@ -1,0 +1,35 @@
+{
+    "pid": "celosia argentea",
+    "basic": {
+        "floral_language": "",
+        "origin": "Northern South America, Tropical Africa, West Indies, South Asia, East Asia, Southeast Asia",
+        "production": "China",
+        "category": "Amaranthaceae, Celosia",
+        "blooming": "Flowering period May-August, fruiting period June-October",
+        "color": "Flower color white, red, pink, pink purple"
+    },
+    "display_pid": "Celosia argentea",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 15-19 cm",
+        "soil": "Rich in organic matter and Loose fertile soil",
+        "sunlight": "Warm places with scattered light",
+        "watering": "Keep soil moist",
+        "fertilization": "No need fertilization",
+        "pruning": "No need pruning"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3700,
+        "max_temp": 30,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\celosia argentea.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "carya cordiformis",
+    "basic": {
+        "floral_language": "",
+        "origin": "Anhui, Zhejiang",
+        "production": "Anhui, Zhejiang",
+        "category": "Juglandaceae, Carya",
+        "blooming": "Flowering period April-May, fruiting period September",
+        "color": "Flower color green, fruit color light gray, yellow brown, green"
+    },
+    "display_pid": "Carya cordiformis",
+    "maintenance": {
+        "size": "height can reach 10-20m, diameter 30-60 cm",
+        "soil": "Slightly acidic to slightly alkaline soil",
+        "sunlight": "Likes sunshine, put in sunny places",
+        "watering": "Water the roots 2-3 times every month when dry",
+        "fertilization": "Apply fertilizers once to twice to young tree every year",
+        "pruning": "Remove diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 8800,
+        "min_light_mmol": 4000,
+        "max_light_lux": 70000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\carya cordiformis.jpg"
+}

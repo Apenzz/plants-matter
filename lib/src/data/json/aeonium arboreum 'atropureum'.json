@@ -1,0 +1,35 @@
+{
+    "pid": "aeonium arboreum 'atropureum'",
+    "basic": {
+        "floral_language": "Aeonium arboreum 'Atropureum'\nFloriography: mysterious, beautiful, strong.\nThe tree aeonium is succulent plant with treelike stem. Rosette ordered leaves are dark purple, wide oval, thin, leathery and toothed at edges. Leaves turn into green if not sunbath well. It is very popular because of shape and color of the leaves.\nThe plant requires sunny habitat. It will go through dormancy in summer and should be remove from direct sunlight to a place with scattered light. Small blooms are yellow if flowered.",
+        "origin": "Africa",
+        "production": "China",
+        "category": "Crassulaceae, Aeonium",
+        "blooming": "Succulent plants, sometimes flowers, yellow flowers",
+        "color": "Leaf color black purple, without adequate e sunlight, leaves turning to green"
+    },
+    "display_pid": "Aeonium arboreum 'Atropureum'",
+    "maintenance": {
+        "size": "Diameter 6-10 cm, height \u2265 10 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Like sunshine, relatively resistant to half shade, short period of dormancy in summer, use half shade for better care",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce water in dormancy",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring, autumn, and winter",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6700,
+        "min_light_mmol": 2700,
+        "max_light_lux": 80000,
+        "min_light_lux": 2800,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\aeonium arboreum 'atropureum'.jpg"
+}

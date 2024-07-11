@@ -1,0 +1,35 @@
+{
+    "pid": "exochorda racemosa",
+    "basic": {
+        "floral_language": "",
+        "origin": "China",
+        "production": "Southern China",
+        "category": "Rosaceae, Exochorda",
+        "blooming": "Flowering period May, fruiting period June-August",
+        "color": "Flower color white"
+    },
+    "display_pid": "Exochorda racemosa",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height \u2265 25 cm",
+        "soil": "Soil with loose texture or soil with specific nutrients",
+        "sunlight": "Like sunshine, resistant to half shade",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Need more fertilization, dilute fertilizers following instructions, apply 2-3 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3700,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\exochorda racemosa.jpg"
+}

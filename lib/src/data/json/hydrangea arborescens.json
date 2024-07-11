@@ -1,0 +1,35 @@
+{
+    "pid": "hydrangea arborescens",
+    "basic": {
+        "floral_language": "Hydrangea arborescens\nFloriography: loyalty, perfect, beautiful \nHydrangea leaves are green and wide oval. It is rich in color varies from pure color to the gradients of color. Flower pattern is plump, nearly spherical, luxuriant appearance like the bride bouquet. Because of its perfect pattern and implied good meaning, Hydrangea is commonly used in festival decoration or landscape display of parks. \nHydrangea likes half overcast environment, place under appropriate scattered light. Flowering from June to August and ornamental period up to a month at a time.",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Saxifragaceae, Hydrangea",
+        "blooming": "Flowering period June-August, viewing period 3-4 weeks",
+        "color": "Flower color light yellow"
+    },
+    "display_pid": "Hydrangea arborescens",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 10 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes half shade environments, put in places with bright scattered light",
+        "watering": "Water thoroughly when soil is dry, half dormant in summer, reduce water and fertilization, may spray water in the air to cool",
+        "fertilization": "Dilute fertilizers following instructions,  apply 1-2 times monthly in spring",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4000,
+        "min_light_mmol": 1800,
+        "max_light_lux": 30000,
+        "min_light_lux": 1000,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 20,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\hydrangea arborescens.jpg"
+}

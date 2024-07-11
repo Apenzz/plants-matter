@@ -1,0 +1,35 @@
+{
+    "pid": "salvia splendens",
+    "basic": {
+        "floral_language": "Salvia splendens\nFloriography: wisdom, energy and sunshine \nString also known as \"red fireworks \", \"red ivory\u201d. \nString blade ovoid to cordate, margin with a round of saw tooth. Flower like grain shape, the color is mainly red. The flowers open from bottom to top. Long-lasting flowers and beautiful, often used for flower border, flower bed arrangement or beautification household environment. \nString like sunshine, semi-shadow resistance. Flowering from June to Sept, ornamental period 1 to 2 months.",
+        "origin": "Brazil",
+        "production": "China",
+        "category": "Labiatae, Salvia",
+        "blooming": "Flowering period June-September, viewing period 1-2 months",
+        "color": "Flower color red, white, purple"
+    },
+    "display_pid": "Salvia splendens",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes moderate sunlight, resistant to half shade",
+        "watering": "Water thoroughly after soil surface dries",
+        "fertilization": "Dilute fertilizers following instructions,  apply 1-2 times monthly in spring",
+        "pruning": "Remove old, diseased, dead leaves and withered flowers timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 2200,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\salvia splendens.jpg"
+}

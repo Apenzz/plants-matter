@@ -1,0 +1,35 @@
+{
+    "pid": "ipomoea aquatica",
+    "basic": {
+        "floral_language": "",
+        "origin": "China",
+        "production": "China",
+        "category": "Convolvulaceae, Ipomoea",
+        "blooming": "Flowering period7-9\u6708",
+        "color": "Leaf color green\uff0cflower color white"
+    },
+    "display_pid": "Ipomoea aquatica",
+    "maintenance": {
+        "size": "Diameter\u22655cm\uff0cHeight\u226510cm",
+        "soil": "Sandy loam with good drainage",
+        "sunlight": "Enjoy sufficient sunlight, but avoid strong direct sunlight in summer",
+        "watering": "Like water, water thoroughly when soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 14000,
+        "min_light_mmol": 3000,
+        "max_light_lux": 85000,
+        "min_light_lux": 2500,
+        "max_temp": 40,
+        "min_temp": 12,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 75,
+        "min_soil_moist": 25,
+        "max_soil_ec": 2500,
+        "min_soil_ec": 125
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\ipomoea aquatica.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "hosta fortunei",
+    "basic": {
+        "floral_language": "Hosta fortunei \nFloriography: tranquil, temperate, pure.\nThe plant grows delicately upright. Leaves are round heart shaped with gloss. Flowers are produced on erect scapes. The individual flowers are usually pendulous with six petals, white, lavender, or violet in color and strongly fragrant. Garden uses are for pots, flower beds, borders and around ponds.\nGrows best in shade with good ventilation under scatter light. Blooms in July to September for one to two weeks.",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Liliaceae, Hosta",
+        "blooming": "Flowering period July-September, viewing period 1-2 weeks",
+        "color": "Leaf color green , edges white, flower color white or light purple"
+    },
+    "display_pid": "Hosta fortunei",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes shade, can put in places with bright scattered light",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, may spray water on the leaves in summer, water less frequently in winter",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove old, diseased, dead leaves and withered flowers timely"
+    },
+    "parameter": {
+        "max_light_mmol": 3400,
+        "min_light_mmol": 1600,
+        "max_light_lux": 30000,
+        "min_light_lux": 2500,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\hosta fortunei.jpg"
+}

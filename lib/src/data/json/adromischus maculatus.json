@@ -1,0 +1,35 @@
+{
+    "pid": "adromischus maculatus",
+    "basic": {
+        "floral_language": "",
+        "origin": "South Africa",
+        "production": "Southern China",
+        "category": "Crassulaceae, Adromischus",
+        "blooming": "Succulent plants, sometimes flowers",
+        "color": "Leaf color dark green, with red brown dots, flower color white"
+    },
+    "display_pid": "Adromischus maculatus",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 15-18 cm",
+        "soil": "Soil with loose texture or soil with specific nutrients",
+        "sunlight": "In summer shade according to the intensity of light,  in winter no shade when indoor",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 9000,
+        "min_light_mmol": 3200,
+        "max_light_lux": 95000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 55,
+        "min_soil_moist": 12,
+        "max_soil_ec": 1500,
+        "min_soil_ec": 50
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\adromischus maculatus.jpg"
+}

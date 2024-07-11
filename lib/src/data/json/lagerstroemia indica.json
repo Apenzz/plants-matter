@@ -1,0 +1,35 @@
+{
+    "pid": "lagerstroemia indica",
+    "basic": {
+        "floral_language": "Lagerstroemia indica\nFloriography: happy, beautiful, sympathy.\nLeaves are inverse oval, green. Wrinkle flowers gracefully cluster atop of stem. Widely cultivated in yards, gardens and pots for its long flowering duration.\nThe plant grows best with plenty of sunlight, partial shade tolerant. It blooms in June to September and flower lasts for three to four weeks.",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Lythraceae, Lagerstroemia",
+        "blooming": "Flowering period June-September, viewing period 3-4 weeks",
+        "color": "Flower color red, dark pink, purple, white"
+    },
+    "display_pid": "Lagerstroemia indica",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes light, slight shade tolerance",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce watering in winter dormancy",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly in spring and summer, except winter in dormancy",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\lagerstroemia indica.jpg"
+}

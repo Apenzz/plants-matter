@@ -1,0 +1,35 @@
+{
+    "pid": "clivia miniata",
+    "basic": {
+        "floral_language": "Clivia miniata\nFloriography: gentle, humble, benevolent\nClivia miniata is the official flower of Changchun City in China. Has thick, dark green leave oppositely arrange in neat and graceful symmetry, scape emerging from the middle of the blades with funnel-shape flowers on top. Flower color is orange red, yellow, white, and red. Because of it gorgeousness and shade-tolerance, commonly used in home decoration.\nClivia miniata likes half shaded environments, suitable in bright scattered light. Blooms best in January to February or up to 1 month.",
+        "origin": "Africa",
+        "production": "China",
+        "category": "Amaryllidaceae, Clivia",
+        "blooming": "Flowering period January-February, flowers year around, viewing period 1-2 months",
+        "color": "Flower color orange red , yellow, white, red"
+    },
+    "display_pid": "Clivia miniata",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Resistant to half shade, likes moderate sunshine, avoid direct strong light",
+        "watering": "Resistant to drought, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn, except flowering stages",
+        "pruning": "Remove dead and yellowish leaves and withered flowers"
+    },
+    "parameter": {
+        "max_light_mmol": 4000,
+        "min_light_mmol": 2000,
+        "max_light_lux": 25000,
+        "min_light_lux": 1500,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\clivia miniata.jpg"
+}

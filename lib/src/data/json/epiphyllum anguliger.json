@@ -1,0 +1,35 @@
+{
+    "pid": "epiphyllum anguliger",
+    "basic": {
+        "floral_language": "Epiphyllum anguliger\nFloriography: glorious, warm, distinct\nEpiphyllum anguliger flowers beautifully in a very short time window in the night, called a beauty of moonlight.\nEpiphyllum anguliger flowers are funnel-shaped, with linear calyx opening together with the flower, very bright and aromatic, after 2-4 hours the flowers close and wither, therefore it represents good luck for the difficulty of seeing its blossom.\nEpiphyllum anguliger likes half shade, avoid direct sunlight in summer, in other seasons may increase the illumination time. Often blooms in June to October in the evening with a 2-4 hours time period.",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Cactaceae, Epiphyllum",
+        "blooming": "Open flower at night in June-October with a very short period",
+        "color": "Flower color white\uff0cyellow\uff0cpink"
+    },
+    "display_pid": "Epiphyllum anguliger",
+    "maintenance": {
+        "size": "Diameter\u226510cm\uff0cHeight\u226515cm",
+        "soil": "loose sandy loam",
+        "sunlight": "Likes half shade environments, in summer put in places with no direct sunlight, in other seasons may increase light",
+        "watering": "Water thoroughly when soil is dry, rub the leaves with water to keep moisture in summer",
+        "fertilization": "Dilute fertilizers following instructions, dilute fertilizers following instructions,  in early summer, spring and autumn apply fertilizers once monthly",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4700,
+        "min_light_mmol": 2000,
+        "max_light_lux": 25000,
+        "min_light_lux": 2000,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1500,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\epiphyllum anguliger.jpg"
+}

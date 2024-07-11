@@ -1,0 +1,35 @@
+{
+    "pid": "cercis canadensis",
+    "basic": {
+        "floral_language": "Cercis canadensis \nFloriography: beautiful, lively, happy \nTree is the city flower of the Hong Kong special administrative region. Belongs to the deciduous shrubs or trees. Usually is the first flowering after leaf. Purple or pink flowers which are small, tufted on the branches. Looking at the flowers from distance, it is exceptionally beautiful. Usually as a landscape ornamental trees, planted in garden, park, the side of the road or near the house. \nCercis canadensis like plenty of sunshine, a little dark-resistance. Flowering in March and April, available for viewing for 2-3 weeks.",
+        "origin": "China",
+        "production": "China",
+        "category": "Leguminosae, Cercis",
+        "blooming": "Flowering period March-April, viewing period 2-3 weeks",
+        "color": "Flower color purple red or pink"
+    },
+    "display_pid": "Cercis canadensis",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like adequate light, slight shade tolerance",
+        "watering": "Water thoroughly after soil surface dries",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\cercis canadensis.jpg"
+}

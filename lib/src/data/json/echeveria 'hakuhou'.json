@@ -1,0 +1,35 @@
+{
+    "pid": "echeveria 'hakuhou'",
+    "basic": {
+        "floral_language": "Echeveria 'Hakuhou' \nFloriography: broad, brave, independent\nEcheveria 'Hakuhou' is a relatively large Echeveria, with thick leaves in blue-green like spoons covered with a thick layer of white powder, leaves are closely arranged in a rosette, like a blooming lotus. When in a cool season with adequate light, leaf edges turn red.\nLikes sunny places, no apparent dormancy. Flowers sometimes with orange flowers.",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, Echeveria",
+        "blooming": "Succulent plants, sometimes flowers, orange red flowers",
+        "color": "Leaf color green, with strong light leaf turn to red"
+    },
+    "display_pid": "Echeveria 'Hakuhou'",
+    "maintenance": {
+        "size": "Diameter \u2265 3 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Like sunshine, no apparent period of dormancy",
+        "watering": "Do not water frequently, keep a dry environment, water every 7-10 days",
+        "fertilization": "Dilute fertilizers following instructions, apply once every month",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 9300,
+        "min_light_mmol": 3800,
+        "max_light_lux": 110000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\echeveria 'hakuhou'.jpg"
+}

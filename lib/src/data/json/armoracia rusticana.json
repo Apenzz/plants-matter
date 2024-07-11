@@ -1,0 +1,35 @@
+{
+    "pid": "armoracia rusticana",
+    "basic": {
+        "floral_language": "",
+        "origin": "Eastern Europe",
+        "production": "Northern China",
+        "category": "Cruciferae, Armoracia",
+        "blooming": "Flowering period April-May, fruiting period May-June",
+        "color": "Flower color white, leaf color green"
+    },
+    "display_pid": "Armoracia rusticana",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Slightly acidic soil with loose texture or soil with specific nutrients, pH value 6-8",
+        "sunlight": "Likes moderate sunlight",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 12000,
+        "min_light_mmol": 2500,
+        "max_light_lux": 70000,
+        "min_light_lux": 2800,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 65,
+        "min_soil_moist": 22,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 150
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\armoracia rusticana.jpg"
+}

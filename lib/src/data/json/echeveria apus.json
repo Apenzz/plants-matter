@@ -1,0 +1,35 @@
+{
+    "pid": "echeveria apus",
+    "basic": {
+        "floral_language": "",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, Echeveria",
+        "blooming": "Succulent plant, open yellow flower in spring",
+        "color": "Leaf color grey green to blue green and will turn red with much sunlight"
+    },
+    "display_pid": "Echeveria Apus",
+    "maintenance": {
+        "size": "Diameter\u22653cm\uff0cHeight\u226510cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Enjoy sunlight",
+        "watering": "Water thoroughly when soil surface is dry, reduce water in winter dormancy",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove flower stem, diseased and rotten leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 11000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 90000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 150
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\echeveria apus.jpg"
+}

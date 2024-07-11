@@ -1,0 +1,35 @@
+{
+    "pid": "clusia rosea",
+    "basic": {
+        "floral_language": "",
+        "origin": "Tropical regions",
+        "production": "China",
+        "category": "Clusiaceae, Clusia",
+        "blooming": "Foliage plant\uff0csometimes white flower open",
+        "color": "Leaf color green"
+    },
+    "display_pid": "Clusia rosea",
+    "maintenance": {
+        "size": "Diameter\u226510cm\uff0cHeight\u226515cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like mild sunlight, avoid strong direct sunlight",
+        "watering": "Water thoroughly when soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 3500,
+        "min_light_mmol": 1200,
+        "max_light_lux": 28000,
+        "min_light_lux": 1000,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 65,
+        "min_soil_moist": 20,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 100
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\clusia rosea.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "aquilaria sinensis",
+    "basic": {
+        "floral_language": "",
+        "origin": "Asia",
+        "production": "South China",
+        "category": "Thymelaeaceae, Aquilaria",
+        "blooming": "Flowering period May-August\uff0cfruit period September-November",
+        "color": "Flower color yellow green"
+    },
+    "display_pid": "Aquilaria sinensis",
+    "maintenance": {
+        "size": "Diameter\u226510cm\uff0cHeight15-18cm",
+        "soil": "Loose, fertile, and well-drained loam soil",
+        "sunlight": "Enjoy warm sunlight, and resistant to half shade",
+        "watering": "Water thoroughly when soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove flower stem, diseased and rotten leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2000,
+        "max_light_lux": 35000,
+        "min_light_lux": 1500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\aquilaria sinensis.jpg"
+}

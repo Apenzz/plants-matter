@@ -1,0 +1,35 @@
+{
+    "pid": "bergeranthus artus",
+    "basic": {
+        "floral_language": "Bergeranthus artus\nFloriography: beautiful, delicate, tenacious\nThe plant is short, has many branches, fleshy leaves 3-4 cm long in a triangular pyramid shape, rigid and evergreen, easy to grow and take care, suitable for small combinations with other succulents in pots. \nLikes sunlight, but avoid scorching sunlight, does not have an apparent dormant period. Flowers sometimes, has scape emerging from the middle of leaves. Flowers are small in yellow.",
+        "origin": "South Africa",
+        "production": "China",
+        "category": "Aizoaceae, Bergeranthus",
+        "blooming": "Succulent plants, sometimes flowers, yellow flowers",
+        "color": "Leaf color green , flower color yellow"
+    },
+    "display_pid": "Bergeranthus artus",
+    "maintenance": {
+        "size": "Diameter \u2265 5 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, no apparent period of dormancy, avoid scorching light",
+        "watering": "Resistant to drought, water thoroughly when leaves become soft, reduce watering in summer",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5000,
+        "min_light_mmol": 3500,
+        "max_light_lux": 50000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\bergeranthus artus.jpg"
+}

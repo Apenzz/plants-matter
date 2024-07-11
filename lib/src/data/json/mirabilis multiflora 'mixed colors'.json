@@ -1,0 +1,35 @@
+{
+    "pid": "mirabilis multiflora 'mixed colors'",
+    "basic": {
+        "floral_language": "Mirabilis multiflora 'Mixed Colors'\nFloriography: kind, gentle and pure \nMirabilis multiflora 'Mixed Colors' beautiful long remembered, \u201ca beautiful jasmine flower, beautiful fragrance full of branches, incense and white every one appreciates\". It is the city flower of Fuzhou. \nLeaves are dark green, oblong or ovoid shape. Flower color is white. Fragrant flowers can make tea, with effects in helping digestion, detoxification, antibacterial, facial protection. \nMirabilis multiflora 'Mixed Colors' likes sunshine, but shade is needed under summer noon light. Flowering from May to August, ornamental period of 2 to 3 weeks.",
+        "origin": "India",
+        "production": "China",
+        "category": "Oleaceae, Jasminum",
+        "blooming": "Flowering period May-August, viewing period 2-3 weeks",
+        "color": "Flower color rose red"
+    },
+    "display_pid": "Mirabilis multiflora 'Mixed Colors'",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes adequate sunshine and ventilated places, shade properly under summer strong light, when flowering put in the places with scattered light",
+        "watering": "Not resistant to drought, water thoroughly when soil is dry, water less frequently in winter dormancy",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly in spring and summer",
+        "pruning": "Remove dead and yellowish leaves, withered flowers, overstocked branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5400,
+        "min_light_mmol": 3200,
+        "max_light_lux": 40000,
+        "min_light_lux": 1500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\mirabilis multiflora 'mixed colors'.jpg"
+}

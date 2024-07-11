@@ -1,0 +1,35 @@
+{
+    "pid": "pieris floribunda",
+    "basic": {
+        "floral_language": "",
+        "origin": "China, Japan",
+        "production": "China",
+        "category": "Ericaceae, Pieris",
+        "blooming": "Flowering period April-May, flowering period July-September",
+        "color": "Flower color white"
+    },
+    "display_pid": "Pieris floribunda",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height \u2265 25 cm",
+        "soil": "Likes acid, loose soil or soil with specific nutrients",
+        "sunlight": "Resistant to shade, put in places with scattered light",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 2500,
+        "min_light_mmol": 1200,
+        "max_light_lux": 6000,
+        "min_light_lux": 1500,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\pieris floribunda.jpg"
+}

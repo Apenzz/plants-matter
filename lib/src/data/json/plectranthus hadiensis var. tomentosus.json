@@ -1,0 +1,35 @@
+{
+    "pid": "plectranthus hadiensis var. tomentosus",
+    "basic": {
+        "floral_language": "Plectranthus hadiensis var. tomentosus\nFloriography: optimistic, brave, lively \nPlectranthus hadiensis var. tomentosus, as the name implies, one can smell apple fragrance by hand touching. \nThe fleshy leaves are ovoid and light green with a layer of white short fluff on the surface. Apple aroma, refreshing. Besides ornamental value, it still can make tea and be edible. \nPlectranthus hadiensis var. tomentosus like the mild sunshine. Avoid direct light, otherwise easy to become yellow. When it is flowering, the flower colors are bright, include red, pink, blue, etc.",
+        "origin": "Europe, Africa",
+        "production": "Yunnan",
+        "category": "Labiatae, Rabdosia",
+        "blooming": "Succulent plants, blooms sometimes, red, pink, blue flowers",
+        "color": "Leaf color gray green, on the edges with brown dots"
+    },
+    "display_pid": "Plectranthus hadiensis var. tomentosus",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 10-15 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes moderate sunshine, also resistant to half shade, in summer no apparent dormancy",
+        "watering": "Do not water frequently, keep a dry environment, water every 7-10 days",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4700,
+        "min_light_mmol": 2000,
+        "max_light_lux": 35000,
+        "min_light_lux": 2800,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\plectranthus hadiensis var. tomentosus.jpg"
+}

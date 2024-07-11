@@ -1,0 +1,35 @@
+{
+    "pid": "echeveria agavoides cv. christmas eve",
+    "basic": {
+        "floral_language": "Echeveria agavoides cv. Christmas eve \nFloriography: rich, bold, bright\nEcheveria agavoides cv. Christmas eve is a large Echeveria cultivar, with green, fleshy, long ovate, and spine-tipped leaves, arranged in a rosette form, a layer of white powder on leaf surface, like a blooming lotus. Leaves turn yellowish green when sunny, and leaf edges and the lower surface become red and extremely beautiful.\nEcheveria agavoides cv. Christmas eve likes light, short period of dormancy in summer, shade properly, sometimes blooms with orange flowers.",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, Echeveria",
+        "blooming": "Succulent plants, sometimes flowers, orange red flowers",
+        "color": "Leaf color green, when sunny turning to yellow green, leaf edges and lower surface red"
+    },
+    "display_pid": "Echeveria Agavoides cv. Christmas eve",
+    "maintenance": {
+        "size": "Diameter \u2265 3 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, a short period of dormancy in summer, put in places with bright scattered light",
+        "watering": "Avoid water saturation, water thoroughly when soil is dry, reduce watering when in dormancy",
+        "fertilization": "Dilute fertilizers following instructions,  apply once monthly in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 10600,
+        "min_light_mmol": 4400,
+        "max_light_lux": 85000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\echeveria agavoides cv. christmas eve.jpg"
+}

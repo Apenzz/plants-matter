@@ -1,0 +1,35 @@
+{
+    "pid": "astrophytum myriostigma",
+    "basic": {
+        "floral_language": "Astrophytum myriostigma\nFloriography: charming, lovely, cute\nHas a delicate cylindrical shape with 3-9, usually 5, rigid, fleshy, and pronounced vertical ribs forming a star-like shape observed from the top, high ornamental value.\nLikes sunny places, shade properly under summer strong sunlight, does not have an apparent dormant period, often blooms in spring and summer. Flowers are light yellow.",
+        "origin": "United States",
+        "production": "China",
+        "category": "Cactaceae, Astrophytum",
+        "blooming": "Succulent plants, sometimes flowers, light yellow flowers",
+        "color": "Leaf color green"
+    },
+    "display_pid": "Astrophytum myriostigma",
+    "maintenance": {
+        "size": "Diameter 3-10 cm, height \u2265 3 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, no apparent period of dormancy, shade properly under summer strong light",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce water in summer high temperature",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\astrophytum myriostigma.jpg"
+}

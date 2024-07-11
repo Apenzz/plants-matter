@@ -1,0 +1,35 @@
+{
+    "pid": "rhipsalidopsis gaertneri",
+    "basic": {
+        "floral_language": "",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Cactaceae",
+        "blooming": "Succulent plant\uff0cflowering period March-April",
+        "color": "Leaf color green and leaf margin is red"
+    },
+    "display_pid": "Rhipsalidopsis gaertneri",
+    "maintenance": {
+        "size": "Diameter\u226510cm\uff0cHeight\u226515cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Enjoy mild sunlightresistant to half shade\uff0cavoid direct light during summer dormancy",
+        "watering": "Resistant to drought, water thoroughly when soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove flower stem, diseased and rotten leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4700,
+        "min_light_mmol": 2200,
+        "max_light_lux": 35000,
+        "min_light_lux": 1200,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 60,
+        "min_soil_moist": 17,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 150
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\rhipsalidopsis gaertneri.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "prunus persica chrysanthemoides",
+    "basic": {
+        "floral_language": "Prunus persica Chrysanthemoides\nFloriography: confident, innovative, beautiful\nPrunus persica Chrysanthemoides is named after its chrysanthemum-like flowers. It has a strong stem, lanceolate leaf, blooms before leaf growth with delicate 5-petal univalve or multi-layer petal flowers with elegant colors, Since ancient times, beautiful peach flowers attracted the public's eye with its shy and beautiful demeanor. Commonly planted in parks and gardens.\nPrunus persica Chrysanthemoides likes the sunshine, but shade properly under strong sunlight. Blooming in March-April over 2-3 weeks.",
+        "origin": "Central China",
+        "production": "China",
+        "category": "Rosaceae, Prunus",
+        "blooming": "Flowering period March-April, viewing period 2-3 weeks",
+        "color": "Flower color pink"
+    },
+    "display_pid": "Prunus persica Chrysanthemoides",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes adequate sunshine",
+        "watering": "Moderately resistant to drought, water thoroughly after soil dries",
+        "fertilization": "Dilute fertilizers following instructions, top-dressing before and after flowering and defoliation",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 2500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\prunus persica chrysanthemoides.jpg"
+}

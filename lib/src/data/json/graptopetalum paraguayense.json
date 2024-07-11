@@ -1,0 +1,35 @@
+{
+    "pid": "graptopetalum paraguayense",
+    "basic": {
+        "floral_language": "Graptopetalum paraguayense\nFloriography: strong, brave, philanthropic.\nThis plant is a species of succulent plant in the jade plant family, Crassulaceae. Layout of the thick leaves is similar to a blooming Indian lotus. So the plant was called 'the flower never withered' and became very popular.\nThe plant requires sunny habitat. Flowering occasionally, white, five-pointed star shaped.",
+        "origin": "Holland",
+        "production": "China",
+        "category": "Crassulaceae, Echeveria",
+        "blooming": "Succulent plants, blooms sometimes, blooms with white flowers in May-pointed star shape, red flower buds",
+        "color": "Leaf color emerald green , light purple"
+    },
+    "display_pid": "Graptopetalum paraguayense",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 3-7 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes adequate sunshine, not afraid of strong sunlight, when in a short period of dormancy in summer, reduce water and shade properly",
+        "watering": "Do not water frequently, keep a dry environment, water every 10-15 days",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly",
+        "pruning": "Remove withered and dead leaves and excessive daughter plants"
+    },
+    "parameter": {
+        "max_light_mmol": 9300,
+        "min_light_mmol": 3800,
+        "max_light_lux": 90000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\graptopetalum paraguayense.jpg"
+}

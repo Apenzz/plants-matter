@@ -1,0 +1,35 @@
+{
+    "pid": "geum montanum",
+    "basic": {
+        "floral_language": "",
+        "origin": "The North Temperate Zone",
+        "production": "China",
+        "category": "Rosaceae, Geum",
+        "blooming": "Flowering and fruiting periodJuly-October",
+        "color": "Flower color yellow"
+    },
+    "display_pid": "Geum montanum",
+    "maintenance": {
+        "size": "Diameter \u2265 15 cm, height \u2265 25 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like sunshine, resistant to half shade, avoid strong direct light",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove old, diseased and dead leaves timely, after flowering remove the upper part staring from 5 cm above soil surface, leaving 3-5 leaves"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\geum montanum.jpg"
+}

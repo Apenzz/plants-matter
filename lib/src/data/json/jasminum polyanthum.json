@@ -1,0 +1,35 @@
+{
+    "pid": "jasminum polyanthum",
+    "basic": {
+        "floral_language": "",
+        "origin": "China",
+        "production": "Sichuan, Guizhou, Yunnan",
+        "category": "Oleaceae, Jasminum",
+        "blooming": "Flowering period February-August, fruiting period November",
+        "color": "Flower color red, to white, fruit color black"
+    },
+    "display_pid": "Jasminum polyanthum",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 20-30 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes warm, moist and sunny environments, grows better near the water sources",
+        "watering": "Need a lot of water during spring, summer, and autumn to keep soil moist, may spray water on the plant to keep moist when air is dry",
+        "fertilization": "Apply manure monthly",
+        "pruning": "Remove dead and diseased branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6700,
+        "min_light_mmol": 4000,
+        "max_light_lux": 80000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 90,
+        "min_soil_moist": 25,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\jasminum polyanthum.jpg"
+}

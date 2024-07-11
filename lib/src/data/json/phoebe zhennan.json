@@ -1,0 +1,35 @@
+{
+    "pid": "phoebe zhennan",
+    "basic": {
+        "floral_language": "",
+        "origin": "subtropical zone",
+        "production": "China",
+        "category": "Lauraceae, Phoebe",
+        "blooming": "Flowering period4-5\u6708\uff0cfruit period9-10\u6708",
+        "color": "Leaf color green\uff0cFlower color yellow"
+    },
+    "display_pid": "Phoebe zhennan",
+    "maintenance": {
+        "size": "Diameter\u226510cm\uff0cHeight\u226515cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Shady plant, avoid direct sunlight",
+        "watering": "Water thoroughly when soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove flower stem, diseased and rotten leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 1500,
+        "max_light_lux": 35000,
+        "min_light_lux": 1500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\phoebe zhennan.jpg"
+}

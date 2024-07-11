@@ -1,0 +1,35 @@
+{
+    "pid": "aspidistra elatior",
+    "basic": {
+        "floral_language": "Aspidistra elatior \nFloriography: goodly, sturdy, vigorous\nAspidistra elatior is an evergreen foliage plant.\nHas green, oblong, leathery thick leaves. High ornamental value, usually placed in the living room, desk, foyer, adding a classical atmosphere.\nIs a shade-tolerant plant, suitable to be placed under the bright scattered light. When conditions are right. Flowers sometimes with light purple flowers.",
+        "origin": "China",
+        "production": "China",
+        "category": "Liliaceae, Aspidistra",
+        "blooming": "Foliage plants, sometimes flowers, light purple flowers",
+        "color": "Leaf color green"
+    },
+    "display_pid": "Aspidistra elatior",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 10 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like half shade, put in places with scattered light",
+        "watering": "Likes wet environments, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn",
+        "pruning": "Remove dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 2500,
+        "min_light_mmol": 1100,
+        "max_light_lux": 7000,
+        "min_light_lux": 2000,
+        "max_temp": 32,
+        "min_temp": 7,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\aspidistra elatior.jpg"
+}

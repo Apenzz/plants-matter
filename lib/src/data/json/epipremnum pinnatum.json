@@ -1,0 +1,35 @@
+{
+    "pid": "epipremnum pinnatum",
+    "basic": {
+        "floral_language": "",
+        "origin": "Guangdong, Guangxi, Hainan, Taiwan, India, Malaysia",
+        "production": "China",
+        "category": "Araceae, Epipremnum",
+        "blooming": "Flowering period April-May",
+        "color": "Flower color white"
+    },
+    "display_pid": "Epipremnum pinnatum",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 15-20 cm",
+        "soil": "Sandy loam",
+        "sunlight": "In growing season shall be placed in half shade environments, especially in summer avoid direct strong sunlight",
+        "watering": "Only need keep soil moist",
+        "fertilization": "Frequently spary water on leaves in summer and top-dressing low concentration fertilizers, less top-dressing in winter",
+        "pruning": "Pruning timely to keep a good canopy shape"
+    },
+    "parameter": {
+        "max_light_mmol": 2500,
+        "min_light_mmol": 1200,
+        "max_light_lux": 6000,
+        "min_light_lux": 1500,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\epipremnum pinnatum.jpg"
+}

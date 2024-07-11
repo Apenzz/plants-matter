@@ -1,0 +1,35 @@
+{
+    "pid": "cichorium endivia",
+    "basic": {
+        "floral_language": "",
+        "origin": "Europe",
+        "production": "China",
+        "category": "Compositae, Cichorium",
+        "blooming": "Flowering andfruiting period May-December",
+        "color": "Flower color light purple , leaf color green"
+    },
+    "display_pid": "Cichorium endivia",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Neutral or slightly acidic soil with loose texture or soil with specific nutrients",
+        "sunlight": "Likes moderate sunlight, resistant to half shade",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7000,
+        "min_light_mmol": 3200,
+        "max_light_lux": 40000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\cichorium endivia.jpg"
+}

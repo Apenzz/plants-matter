@@ -1,0 +1,35 @@
+{
+    "pid": "philodendron panduriforme",
+    "basic": {
+        "floral_language": "",
+        "origin": "Solomon Islands",
+        "production": "Southern China",
+        "category": "Araceae, Philodendron",
+        "blooming": "Foliage plants, viewing period year around",
+        "color": "Leaf color green"
+    },
+    "display_pid": "Philodendron panduriforme",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, can climb",
+        "soil": "Slightly acidic soil with loose texture or soil with specific nutrients",
+        "sunlight": "Resistant to shade, put in places with scattered light",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5400,
+        "min_light_mmol": 1200,
+        "max_light_lux": 40000,
+        "min_light_lux": 1000,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 20,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 100
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\philodendron panduriforme.jpg"
+}

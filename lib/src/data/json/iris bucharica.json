@@ -1,0 +1,35 @@
+{
+    "pid": "iris bucharica",
+    "basic": {
+        "floral_language": "Iris bucharica\nFloriography: beautiful, freedom, and the sun \nIris bucharicaes are very beautiful flowers, also called as the blue butterfly, belongs to the medium-sized perennial root plant. \nIris bucharica flower shape is unique, the petals are large and gorgeous, and most of the flowers have the rainbow color and the stripes, so its Latin Iris bucharica is derived from the Greek myth of the goddess of the rainbow.",
+        "origin": "Holland",
+        "production": "Yunnan",
+        "category": "Iridaceae, Iris",
+        "blooming": "Flowering period April-May, viewing period 1-2 weeks",
+        "color": "Flower color white to yellow"
+    },
+    "display_pid": "Iris bucharica",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes adequate sunshine, also resistant to half shade, avoid strong light",
+        "watering": "Keep soil moist",
+        "fertilization": "Dilute fertilizers following instructions, apply fertilizers once every 10-15 days in spring",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5400,
+        "min_light_mmol": 2200,
+        "max_light_lux": 30000,
+        "min_light_lux": 2000,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 17,
+        "max_soil_ec": 1500,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\iris bucharica.jpg"
+}

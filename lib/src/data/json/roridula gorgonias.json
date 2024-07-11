@@ -1,0 +1,35 @@
+{
+    "pid": "roridula gorgonias",
+    "basic": {
+        "floral_language": "",
+        "origin": "South Africa",
+        "production": "China",
+        "category": "Roridulaceae, Roridula",
+        "blooming": "Carnivorous plant\uff0cFlowering period June-August",
+        "color": "Flower color pink red"
+    },
+    "display_pid": "Roridula gorgonias",
+    "maintenance": {
+        "size": "Diameter\u22655cm\uff0cHeight\u22655cm",
+        "soil": "In sphagnum moss",
+        "sunlight": "Like sunlight and resistant to half shade",
+        "watering": "Like wet, water thoroughly when the soil surface is dry",
+        "fertilization": "Can feed by self or provide low concentration liquid fertilizer",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5000,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 2500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 50
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\roridula gorgonias.jpg"
+}

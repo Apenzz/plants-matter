@@ -1,0 +1,35 @@
+{
+    "pid": "mahonia fortunei",
+    "basic": {
+        "floral_language": "Mahonia fortunei\nFloriography: peculiar, brave, enterprising\nMahonia fortunei is evergreen with elegant plant shape and beautifully bizarre obovate leaves with spikes on leaf margins. High ornamental value, usually used for flower beds or potted plants for home environment.\nLikes half shaded environments, avoid direct sunlight in summer, expose to 2-3 hours sunlight in winter. Bloom in July-September with yellow flowers.",
+        "origin": "China",
+        "production": "China",
+        "category": "Berberidaceae, Mahonia",
+        "blooming": "Foliage plants, sometimes flowers in July-September, yellow flowers",
+        "color": "Leaf color green"
+    },
+    "display_pid": "Mahonia fortunei",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 10 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes half shade environments, in summer avoid direct strong light, in winter take 2-3h sunlight",
+        "watering": "Moderately resistant to drought, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn",
+        "pruning": "Remove dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 3500,
+        "min_light_mmol": 1500,
+        "max_light_lux": 8000,
+        "min_light_lux": 2000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\mahonia fortunei.jpg"
+}

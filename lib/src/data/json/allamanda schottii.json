@@ -1,0 +1,35 @@
+{
+    "pid": "allamanda schottii",
+    "basic": {
+        "floral_language": "",
+        "origin": "Southern United States and Brazil",
+        "production": "Southern China",
+        "category": "Apocynaceae, Allamanda",
+        "blooming": "Flowering period May-August, fruiting period October-December",
+        "color": "Flower color golden yellow"
+    },
+    "display_pid": "Allamanda schottii",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific amount of humus",
+        "sunlight": "Like sunshine, slightly resistant to half shade",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Pruning accordingly for any favorate tree shapes"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\allamanda schottii.jpg"
+}

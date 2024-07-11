@@ -1,0 +1,35 @@
+{
+    "pid": "archontophoenix cunninghamiana",
+    "basic": {
+        "floral_language": "",
+        "origin": "Australia",
+        "production": "Southern China",
+        "category": "Palmae, Archontophoenix",
+        "blooming": "Flowering period April, fruiting period April-July",
+        "color": "Flower color yellow brown, fruit color brown"
+    },
+    "display_pid": "Archontophoenix cunninghamiana",
+    "maintenance": {
+        "size": "Diameter \u2265 25 cm, height \u2265 30 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes light, grows in sunny places, avoid direct strong light at seedling stage",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 2-3 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\archontophoenix cunninghamiana.jpg"
+}

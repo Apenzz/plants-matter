@@ -1,0 +1,35 @@
+{
+    "pid": "panicum virgatum",
+    "basic": {
+        "floral_language": "",
+        "origin": "United States",
+        "production": "China",
+        "category": "Gramineae, Panicum",
+        "blooming": "Flowering and fruiting period June-October",
+        "color": "Flower color green or purple"
+    },
+    "display_pid": "Panicum virgatum",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 20-30 cm",
+        "soil": "Loose, fertile, high water permeability planting materials",
+        "sunlight": "Like half shade, may grow in places with bright scattered light",
+        "watering": "2-3 times every week",
+        "fertilization": "Apply enough base fertilizers",
+        "pruning": "No need pruning"
+    },
+    "parameter": {
+        "max_light_mmol": 4000,
+        "min_light_mmol": 2000,
+        "max_light_lux": 20000,
+        "min_light_lux": 3700,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\panicum virgatum.jpg"
+}

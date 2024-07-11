@@ -1,0 +1,35 @@
+{
+    "pid": "agave sisalana",
+    "basic": {
+        "floral_language": "",
+        "origin": "Mexico",
+        "production": "China Yangtzie River Valley and south, Shandong, Henan",
+        "category": "Agavaceae, Agave",
+        "blooming": "Flowering period May-June, August-September",
+        "color": "Flower color yellow, cream white"
+    },
+    "display_pid": "Agave sisalana",
+    "maintenance": {
+        "size": "height 25-30 cm",
+        "soil": "Fertile sandy loam",
+        "sunlight": "Likes sunshine, shade properly under summer noon strong light",
+        "watering": "Water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Apply fertilizers once in each month, mainly organic fertilizers",
+        "pruning": "Remove weeds timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\agave sisalana.jpg"
+}

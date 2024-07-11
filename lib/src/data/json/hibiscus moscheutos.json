@@ -1,0 +1,35 @@
+{
+    "pid": "hibiscus moscheutos",
+    "basic": {
+        "floral_language": "",
+        "origin": "North America",
+        "production": "Beijing, Qingdao, Shanghai, Nanjing, Hangzhou, Kunming",
+        "category": "Malvaceae, Hibiscus",
+        "blooming": "Flowering period June-August",
+        "color": "Flower color white, pink, red, purple"
+    },
+    "display_pid": "Hibiscus moscheutos",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 20-30 cm",
+        "soil": "Potting mix with peat and vermiculite",
+        "sunlight": "Grows well in full sun",
+        "watering": "Spray water once every days",
+        "fertilization": "Mainly use base fertilizers, top-dressing at the late stages",
+        "pruning": "Remove dead and diseased branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\hibiscus moscheutos.jpg"
+}

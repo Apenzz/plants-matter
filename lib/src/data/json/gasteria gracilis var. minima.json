@@ -1,0 +1,35 @@
+{
+    "pid": "gasteria gracilis var. minima",
+    "basic": {
+        "floral_language": "Gasteria gracilis var. minima\nFloriography: peculiar, fortunate, lucky\nHas fleshy thick and tone-like leaves arranged in opposite directions forming like an ingot. Leaf color dark green with light green spots. Easy to multiply by detaching lateral buds and burying into soil. \nLikes half shaded environments, avoid direct strong sunlight, need shade properly under scattered light. Flowers are yellow.",
+        "origin": "South Africa",
+        "production": "China",
+        "category": "Liliaceae, Gasteria",
+        "blooming": "Succulent plants, sometimes flowers, yellow flowers",
+        "color": "Leaf color green to gray green"
+    },
+    "display_pid": "Gasteria gracilis var. minima",
+    "maintenance": {
+        "size": "Diameter \u2265 5 cm, height 3-10 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Like half shade, put in places with scattered light, avoid strong direct light",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce water in summer",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4000,
+        "min_light_mmol": 2000,
+        "max_light_lux": 30000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\gasteria gracilis var. minima.jpg"
+}

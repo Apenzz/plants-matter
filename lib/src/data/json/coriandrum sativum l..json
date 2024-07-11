@@ -1,0 +1,35 @@
+{
+    "pid": "coriandrum sativum l.",
+    "basic": {
+        "floral_language": "",
+        "origin": "Mediterranean coastal areas",
+        "production": "China",
+        "category": "Umbelliferae, Coriandrum",
+        "blooming": "Flowering and fruiting period April-November",
+        "color": "Flower color white or with light purple, leaf color green"
+    },
+    "display_pid": "Coriandrum sativum L.",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients, pH 5-7",
+        "sunlight": "Grows in sunny places and resistant to half shade",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 8200,
+        "min_light_mmol": 3200,
+        "max_light_lux": 85000,
+        "min_light_lux": 2800,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 65,
+        "min_soil_moist": 25,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 100
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\coriandrum sativum l..jpg"
+}

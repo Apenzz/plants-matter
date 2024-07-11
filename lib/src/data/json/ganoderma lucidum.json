@@ -1,0 +1,35 @@
+{
+    "pid": "ganoderma lucidum",
+    "basic": {
+        "floral_language": "",
+        "origin": "China",
+        "production": "China",
+        "category": "Ganodermataceae, Ganoderma",
+        "blooming": "Fungus, no flowering",
+        "color": "Leaf color brown, purple brown to black"
+    },
+    "display_pid": "Ganoderma lucidum",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Bag of planting materials with specific ingredients",
+        "sunlight": "Grows in shade or with scattered light",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Apply enough base fertilizers before transplanting, apply liquid fertilizers every 2 weeks after",
+        "pruning": "No need pruning"
+    },
+    "parameter": {
+        "max_light_mmol": 2500,
+        "min_light_mmol": 1200,
+        "max_light_lux": 6000,
+        "min_light_lux": 1500,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 90,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\ganoderma lucidum.jpg"
+}

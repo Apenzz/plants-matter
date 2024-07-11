@@ -1,0 +1,35 @@
+{
+    "pid": "rhododendron tomentosum",
+    "basic": {
+        "floral_language": "",
+        "origin": "China, Europe",
+        "production": "NorthEast China",
+        "category": "Ericaceae, Ledum",
+        "blooming": "Flowering and fruiting period June-August",
+        "color": "Flower color cream white"
+    },
+    "display_pid": "Rhododendron tomentosum",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 20-30 cm",
+        "soil": "Humus-rich, fertile, moist and slightly acidic soil",
+        "sunlight": "Put in cool places with scattered light",
+        "watering": "Once every week",
+        "fertilization": "Mainly use base fertilizers, top-dressing at the late stages",
+        "pruning": "No need pruning"
+    },
+    "parameter": {
+        "max_light_mmol": 2500,
+        "min_light_mmol": 1200,
+        "max_light_lux": 6000,
+        "min_light_lux": 1500,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\rhododendron tomentosum.jpg"
+}

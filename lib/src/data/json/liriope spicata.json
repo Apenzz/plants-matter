@@ -1,0 +1,35 @@
+{
+    "pid": "liriope spicata",
+    "basic": {
+        "floral_language": "",
+        "origin": "Japan, Vietnam, China, Taiwan",
+        "production": "NorthEast China, Inner Mongolia, Qinghai, Xingjiang, Tibet",
+        "category": "Liliaceae, Liriope",
+        "blooming": "Flowering period May-July, fruiting period August-October",
+        "color": "Flower color light purple , light blue, fruit color blue black"
+    },
+    "display_pid": "Liriope spicata",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 15-20 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Avoid direct strong light",
+        "watering": "Only need keep soil moist",
+        "fertilization": "No need fertilization",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 2500,
+        "min_light_mmol": 1200,
+        "max_light_lux": 6000,
+        "min_light_lux": 1500,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\liriope spicata.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "passiflora quadrangularis",
+    "basic": {
+        "floral_language": "",
+        "origin": "Brazil",
+        "production": "Southern China",
+        "category": "Passifloraceae, Passiflora",
+        "blooming": "Flowering period May-July, fruiting period August-October",
+        "color": "Flower color light green, fruit color orange or yellow"
+    },
+    "display_pid": "Passiflora quadrangularis",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 8 cm",
+        "soil": "Soil with loose texture or soil with specific nutrients",
+        "sunlight": "Like sunshine, high quality fruits in sunny places",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 8200,
+        "min_light_mmol": 4300,
+        "max_light_lux": 65000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\passiflora quadrangularis.jpg"
+}

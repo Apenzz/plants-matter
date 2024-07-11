@@ -1,0 +1,35 @@
+{
+    "pid": "pachyphytum oviferum",
+    "basic": {
+        "floral_language": "Pachyphytum oviferum \nFloriography: pure, grand, beautiful\nHas a beautiful shape with thick fleshy and gray-green to blue-green leaves in an oval shape and arranged in a rosette, leaf surface has thick white powder. In a cool season with adequate light, leaves turn slightly red. Grows slowly, suitable for combinations with other potted succulents.\nLikes adequate sunlight, no apparent dormant period. Flowers are purple to red.",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, Pachyphytum",
+        "blooming": "Succulent plants, sometimes flowers, purple red to red flowers",
+        "color": "Leaf color gray green to blue green, with a great diurnal temperature range, with adequate sunlight slightly turning to red"
+    },
+    "display_pid": "Pachyphytum oviferum",
+    "maintenance": {
+        "size": "Diameter \u2265 5 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Like sunshine, no apparent dormancy",
+        "watering": "Do not water frequently, keep a dry environment, water every 7-10 days",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7500,
+        "min_light_mmol": 3800,
+        "max_light_lux": 80000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\pachyphytum oviferum.jpg"
+}

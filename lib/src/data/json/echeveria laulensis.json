@@ -1,0 +1,35 @@
+{
+    "pid": "echeveria laulensis",
+    "basic": {
+        "floral_language": "",
+        "origin": "Asia",
+        "production": "Yunnan",
+        "category": "Crassulaceae, Echeveria",
+        "blooming": "Succulent plants, sometimes flowers, orange flowers",
+        "color": "Leaf color blue green, when sunny leaf color turning to peach red"
+    },
+    "display_pid": "Echeveria laulensis",
+    "maintenance": {
+        "size": "Diameter 6-10 cm, height 5-15 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, and resistant to half shade, short period of dormancy in summer, use half shade for better care",
+        "watering": "Water thoroughly 2 times during summer dormancy, keep soil moist in other time, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions,  apply once monthly in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 9500,
+        "min_light_mmol": 3500,
+        "max_light_lux": 85000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 55,
+        "min_soil_moist": 10,
+        "max_soil_ec": 1500,
+        "min_soil_ec": 50
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\echeveria laulensis.jpg"
+}

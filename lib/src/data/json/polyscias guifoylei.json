@@ -1,0 +1,35 @@
+{
+    "pid": "polyscias guifoylei",
+    "basic": {
+        "floral_language": "Polyscias guilfoylei \nFloriography: tenacious, vital, happy.\nThe geranium aralia is an evergreen foliage plant. Leaves are oval to round shape, green, occasionally with white patches on leaf surface. It is usually placed in living room, desktop and balcony. The plant could work as an air refresher.\nThe geranium aralia prefers habitat with mild light, such as bright scatter light. Direct bright sunlight should be avoided. Light green flowers may bloom in March to June if growing well.",
+        "origin": "Pacific Islands",
+        "production": "China",
+        "category": "Araliaceae, Polyscias",
+        "blooming": "Foliage plants, sometimes flowers in March-June, light green flowers",
+        "color": "Leaf color green, often with white marks"
+    },
+    "display_pid": "Polyscias guifoylei",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 10 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes moderate light, put in places with bright scattered light, avoid strong direct light",
+        "watering": "Water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring",
+        "pruning": "Remove dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 3600,
+        "min_light_mmol": 1200,
+        "max_light_lux": 25000,
+        "min_light_lux": 1200,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\polyscias guifoylei.jpg"
+}

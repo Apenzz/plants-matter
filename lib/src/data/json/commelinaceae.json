@@ -1,0 +1,35 @@
+{
+    "pid": "commelinaceae",
+    "basic": {
+        "floral_language": "",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Commelinaceae, Commelina",
+        "blooming": "Flowering period May-September, fruiting period June-November",
+        "color": "Flower color blue, white"
+    },
+    "display_pid": "Commelinaceae",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Resistant to half shade, put in places with scattered light",
+        "watering": "Resistant to drought, water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 3400,
+        "min_light_mmol": 2000,
+        "max_light_lux": 23000,
+        "min_light_lux": 500,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\commelinaceae.jpg"
+}

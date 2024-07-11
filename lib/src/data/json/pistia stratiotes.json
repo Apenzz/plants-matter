@@ -1,0 +1,35 @@
+{
+    "pid": "pistia stratiotes",
+    "basic": {
+        "floral_language": "",
+        "origin": "Tropical Americas",
+        "production": "Fujian, Taiwan, Guangdong, Hainan, Hongkong",
+        "category": "Araceae, Pistia",
+        "blooming": "Flowering period April-September",
+        "color": "Flower color white to purple"
+    },
+    "display_pid": "Pistia stratiotes",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 20-30 cm",
+        "soil": "Aquatic plants",
+        "sunlight": "Put in sunny places",
+        "watering": "Change water every week",
+        "fertilization": "Top-dressing on leaves 4 times a year",
+        "pruning": "No need pruning"
+    },
+    "parameter": {
+        "max_light_mmol": 5000,
+        "min_light_mmol": 3500,
+        "max_light_lux": 50000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 100,
+        "min_soil_moist": 50,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\pistia stratiotes.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "primula polyantha",
+    "basic": {
+        "floral_language": "Primula polyantha\nFloriography: decisive, glorious, optimistic\nPrimula polyantha is a dwarf plant, broad ovate leaves with a wrinkled surface and toothed edges. Flowers clustered at the top of the leaf blade, like a small bouquet. Has many colors, such as orange, yellow, red, purple, etc. Blooms in early spring, commonly used in flower beds or home decoration.\nPrimula polyantha likes gentle sunlight, avoid strong sunlight in summer noontime. Flowers in December-April for 1-2 weeks.",
+        "origin": "Yunan",
+        "production": "China",
+        "category": "Primulaceae, Primula",
+        "blooming": "Flowering period December-April, viewing period 1-2 weeks",
+        "color": "Flower color yellow, purple, white, or in mixture"
+    },
+    "display_pid": "Primula polyantha",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 10-25 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes sunshine, but avoid summer direct strong light, in summer should be placed under scattered light",
+        "watering": "Water thoroughly when soil is dry, under summer high temperature, reduce water and fertilization",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 2200,
+        "max_temp": 32,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\primula polyantha.jpg"
+}

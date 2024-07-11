@@ -1,0 +1,35 @@
+{
+    "pid": "crassula mesembrianthoides subsp. hispida",
+    "basic": {
+        "floral_language": "Crassula mesembrianthoides subsp. Hispida\nFloriography: gentle, lovely, beautiful\nHas a unique shape, leaves are like raindrops with needle-like tips, sink in the middle and covered by dense white hairs, fluffy and lovely, in a cool season with abundant sunlight, leaves turn red, often used in combinations with other small succulents in pots.\nLikes sunshine, has a summer dormant period, need shade properly under scattered light and reduce watering. Flowers are orange.",
+        "origin": "Africa",
+        "production": "China",
+        "category": "Crassulaceae, Crassula",
+        "blooming": "Succulent plants, sometimes flowers, orange red flowers",
+        "color": "Leaf color green, with a great diurnal temperature range, with adequate sunlight turning to red"
+    },
+    "display_pid": "Crassula mesembrianthoides subsp. Hispida",
+    "maintenance": {
+        "size": "Diameter \u2265 5 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, dormant in summer under high temperatures, put in places with bright scattered light",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce water in summer",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7000,
+        "min_light_mmol": 5000,
+        "max_light_lux": 80000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\crassula mesembrianthoides subsp. hispida.jpg"
+}

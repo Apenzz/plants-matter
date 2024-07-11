@@ -1,0 +1,35 @@
+{
+    "pid": "aeonium decorum f. variegata",
+    "basic": {
+        "floral_language": "Aeonium decorum f. variegata\nFloriography: bright, sunshine, beautiful \nAeonium decorum f. variegata plant stature like the lotus. The flat blade is ovate, with short white hairs on the margin. The color of new leaves is pale yellow, with a small amount of light green. When sunny the leaf edge will turn orange to pink. In hot summer, the blade will become green, please pay attention to shading and control watering. Because of its bright color, easy care, it is deeply loved by the public. \nLike the sunshine, also is flowering. Plant will produce flower stem in the middle, with pale pink flowers.",
+        "origin": "Atlantic Osean region",
+        "production": "Yunnan",
+        "category": "Crassulaceae, Aeonium",
+        "blooming": "Succulent plants, sometimes flowers, light pink flowers",
+        "color": "New leaf light yellow, slightly green, with adequate light leaf edges turn to orange red"
+    },
+    "display_pid": "Aeonium decorum f. variegata",
+    "maintenance": {
+        "size": "Diameter 6-10 cm, height 5-15 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "In summer half dormancy, use half shade for better care, spring and autumn are its growing seasons, need plenty of sunshine",
+        "watering": "Water thoroughly 2 times during summer dormancy, keep soil moist in other time, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions,  apply once monthly in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 8700,
+        "min_light_mmol": 4000,
+        "max_light_lux": 85000,
+        "min_light_lux": 3800,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\aeonium decorum f. variegata.jpg"
+}

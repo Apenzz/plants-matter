@@ -1,0 +1,35 @@
+{
+    "pid": "clematis lanuginosa",
+    "basic": {
+        "floral_language": "Clematis lanuginosa \nFloriography: pure, beautiful, tolerant\nClematis lanuginosa has oval or lanceolate leaves, stamens and pistils completely exposed when flowers in full bloom, with elegant colors such as white, purple, pink and so on, single-layer or multi-layer petals. Clematis lanuginosa are generally used for landscaping as hanging or climbing plants to make hedges, walls, fences, arches and others.\nClematis lanuginosa likes ample sunlight, shade properly in summer to avoid strong sunlight. Flowering period January-April for 2-3 weeks.",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Ranunculaceae, Clematis",
+        "blooming": "Flowering period January-February, viewing period 2-3 weeks",
+        "color": "Flower color purple"
+    },
+    "display_pid": "Clematis lanuginosa",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like adequate light",
+        "watering": "Water thoroughly after soil surface dries",
+        "fertilization": "Dilute fertilizers following instructions, dilute fertilizers following instructions,  in early summer, spring and autumn apply fertilizers once monthly",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 8000,
+        "min_light_mmol": 3500,
+        "max_light_lux": 45000,
+        "min_light_lux": 1800,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\clematis lanuginosa.jpg"
+}

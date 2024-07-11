@@ -1,0 +1,35 @@
+{
+    "pid": "convolvulus sabatius",
+    "basic": {
+        "floral_language": "",
+        "origin": "Central and western Mediterranean region",
+        "production": "China",
+        "category": "Convolvulaceae, Convolvulus",
+        "blooming": "Flowering period May-July, fruiting period July-August",
+        "color": "Flower color blue"
+    },
+    "display_pid": "Convolvulus sabatius",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 15-18 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Put in warm places with scattered light",
+        "watering": "Keep soil moist",
+        "fertilization": "Apply enough base fertilizers",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5000,
+        "min_light_mmol": 3500,
+        "max_light_lux": 50000,
+        "min_light_lux": 3700,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\convolvulus sabatius.jpg"
+}

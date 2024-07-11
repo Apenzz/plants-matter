@@ -1,0 +1,35 @@
+{
+    "pid": "monanthes polyphylla",
+    "basic": {
+        "floral_language": "",
+        "origin": "Canary Islands",
+        "production": "China",
+        "category": "Crassulaceae, Sedum",
+        "blooming": "Succulent plants, sometimes flowers with a short period time",
+        "color": "Leaf color green\uff0cand will turn red with adequate sunlight"
+    },
+    "display_pid": "Monanthes polyphylla",
+    "maintenance": {
+        "size": "Diameter3-10cm\uff0cHeight5-15cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Like mild sunlight, avoid direct strong light in summer",
+        "watering": "Water thoroughly when soil surface is dry, reduce water in summer",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6500,
+        "min_light_mmol": 2800,
+        "max_light_lux": 45000,
+        "min_light_lux": 2000,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\monanthes polyphylla.jpg"
+}

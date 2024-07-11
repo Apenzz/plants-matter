@@ -1,0 +1,35 @@
+{
+    "pid": "anredera cordifolia",
+    "basic": {
+        "floral_language": "",
+        "origin": "Brazil",
+        "production": "Southern China",
+        "category": "Basellaceae, Anredera",
+        "blooming": "Foliage plants, sometimes flowers with yellow green flowers",
+        "color": "Leaf color green"
+    },
+    "display_pid": "Anredera cordifolia",
+    "maintenance": {
+        "size": "Vine plants, diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Well ventilated sandy loam",
+        "sunlight": "Resistant to shade plant, put in places with scattered light",
+        "watering": "Likes wet environments, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly",
+        "pruning": "Remove dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 2500,
+        "min_light_mmol": 1200,
+        "max_light_lux": 6000,
+        "min_light_lux": 1500,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\anredera cordifolia.jpg"
+}

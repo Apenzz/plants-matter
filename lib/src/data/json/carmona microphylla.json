@@ -1,0 +1,35 @@
+{
+    "pid": "carmona microphylla",
+    "basic": {
+        "floral_language": "",
+        "origin": "Tropical areas",
+        "production": "China",
+        "category": "Boraginaceae, Carmona",
+        "blooming": "Flowering period May-July, fruiting period August-October",
+        "color": "Flower color white"
+    },
+    "display_pid": "Carmona microphylla",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 10 cm",
+        "soil": "Loose, fertile, and well-drained acid soil",
+        "sunlight": "Like bright scattered sunlight, strong resistant to shade",
+        "watering": "Water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Apply enough base fertilizers",
+        "pruning": "Remove dead and diseased branches timely, strong ability to sprout"
+    },
+    "parameter": {
+        "max_light_mmol": 5400,
+        "min_light_mmol": 1800,
+        "max_light_lux": 55000,
+        "min_light_lux": 2000,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 20,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 100
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\carmona microphylla.jpg"
+}

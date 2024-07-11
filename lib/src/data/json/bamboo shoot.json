@@ -1,0 +1,35 @@
+{
+    "pid": "bamboo shoot",
+    "basic": {
+        "floral_language": "",
+        "origin": "China",
+        "production": "China",
+        "category": "Poaceae, Dendrocalamus",
+        "blooming": "The edible part is bud of bamboo",
+        "color": "Flower color purple, leaf color green"
+    },
+    "display_pid": "Bamboo shoot",
+    "maintenance": {
+        "size": "Diameter\u226515cm\uff0cHeight\u226530cm",
+        "soil": "Loose, fertile, and well-drained loam soil",
+        "sunlight": "Enjoy sunlight, resistant to half shade",
+        "watering": "Like wet, water thoroughly when soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove flower stem, diseased and rotten leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 8500,
+        "min_light_mmol": 3000,
+        "max_light_lux": 85000,
+        "min_light_lux": 2000,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 100
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\bamboo shoot.jpg"
+}

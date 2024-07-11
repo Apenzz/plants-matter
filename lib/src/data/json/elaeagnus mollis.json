@@ -1,0 +1,35 @@
+{
+    "pid": "elaeagnus mollis",
+    "basic": {
+        "floral_language": "",
+        "origin": "China",
+        "production": "North China",
+        "category": "Elaeagnaceae, Elaeagnus",
+        "blooming": "Flowering period April-May, fruit period August-September",
+        "color": "Flower color\u6d45green"
+    },
+    "display_pid": "Elaeagnus mollis",
+    "maintenance": {
+        "size": "Diameter\u226515cm\uff0cHeight\u226525cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like sufficient sunlight",
+        "watering": "Water thoroughly when soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7300,
+        "min_light_mmol": 3600,
+        "max_light_lux": 65000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\elaeagnus mollis.jpg"
+}

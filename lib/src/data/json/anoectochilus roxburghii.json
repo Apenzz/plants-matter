@@ -1,0 +1,35 @@
+{
+    "pid": "anoectochilus roxburghii",
+    "basic": {
+        "floral_language": "",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Orchidaceae, Anoectochilus",
+        "blooming": "Flowering period August-November",
+        "color": "Leaf color black purple, flower color white or light red"
+    },
+    "display_pid": "Anoectochilus roxburghii",
+    "maintenance": {
+        "size": "Diameter\u226510cm\uff0cHeight\u226510cm",
+        "soil": "Sphagna, bark or coconut loose soil",
+        "sunlight": "Like half shade environment, enjoy 2-3 hours sunlight in autumn and winter",
+        "watering": "Water thoroughly when soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove flower stem, diseased and rotten leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 3400,
+        "min_light_mmol": 1500,
+        "max_light_lux": 20000,
+        "min_light_lux": 500,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 45,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\anoectochilus roxburghii.jpg"
+}

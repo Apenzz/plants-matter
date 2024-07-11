@@ -1,0 +1,35 @@
+{
+    "pid": "lycopersicon esculentum",
+    "basic": {
+        "floral_language": "",
+        "origin": "South America",
+        "production": "China",
+        "category": "Solanaceae, Solanum",
+        "blooming": "Can be planted in all seasons. Fruit period can last two-three months",
+        "color": "Flower color yellow\uff0cfruit color red"
+    },
+    "display_pid": "Lycopersicon esculentum",
+    "maintenance": {
+        "size": "Diameter\u226510cm\uff0cHeight\u226515cm",
+        "soil": "Peat or soil with specific nutrients, pH value between 6-7",
+        "sunlight": "Fruits taste great with strong sunlight, sunlight duration time at least 8 hours",
+        "watering": "Water thoroughly when soil surface is dry, provide more water during flowering and fruiting period",
+        "fertilization": "Soil with enough compost when planting, increase fertilize time during fruiting period",
+        "pruning": "Thin out seedlings timely and prepare a wooden stick to support their up growing"
+    },
+    "parameter": {
+        "max_light_mmol": 22000,
+        "min_light_mmol": 5200,
+        "max_light_lux": 130000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 70,
+        "min_env_humid": 30,
+        "max_soil_moist": 70,
+        "min_soil_moist": 22,
+        "max_soil_ec": 2500,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\lycopersicon esculentum.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "leucothoe davisiae",
+    "basic": {
+        "floral_language": "",
+        "origin": "Americas",
+        "production": "Tibet, Yunnan, Guangxi",
+        "category": "Ericaceae, Leucothoe",
+        "blooming": "Year around",
+        "color": "Flower color white"
+    },
+    "display_pid": "Leucothoe davisiae",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 15-18 cm",
+        "soil": "Likes acidic soil",
+        "sunlight": "Like sunshine, slightly resistant to half shade",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Need more fertilization, dilute fertilizers following instructions, apply 2-3 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\leucothoe davisiae.jpg"
+}

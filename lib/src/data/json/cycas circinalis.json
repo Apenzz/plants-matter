@@ -1,0 +1,35 @@
+{
+    "pid": "cycas circinalis",
+    "basic": {
+        "floral_language": "Cycas revoluta\nFloriography: persistence, courage, and progress \nCycads commonly known as cycas, evergreen in the four seasons, beautiful plant stature, and trunk and roots are strong, leaves are hard, spirally arranged. One of the most famous is the cycas flowering, in the south, generally more than 10 years old cycads will bloom every year, the north cycad is almost a rare flower of appearance in one hundred year. It is usually used in the courtyard to watch or living room decoration. \nCycads likes mild sunshine, and avoid direct sunlight. Generally difficult to blossom, flowers is orange or light yellow.",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Cycadaceae, Cycas",
+        "blooming": "Foliage plants, rarely flowers, orange yellow or light yellow flowers",
+        "color": "Leaf color dark green"
+    },
+    "display_pid": "Cycas circinalis",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 20 cm",
+        "soil": "Peat mixed with coarse sand soil or soil with specific nutrients",
+        "sunlight": "Likes light, avoid strong light",
+        "watering": "Likes wet environments, keep soil moist, water every 1-2 days in summer, once 3-5 days in autumn and winter",
+        "fertilization": "Dilute fertilizers following instructions, apply once every 10-15 days in spring and summer",
+        "pruning": "Remove dead and yellowish leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6700,
+        "min_light_mmol": 2700,
+        "max_light_lux": 65000,
+        "min_light_lux": 3500,
+        "max_temp": 32,
+        "min_temp": 6,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\cycas circinalis.jpg"
+}

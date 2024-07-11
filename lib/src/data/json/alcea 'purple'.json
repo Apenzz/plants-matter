@@ -1,0 +1,35 @@
+{
+    "pid": "alcea 'purple'",
+    "basic": {
+        "floral_language": "Alcea rosea \nFloriography: tenacious, gentle, beautiful\nHollyhock has erect stems and large flowers of many colors, single-petal or multi-petal with a long flowering period, leaves green, similar to ivy leaves, with split leaf edges. Widely used for flower beds and home decoration, very popular.\nHollyhock likes sunshine, with half shade tolerance. Blooms from June to August for 2-3 weeks.",
+        "origin": "China",
+        "production": "China",
+        "category": "Malvaceae, Althaea",
+        "blooming": "Flowering period June-August, viewing period 2-3 weeks",
+        "color": "Flower color purple"
+    },
+    "display_pid": "Alcea 'Purple'",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes moderate sunlight, resistant to half shade",
+        "watering": "Water thoroughly after soil surface dries",
+        "fertilization": "Dilute fertilizers following instructions,  apply 1-2 times monthly in spring",
+        "pruning": "Remove old, diseased, dead leaves and withered flowers timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 2500,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\alcea 'purple'.jpg"
+}

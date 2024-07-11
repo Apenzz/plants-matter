@@ -1,0 +1,35 @@
+{
+    "pid": "lentinula edodes",
+    "basic": {
+        "floral_language": "",
+        "origin": "China",
+        "production": "China",
+        "category": "Marasmiaceae, Lentinula",
+        "blooming": "Fungus, no flowering",
+        "color": "the body is brown"
+    },
+    "display_pid": "Lentinula edodes",
+    "maintenance": {
+        "size": "Diameter\u22653cm\uff0cHeight\u22655cm",
+        "soil": "Weakly acid soil, rotten straw, sawdust, sugar in mixture",
+        "sunlight": "Dark environment, avoid strong sunlight",
+        "watering": "Keep moist, spray water everyday",
+        "fertilization": "Add phosphatic fertilizer when planting",
+        "pruning": "Remove rotten parts timely"
+    },
+    "parameter": {
+        "max_light_mmol": 500,
+        "min_light_mmol": 0,
+        "max_light_lux": 1000,
+        "min_light_lux": 0,
+        "max_temp": 34,
+        "min_temp": 6,
+        "max_env_humid": 95,
+        "min_env_humid": 70,
+        "max_soil_moist": 70,
+        "min_soil_moist": 45,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 100
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\lentinula edodes.jpg"
+}

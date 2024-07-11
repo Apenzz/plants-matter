@@ -1,0 +1,35 @@
+{
+    "pid": "portulaca oleracea",
+    "basic": {
+        "floral_language": "Portulaca oleracea \nFloriography: vivid, sunny, tough\nPortulaca oleracea commonly known as \"sunrose\", loves sunshine for better blossom, may not flower without enough sunlight.\nPortulaca grandiflora has triangular-lanceolate leaves, solitary colorful flowers on top of stems or branches, like a little sun, vivid and lovely. Typically used for garden ornament or home furnishings.\nPortulaca oleracea likes plenty of sunlight, avoid direct sunlight in summer noon. Bloom in May-November for flower viewing in 2-3 weeks.",
+        "origin": "South America",
+        "production": "China",
+        "category": "Labiatae, Scutellaria",
+        "blooming": "Flowering period May-November, viewing period 2-3 weeks",
+        "color": "Flower color red, orange, purple, yellow"
+    },
+    "display_pid": "Portulaca oleracea",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 10 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes adequate sunshine, properly shade in summer at noon under strong light",
+        "watering": "Resistant to drought, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly in spring and summer",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 9600,
+        "min_light_mmol": 4500,
+        "max_light_lux": 100000,
+        "min_light_lux": 3000,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\portulaca oleracea.jpg"
+}

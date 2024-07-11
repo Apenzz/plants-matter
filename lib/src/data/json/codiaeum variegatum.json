@@ -1,0 +1,35 @@
+{
+    "pid": "codiaeum variegatum",
+    "basic": {
+        "floral_language": "",
+        "origin": "Malaysia, Pacific Ocean areas",
+        "production": "Southern China",
+        "category": "Euphorbiaceae, Codiaeum",
+        "blooming": "Flowering period September-October",
+        "color": "Leaf color bright green, white, gray, red, light red, dark red, purple, yellow, yellowred"
+    },
+    "display_pid": "Codiaeum variegatum",
+    "maintenance": {
+        "size": "Diameter \u2265 15 cm, height \u2265 25 cm",
+        "soil": "Fertile, high water-holding capacity clay soil or soil with specific nutrients",
+        "sunlight": "Like sunshine, likes light, leaf discoloration, lacking luster, defoliation with insufficient light",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, spray frequently to the air or leaves to keep moist in summer",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 4000,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\codiaeum variegatum.jpg"
+}

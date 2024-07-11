@@ -1,0 +1,35 @@
+{
+    "pid": "buddleja fallowiana",
+    "basic": {
+        "floral_language": "",
+        "origin": "Tropical South America",
+        "production": "Southern China",
+        "category": "Loganiaceae, Buddleja",
+        "blooming": "Flowering period April-October, fruiting period August-April",
+        "color": "Flower color purple"
+    },
+    "display_pid": "Buddleja fallowiana",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like sunshine, resistant to half shade, avoid strong direct light",
+        "watering": "Water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 40000,
+        "min_light_lux": 4000,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\buddleja fallowiana.jpg"
+}

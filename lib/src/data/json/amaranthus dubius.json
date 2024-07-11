@@ -1,0 +1,35 @@
+{
+    "pid": "amaranthus dubius",
+    "basic": {
+        "floral_language": "",
+        "origin": "China, India, Southeast Asia",
+        "production": "China",
+        "category": "Amaranthaceae, Amaranthus",
+        "blooming": "Flowering period May-August, fruiting period July-September",
+        "color": "Flower color purple, fruit color black or black brown"
+    },
+    "display_pid": "Amaranthus dubius",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients, pH value 5.5-7.5",
+        "sunlight": "Like adequate light, avoid too strong light in summer",
+        "watering": "Water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead, rotten, diseased leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 14000,
+        "min_light_mmol": 3700,
+        "max_light_lux": 90000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 12,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 65,
+        "min_soil_moist": 25,
+        "max_soil_ec": 2500,
+        "min_soil_ec": 150
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\amaranthus dubius.jpg"
+}

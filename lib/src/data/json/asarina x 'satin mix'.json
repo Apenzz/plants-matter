@@ -1,0 +1,35 @@
+{
+    "pid": "asarina x 'satin mix'",
+    "basic": {
+        "floral_language": "",
+        "origin": "Tropical Americas",
+        "production": "Southwest China",
+        "category": "Gesneriaceae, Antirrhinum",
+        "blooming": "Flowering period in winter and spring",
+        "color": "Flower color scarlet, leaf color dark green"
+    },
+    "display_pid": "Asarina x 'Satin Mix'",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, can climb",
+        "soil": "Soil with loose texture or soil with specific nutrients",
+        "sunlight": "Like half shade, like moderate light",
+        "watering": "Likes wet environments, water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely\uff1bremove peduncle after flowering"
+    },
+    "parameter": {
+        "max_light_mmol": 3500,
+        "min_light_mmol": 1500,
+        "max_light_lux": 7000,
+        "min_light_lux": 2000,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\asarina x 'satin mix'.jpg"
+}

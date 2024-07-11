@@ -1,0 +1,35 @@
+{
+    "pid": "portulacaria afra",
+    "basic": {
+        "floral_language": "Portulacaria afra\nFloriography: wealthy, vigorous, delicate\nHas an elegant plant form, fleshy thin leaves in nearly a heart shape, fresh green, with abundant sunlight, stems turn purple red and leaves are more rigid, grows fast and can be trimmed frequently for different shapes. \nLikes abundant sunlight, does not have an apparent dormant period. Flowers sometimes, pink to red color.",
+        "origin": "South Africa",
+        "production": "China",
+        "category": "Portulacaceae, Portulaca",
+        "blooming": "Succulent plants, sometimes flowers, pale pink to red flowers",
+        "color": "Leaf color green, when sunny stems turning to purple"
+    },
+    "display_pid": "Portulacaria afra",
+    "maintenance": {
+        "size": "Diameter \u2265 5 cm, height \u2265 5 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes light, no apparent period of dormancy",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce water in summer",
+        "fertilization": "Dilute fertilizers following instructions,  apply once every 1-2 months in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 8000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 85000,
+        "min_light_lux": 3500,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\portulacaria afra.jpg"
+}

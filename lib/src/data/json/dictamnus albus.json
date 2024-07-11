@@ -1,0 +1,35 @@
+{
+    "pid": "dictamnus albus",
+    "basic": {
+        "floral_language": "",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Rutaceae, Dictamnus",
+        "blooming": "Flowering period May",
+        "color": "Flower color light purple red, white, dark purple red"
+    },
+    "display_pid": "Dictamnus albus",
+    "maintenance": {
+        "size": "Inflorescence length \u2265 30 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Put in places with scattered light",
+        "watering": "Water thoroughly when soil is dry, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 2500,
+        "min_light_mmol": 1200,
+        "max_light_lux": 6000,
+        "min_light_lux": 1500,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\dictamnus albus.jpg"
+}

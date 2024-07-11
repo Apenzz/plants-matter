@@ -1,0 +1,35 @@
+{
+    "pid": "metaplexis japonica",
+    "basic": {
+        "floral_language": "",
+        "origin": "Asia",
+        "production": "China",
+        "category": "Apocynaceae, Metaplexis",
+        "blooming": "Flowering period June-September, fruiting period September-December",
+        "color": "Flower color white with light pink"
+    },
+    "display_pid": "Metaplexis japonica",
+    "maintenance": {
+        "size": "Diameter\u226510cm\uff0cHeight\u226515cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes sunshine, also resistant to half shade",
+        "watering": "Water thoroughly when soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5000,
+        "min_light_mmol": 2700,
+        "max_light_lux": 50000,
+        "min_light_lux": 2500,
+        "max_temp": 32,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\metaplexis japonica.jpg"
+}

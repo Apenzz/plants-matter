@@ -1,0 +1,35 @@
+{
+    "pid": "euphorbia palustris",
+    "basic": {
+        "floral_language": "",
+        "origin": "Africa",
+        "production": "China",
+        "category": "Euphorbiaceae, Euphorbia",
+        "blooming": "Flowering period May-August, fruiting period June-September",
+        "color": "Flower color green, light yellow"
+    },
+    "display_pid": "Euphorbia palustris",
+    "maintenance": {
+        "size": "height 40-80 cm",
+        "soil": "Sandy loam or clay loam",
+        "sunlight": "Put in warm places with scattered light",
+        "watering": "Only need keep soil moist",
+        "fertilization": "Apply manure once at the early flowering stage",
+        "pruning": "Remove diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5000,
+        "min_light_mmol": 3500,
+        "max_light_lux": 50000,
+        "min_light_lux": 3700,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\euphorbia palustris.jpg"
+}

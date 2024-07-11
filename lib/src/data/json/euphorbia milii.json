@@ -1,0 +1,35 @@
+{
+    "pid": "euphorbia milii",
+    "basic": {
+        "floral_language": "Euphorbia milii\nFloriography: unbending, faithful, loyal\nNative to Madagascar, Euphorbia milii is a fleshy plant. Stems in grayish brown color covered with hard and sharp thorns. Green leaves on the top of stem, obovate. Flowers have 2 petals in opposite direction like small butterflies. Euphorbia milii's sap is slightly toxic, should not touch it if grown at home.\nEuphorbia milii likes sunshine, but should take proper shade under summer high temperatures. Flowering in October to February for 3-4 weeks.",
+        "origin": "Africa",
+        "production": "China",
+        "category": "Euphorbiaceae, Euphorbia",
+        "blooming": "Flowering period October-February, viewing period 3-4 weeks",
+        "color": "Flower color red, light yellow"
+    },
+    "display_pid": "Euphorbia milii",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes adequate light, in summer use half shade for better care",
+        "watering": "Resistant to drought, water thoroughly when soil is dry",
+        "fertilization": "Fertilization not much required, dilute fertilizers following instructions, apply fertilizers once in each month in spring",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 7200,
+        "min_light_mmol": 3300,
+        "max_light_lux": 70000,
+        "min_light_lux": 2500,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\euphorbia milii.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "dischidia nummularia",
+    "basic": {
+        "floral_language": "",
+        "origin": "Australia",
+        "production": "China",
+        "category": "Asclepiadaceae, Dischidia",
+        "blooming": "Succulent plants, flowers sometimes in spring",
+        "color": "Leaf colorgreen, flower color yellow, white"
+    },
+    "display_pid": "Dischidia nummularia",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 10-25 cm",
+        "soil": "Coco coir with some perlite",
+        "sunlight": "Like half shade",
+        "watering": "Keep soil moist",
+        "fertilization": "Top-dressing monthly in vegetative stages",
+        "pruning": "Remove dead and diseased branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4000,
+        "min_light_mmol": 2000,
+        "max_light_lux": 20000,
+        "min_light_lux": 3700,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\dischidia nummularia.jpg"
+}

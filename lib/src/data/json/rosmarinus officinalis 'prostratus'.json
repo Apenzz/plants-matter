@@ -1,0 +1,35 @@
+{
+    "pid": "rosmarinus officinalis 'prostratus'",
+    "basic": {
+        "floral_language": "Rosmarinus officinalis 'Prostratus'\nFloriography: warm-hearted, loyal, kind\nIs a famous spice plant used for medicine and cooking. \nRosemary leaves are linear shape, leathery, dark green, full of fragrant, is called \"dew of the sea\", to let sailors find lands for its strong fragrant. Used to extract essential oil for air refreshing.\nLikes sunshine, shade properly under summer strong sunlight. Flowering in June-July. Flowers are white or pale blue.",
+        "origin": "Europe",
+        "production": "China",
+        "category": "Labiatae, Rosmarinus",
+        "blooming": "Vanilla plants, flowering period June-July",
+        "color": "Leaf color green , flower color white, light blue"
+    },
+    "display_pid": "Rosmarinus officinalis 'Prostratus'",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 15 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes adequate sunshine, shade properly under summer noon strong light",
+        "watering": "Moderately resistant to drought, water thoroughly when soil is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly",
+        "pruning": "Remove old diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 3600,
+        "max_light_lux": 60000,
+        "min_light_lux": 3000,
+        "max_temp": 32,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\rosmarinus officinalis 'prostratus'.jpg"
+}

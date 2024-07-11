@@ -1,0 +1,35 @@
+{
+    "pid": "annona squamosa",
+    "basic": {
+        "floral_language": "",
+        "origin": "Tropical Americas, West Indies",
+        "production": "Hainan",
+        "category": "Annonaceae, Annona",
+        "blooming": "Flowering period May-June, flowering period August-October",
+        "color": "Flower color yellow green, fruit color green"
+    },
+    "display_pid": "Annona squamosa",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 15-20 cm",
+        "soil": "Sandy loam",
+        "sunlight": "Like sunshine, likes warm moist environments",
+        "watering": "Only need keep soil moist",
+        "fertilization": "Fertilize 6 times every year",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 5000,
+        "min_light_mmol": 3500,
+        "max_light_lux": 50000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\annona squamosa.jpg"
+}

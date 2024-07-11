@@ -1,0 +1,35 @@
+{
+    "pid": "kolkwitzia amabilis",
+    "basic": {
+        "floral_language": "",
+        "origin": "China",
+        "production": "China",
+        "category": "Caprifoliaceae, Kolkwitzia",
+        "blooming": "Flowering period May-June, flowering period August-September",
+        "color": "Leaf color green , flower color light red"
+    },
+    "display_pid": "Kolkwitzia amabilis",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 15-20 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like adequate light",
+        "watering": "Water thoroughly after soil surface dries",
+        "fertilization": "Apply 2-3 times monthly in spring",
+        "pruning": "Remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 6000,
+        "min_light_mmol": 4000,
+        "max_light_lux": 60000,
+        "min_light_lux": 3700,
+        "max_temp": 30,
+        "min_temp": 5,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\kolkwitzia amabilis.jpg"
+}

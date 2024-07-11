@@ -1,0 +1,35 @@
+{
+    "pid": "aesculus pavia",
+    "basic": {
+        "floral_language": "",
+        "origin": "EasternUnited States",
+        "production": "China",
+        "category": "Hippocsatanaceae, Aesculus",
+        "blooming": "Flowering period April-May, fruiting period October",
+        "color": "Flower color white, yellow, fruit color red"
+    },
+    "display_pid": "Aesculus pavia",
+    "maintenance": {
+        "size": "Diameter \u2265 20 cm, height 15-20 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Like sunshine",
+        "watering": "Keep soil moist",
+        "fertilization": "Apply enough base fertilizers",
+        "pruning": "In spring pruning and remove old, diseased and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 3700,
+        "max_temp": 35,
+        "min_temp": 10,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "..\\..\\..\\..\\assets\\images\\aesculus pavia.jpg"
+}
