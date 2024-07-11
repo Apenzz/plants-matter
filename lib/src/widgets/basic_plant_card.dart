@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '../dbhelper/database_helper.dart';
 
 class BasicPlantCard extends StatefulWidget {
 
@@ -16,13 +17,20 @@ class BasicPlantCard extends StatefulWidget {
 class _BasicPlantCardState extends State<BasicPlantCard> {
 
   List<bool> _isCompleted = [false,false,false];
+  final dbHelper = DatabaseHelper.instance;
 
-  void _handleComplete(int id) {
+  Future<void> _handleComplete(int id) async {
     setState(() {
       _isCompleted[id] = true;
     });
     if (_isCompleted[id]) {
       widget.onComplete();
+    }
+    if (id == 2) {
+      final plant = await dbHelper.queryOwnedPlantByPid(widget.name);
+      if (plant != null) {
+        await dbHelper.updateLastWatered(plant, DateTime.now());
+      }
     }
   }
 
