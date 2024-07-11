@@ -2,7 +2,6 @@ import 'dart:io';
 import 'package:path/path.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:sqflite/sqflite.dart';
-import '../data/plant.dart';
 
 class DatabaseHelper {
   static final DatabaseHelper instance = DatabaseHelper._init();
@@ -157,9 +156,6 @@ class DatabaseHelper {
     );
   }
   
-  
-
-
   Future<void> close() async {
     final db = await instance.database;
     db.close();

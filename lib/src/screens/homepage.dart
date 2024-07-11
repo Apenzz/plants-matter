@@ -12,7 +12,6 @@ import '../widgets/basic_plant_card.dart';
 class HomePageScreen extends StatelessWidget {
   final String title;
   final ValueChanged<Plant> onTap;
-  // final List<String> plantList = const ['Plant #1', 'Plant #2', 'Plant #3'];
 
   const HomePageScreen({
     required this.onTap,
@@ -22,7 +21,7 @@ class HomePageScreen extends StatelessWidget {
 
   void _completeTask(BuildContext context, Plant plant) {
     ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(content: Text("${plant.name} watered!")),
+      const SnackBar(content: Text("Task completed!")),
     );
     // TODO
   }
