@@ -21,7 +21,7 @@ class HomePageScreen extends StatelessWidget {
 
   void _completeTask(BuildContext context, Plant plant) {
     ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(content: Text("${plant.name} watered!")),
+      const SnackBar(content: Text("Task completed!")),
     );
     // TODO
   }
@@ -35,7 +35,6 @@ class HomePageScreen extends StatelessWidget {
           title: Text(title),
           bottom: const TabPlantTasks(),
         ),
-        floatingActionButton: const AddPlantButton(),
         body: TabBarView(
           children: [
             ListView.builder(

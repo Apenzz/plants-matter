@@ -156,9 +156,6 @@ class DatabaseHelper {
     );
   }
   
-  
-
-
   Future<void> close() async {
     final db = await instance.database;
     db.close();
