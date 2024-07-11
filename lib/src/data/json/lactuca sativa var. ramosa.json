@@ -1,0 +1,35 @@
+{
+    "pid": "lactuca sativa var. ramosa",
+    "basic": {
+        "floral_language": "",
+        "origin": "Mediterranean Coast",
+        "production": "China",
+        "category": "Asteraceae, Lactuca",
+        "blooming": "Flowering and fruit period 2-9\u6708",
+        "color": "Leaf color green"
+    },
+    "display_pid": "Lactuca sativa var. ramosa",
+    "maintenance": {
+        "size": "Diameter\u226515cm\uff0cHeight\u226525cm",
+        "soil": "Loose, fertile, and well-drained loam soil, pH value between 6-7",
+        "sunlight": "Enjoy sunlight, resistant to half shade\uff0cavoid strong direct sunlight and long time sunlight",
+        "watering": "Shallow root, like moist, water thoroughly when soil surface is dry",
+        "fertilization": "Dilute fertilizers following instructions, apply once monthly in spring and autumn",
+        "pruning": "Remove flower stem, diseased and rotten leaves timely; very fresh when harvested in the morning"
+    },
+    "parameter": {
+        "max_light_mmol": 7800,
+        "min_light_mmol": 2500,
+        "max_light_lux": 45000,
+        "min_light_lux": 2200,
+        "max_temp": 35,
+        "min_temp": 8,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 75,
+        "min_soil_moist": 25,
+        "max_soil_ec": 2200,
+        "min_soil_ec": 150
+    },
+    "image": "assets/images-sample/lactuca sativa var. ramosa.jpg"
+}

@@ -1,0 +1,35 @@
+{
+    "pid": "yellow crocus spp.",
+    "basic": {
+        "floral_language": "Yellow Crocus spp. \nFloriography: happy, sweet, vitality \nYellow Crocus spp. is also called the saffron, is a kind of dwarf bulb flowers. \nSaffron flowers are usually the goblet shape, elegant delicate, Flower color is rich. Most of saffron has a fragrant smell, and they can be planted in a shallow basin used in indoor decoration. \nSaffron likes the sunshine, also is resistant to semi-shade, the flowering period is 2-3 month, available for viewing for 1-2 weeks. Keep the bulbs for germination in the coming year, and then under normal circumstances it will blossom for many years.",
+        "origin": "Europe",
+        "production": "Yunnan",
+        "category": "Iridaceae, Crocus",
+        "blooming": "Flowering period February-March, viewing period 1-2 weeks",
+        "color": "Flower color golden yellow , yellow"
+    },
+    "display_pid": "Yellow Crocus spp.",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height 10-20 cm",
+        "soil": "Peat or soil with specific nutrients",
+        "sunlight": "Likes adequate sunshine, also resistant to half shade, dormant in summer with high temperature,",
+        "watering": "Keep soil moist",
+        "fertilization": "Dilute fertilizers following instructions, apply fertilizers once every 10-15 days in spring, except flowering stages",
+        "pruning": "Remove withered flowers, old, diseased, and dead leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4500,
+        "min_light_mmol": 2500,
+        "max_light_lux": 30000,
+        "min_light_lux": 2500,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "assets/images-sample/yellow crocus spp..jpg"
+}

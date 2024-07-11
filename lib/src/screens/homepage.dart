@@ -1,18 +1,13 @@
-// Copyright 2021, the Flutter project authors. Please see the AUTHORS file
-// for details. All rights reserved. Use of this source code is governed by a
-// BSD-style license that can be found in the LICENSE file.
 
 import 'package:flutter/material.dart';
 import '../data/plant.dart';
 import '../widgets/tab_plant_tasks.dart';
-import '../widgets/add_plant_button.dart';
 import '../data/myplants.dart';
 import '../widgets/basic_plant_card.dart';
 
 class HomePageScreen extends StatelessWidget {
   final String title;
   final ValueChanged<Plant> onTap;
-  // final List<String> plantList = const ['Plant #1', 'Plant #2', 'Plant #3'];
 
   const HomePageScreen({
     required this.onTap,
@@ -22,9 +17,9 @@ class HomePageScreen extends StatelessWidget {
 
   void _completeTask(BuildContext context, Plant plant) {
     ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(content: Text("${plant.name} watered!")),
+      const SnackBar(content: Text("Task completed!")),
     );
-    // TODO
+    
   }
 
   @override
@@ -33,8 +28,10 @@ class HomePageScreen extends StatelessWidget {
       length: 2,
       child: Scaffold(
         appBar: AppBar(
-          title: Text(title),
-          bottom: const TabPlantTasks(),
+          bottom: const PreferredSize(
+          preferredSize: Size.fromHeight(kToolbarHeight),
+          child: TabPlantTasks(),
+        ),
         ),
         body: TabBarView(
           children: [

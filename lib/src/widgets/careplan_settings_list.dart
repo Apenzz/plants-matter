@@ -131,7 +131,7 @@ class _CarePlanSettingsListState extends State<CarePlanSettingsList> {
           }
         },
         separatorBuilder: (BuildContext context, int index) {
-          return Divider(height: 0); // Divider between each item
+          return Divider(height: 0);
         },
       ),
     );
@@ -190,7 +190,7 @@ class _CarePlanItemState extends State<CarePlanItem> {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
-          if (widget.isFirst) Divider(height: 0), // Divider before the first item
+          if (widget.isFirst) Divider(height: 0), 
           ListTile(
             leading: Icon(widget.icon),
             title: Text(widget.name, style: theme.textTheme.bodyMedium),
@@ -202,7 +202,7 @@ class _CarePlanItemState extends State<CarePlanItem> {
             ),
             trailing: Icon(Icons.chevron_right),
           ),
-          if (widget.isLast) Divider(height: 0), // Divider after the last item
+          if (widget.isLast) Divider(height: 0), 
         ],
       ),
     );

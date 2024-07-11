@@ -1,0 +1,35 @@
+{
+    "pid": "pachira macrocarpa",
+    "basic": {
+        "floral_language": "Pachira macrocarpa\nFloriography: luck, prosperity, prosperity \nMoney tree is evergreen foliage plants, because of its meaning \u201cGood luck and happiness to you\u201d, is favored by the public. \nMoney tree plant stature is beautiful. It has strong branches, leaves are green, and oblong, arranged in small palm and is full of vitality. The lush leaves, also have the effect of purify air, so they can be used for indoor beautification. \nMoney tree is resistant to shade, is suitable for the scattered light in the bright place. With proper maintenance, it also can be flowering, and flowers color are red, white or light yellow.",
+        "origin": "Latin America",
+        "production": "China",
+        "category": "Bombacaceae, Pachira",
+        "blooming": "Foliage plants, sometimes flowering in April-May, red, white, light yellow flowers",
+        "color": "Leaf color emerald green"
+    },
+    "display_pid": "Pachira macrocarpa",
+    "maintenance": {
+        "size": "Diameter \u2265 10 cm, height \u2265 20 cm",
+        "soil": "Peat mixed with coarse sand soil",
+        "sunlight": "Like sunshine, but have strong resistant to shade, under half shade for better care in summer",
+        "watering": "Moderately resistant to drought, water thoroughly when soil is dry, may spray water in the air to keep moist",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly in spring and autumn",
+        "pruning": "Remove dead and yellowish leaves timely"
+    },
+    "parameter": {
+        "max_light_mmol": 4700,
+        "min_light_mmol": 2800,
+        "max_light_lux": 40000,
+        "min_light_lux": 1200,
+        "max_temp": 32,
+        "min_temp": 10,
+        "max_env_humid": 85,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "assets/images-sample/pachira macrocarpa.jpg"
+}

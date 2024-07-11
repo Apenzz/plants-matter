@@ -1,0 +1,35 @@
+{
+    "pid": "echeveia 'black prince'",
+    "basic": {
+        "floral_language": "Echeveia 'Black Prince'\nFloriography: noble, brave, mysterious\nEcheveia 'Black Prince' has a characteristic black and purple leaf color, spectacular, and fleshy leaf blades with tips, tightly arranged in a rosette, like a blooming black lotus. The more abundant sunlight and greater diurnal temperature range, the shinier and blacker the leaves, otherwise in green. For its unique shape and noble colors, often used as small ornamental plants for family.\nEcheveia 'Black Prince' likes sunlight, short period of dormancy in summer, shade properly, sometimes blooms with orange to red flowers.",
+        "origin": "Mexico",
+        "production": "China",
+        "category": "Crassulaceae, Echeveria",
+        "blooming": "Succulent plants, sometimes flowers, orange red to red flowers",
+        "color": "Leaf color black purple, turn to green when lacking of light"
+    },
+    "display_pid": "Echeveia 'Black Prince'",
+    "maintenance": {
+        "size": "Diameter \u2265 3 cm, height \u2265 10 cm",
+        "soil": "Peat and akadama mixed in 3:1 ratio",
+        "sunlight": "Likes strong light, a short period of dormancy in summer, properly shade",
+        "watering": "Resistant to drought, water thoroughly when soil is dry, reduce water in dormancy",
+        "fertilization": "Dilute fertilizers following instructions,  apply once monthly in spring and autumn",
+        "pruning": "Remove dead and rotten part timely"
+    },
+    "parameter": {
+        "max_light_mmol": 8500,
+        "min_light_mmol": 3500,
+        "max_light_lux": 90000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 15,
+        "max_soil_moist": 50,
+        "min_soil_moist": 7,
+        "max_soil_ec": 1000,
+        "min_soil_ec": 300
+    },
+    "image": "assets/images-sample/echeveia 'black prince'.jpg"
+}

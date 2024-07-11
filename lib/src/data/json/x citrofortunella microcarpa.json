@@ -1,0 +1,35 @@
+{
+    "pid": "x citrofortunella microcarpa",
+    "basic": {
+        "floral_language": "",
+        "origin": "China",
+        "production": "Southern China",
+        "category": "Rutaceae, Citrus",
+        "blooming": "Blooms several times a year, flowering period July-September, fruiting period November-January",
+        "color": "Flower color white, fruit color orange"
+    },
+    "display_pid": "x Citrofortunella microcarpa",
+    "maintenance": {
+        "size": "Diameter \u2265 15 cm, height \u2265 25 cm",
+        "soil": "Slightly acidic soil with loose texture or soil with specific nutrients",
+        "sunlight": "Likes sunshine, put in sunny places, avoid strong sunlight in summer at noon",
+        "watering": "Water thoroughly after soil surface dries, avoid saturated water",
+        "fertilization": "Dilute fertilizers following instructions, apply 1-2 times monthly",
+        "pruning": "Remove aged tissues, dead and pest branches timely"
+    },
+    "parameter": {
+        "max_light_mmol": 8600,
+        "min_light_mmol": 4300,
+        "max_light_lux": 65000,
+        "min_light_lux": 4000,
+        "max_temp": 35,
+        "min_temp": 6,
+        "max_env_humid": 80,
+        "min_env_humid": 30,
+        "max_soil_moist": 60,
+        "min_soil_moist": 15,
+        "max_soil_ec": 2000,
+        "min_soil_ec": 350
+    },
+    "image": "assets/images-sample/x citrofortunella microcarpa.jpg"
+}

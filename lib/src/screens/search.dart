@@ -18,17 +18,29 @@ class _SearchScreenState extends State<SearchScreen> {
   @override  
   void initState() {
     super.initState();
-    _fetchItemsFromDatabase();
+    _initialize();
+  }
+
+  Future<void> _initialize() async {
+    try {
+      await _fetchItemsFromDatabase();
+    } catch (e) {
+      print('Error fetching items: $e');
+    }
   }
 
   Future<void> _fetchItemsFromDatabase() async {
     final dbHelper = DatabaseHelper.instance;
-    final List<Map<String, dynamic>> plants = await dbHelper.queryAllPlants();
-    
-    setState(() {
-      _allItems = plants.map((plant) => plant['pid'].toString()).toList();
-      _filteredItems = [];
-    });
+    try {
+      final List<Map<String, dynamic>> plants = await dbHelper.queryAllPlants();
+      print('Fetched ${plants.length} items from the database');
+      setState(() {
+        _allItems = plants.map((plant) => plant['pid'].toString()).toList();
+        _filteredItems = [];
+      });
+    } catch (e) {
+      print('Error querying database: $e');
+    }
   }
 
   void _filterItems(String query) {
@@ -41,6 +53,13 @@ class _SearchScreenState extends State<SearchScreen> {
         }).toList();
       }
     });
+  }
+
+    void _addPlantToOwned(String plantPid) async {
+    await DatabaseHelper.instance.insertOwnedPlant(plantPid);
+    ScaffoldMessenger.of(context).showSnackBar(
+      const SnackBar(content: Text('Plant added to your collection!')),
+    );
   }
 
   @override
@@ -83,6 +102,12 @@ class _SearchScreenState extends State<SearchScreen> {
                           ),
                         ),
                         title: Text(_filteredItems[index]),
+                        trailing: IconButton(
+                          icon: const Icon( Icons.add,
+                          color: Colors.black,
+                          ),
+                          onPressed: () => _addPlantToOwned(_filteredItems[index]),
+                        ),
                       );
                     } else {
                       return ListTile(

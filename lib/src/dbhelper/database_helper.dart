@@ -2,7 +2,6 @@ import 'dart:io';
 import 'package:path/path.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:sqflite/sqflite.dart';
-import '../data/plant.dart';
 
 class DatabaseHelper {
   static final DatabaseHelper instance = DatabaseHelper._init();
@@ -91,7 +90,7 @@ class DatabaseHelper {
     return results.map((row) => row['plant_pid'] as String).toList();
   }
 
-  Future<Map<String, dynamic>?> queryOwnedPlantByPid(String pid) async {
+Future<Map<String, dynamic>?> queryOwnedPlantByPid(String pid) async {
   final db = await instance.database;
   final results = await db.query(
     'owned_plants',
@@ -101,14 +100,21 @@ class DatabaseHelper {
 
   if (results.isNotEmpty) {
     var plantRecord = results.first;
-    if (plantRecord['lastWatered'] != null) {
-      plantRecord['lastWatered'] = DateTime.fromMillisecondsSinceEpoch(plantRecord['lastWatered'] as int);
+    
+   
+    Map<String, dynamic> mutablePlantRecord = Map.from(plantRecord);
+
+    // Convert 'lastWatered' to DateTime if not null
+    if (mutablePlantRecord['lastWatered'] != null) {
+      mutablePlantRecord['lastWatered'] = DateTime.fromMillisecondsSinceEpoch(mutablePlantRecord['lastWatered'] as int);
     }
-    return plantRecord;
+    
+    return mutablePlantRecord;
   } else {
     return null;
   }
 }
+
 
 
 
@@ -146,20 +152,25 @@ class DatabaseHelper {
     );
   }
 
-  Future<int> updateLastWatered(Map<String, dynamic> plantRecord, DateTime lastWatered) async {
-    final db = await instance.database;
-    plantRecord['lastWatered'] = lastWatered.millisecondsSinceEpoch; // Convert DateTime to Unix timestamp
-    return await db.update(
-      'owned_plants',
-      plantRecord,
-      where: 'plant_pid = ?',
-      whereArgs: [plantRecord['plant_pid']],
-    );
-  }
-  
-  
+ Future<int> updateLastWatered(Map<String, dynamic> plantRecord, DateTime lastWatered) async {
+  final db = await instance.database;
 
+  
+  final Map<String, dynamic> updatedPlantRecord = Map<String, dynamic>.from(plantRecord);
 
+  
+  updatedPlantRecord['lastWatered'] = lastWatered.millisecondsSinceEpoch; // Convert DateTime to Unix timestamp
+
+  
+  return await db.update(
+    'owned_plants',
+    updatedPlantRecord,
+    where: 'plant_pid = ?',
+    whereArgs: [updatedPlantRecord['plant_pid']],
+  );
+}
+
+  
   Future<void> close() async {
     final db = await instance.database;
     db.close();

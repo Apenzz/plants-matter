@@ -5,8 +5,8 @@ import json
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Specify the paths to your folders using relative paths
-json_folder = os.path.join(current_dir, "lib", "src", "data", "json-sample")
-image_folder = os.path.join(current_dir, "assets", "images-sample")
+json_folder = os.path.join(current_dir, "lib", "src", "data", "json")
+image_folder = os.path.join(current_dir, "assets", "images")
 
 # Check if the json_folder path exists
 if not os.path.exists(json_folder):
