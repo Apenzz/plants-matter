@@ -7,7 +7,7 @@ import 'screens/plantprofile.dart';
 import 'screens/homepage.dart';
 import 'screens/scaffold.dart';
 import 'screens/search.dart';
-=========
+
 import 'screens/careplansettings.dart';
 import 'screens/plantinfos.dart';
 import 'widgets/fade_transition_page.dart';

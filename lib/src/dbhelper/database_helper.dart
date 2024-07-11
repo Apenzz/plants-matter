@@ -44,6 +44,10 @@ class DatabaseHelper {
     CREATE TABLE owned_plants (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
       plant_pid TEXT,
+      wateringPlan INTEGER,
+      fertilizingPlan INTEGER,
+      pruningPlan INTEGER,
+      lastWatered INTEGER,
       FOREIGN KEY (plant_pid) REFERENCES plants (pid)
     );
     ''');
@@ -87,7 +91,71 @@ class DatabaseHelper {
     return results.map((row) => row['plant_pid'] as String).toList();
   }
 
+  Future<Map<String, dynamic>?> queryOwnedPlantByPid(String pid) async {
+  final db = await instance.database;
+  final results = await db.query(
+    'owned_plants',
+    where: 'plant_pid = ?',
+    whereArgs: [pid],
+  );
+
+  if (results.isNotEmpty) {
+    var plantRecord = results.first;
+    if (plantRecord['lastWatered'] != null) {
+      plantRecord['lastWatered'] = DateTime.fromMillisecondsSinceEpoch(plantRecord['lastWatered'] as int);
+    }
+    return plantRecord;
+  } else {
+    return null;
+  }
+}
+
+
+
+  Future<int> updateWateringPlan(Map<String, dynamic> plantRecord, int newWateringPlan) async {
+    final db = await instance.database;
+    plantRecord['wateringPlan'] = newWateringPlan;
+    return await db.update(
+      'owned_plants',
+      plantRecord,
+      where: 'plant_pid = ?',
+      whereArgs: [plantRecord['plant_pid']],
+    );
+  }
+
   
+  Future<int> updateFertilizingPlan(Map<String, dynamic> plantRecord, int newFertilizingPlan) async {
+    final db = await instance.database;
+    plantRecord['fertilizingPlan'] = newFertilizingPlan;
+    return await db.update(
+      'owned_plants',
+      plantRecord,
+      where: 'plant_pid = ?',
+      whereArgs: [plantRecord['plant_pid']],
+    );
+  }
+
+  Future<int> updatePruningPlan(Map<String, dynamic> plantRecord, int newPruningPlan) async {
+    final db = await instance.database;
+    plantRecord['pruningPlan'] = newPruningPlan;
+    return await db.update(
+      'owned_plants',
+      plantRecord,
+      where: 'plant_pid = ?',
+      whereArgs: [plantRecord['plant_pid']],
+    );
+  }
+
+  Future<int> updateLastWatered(Map<String, dynamic> plantRecord, DateTime lastWatered) async {
+    final db = await instance.database;
+    plantRecord['lastWatered'] = lastWatered.millisecondsSinceEpoch; // Convert DateTime to Unix timestamp
+    return await db.update(
+      'owned_plants',
+      plantRecord,
+      where: 'plant_pid = ?',
+      whereArgs: [plantRecord['plant_pid']],
+    );
+  }
   
   
 
