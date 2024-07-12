@@ -8,6 +8,7 @@ import '../widgets/basic_plant_card.dart';
 class HomePageScreen extends StatelessWidget {
   final String title;
   final ValueChanged<Plant> onTap;
+  
 
   const HomePageScreen({
     required this.onTap,

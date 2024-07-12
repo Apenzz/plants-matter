@@ -4,6 +4,7 @@ import '../dbhelper/database_helper.dart';
 
 class MyPlants {
   final List<Plant> myPlants = [];
+  int lastIndex = 0;
 
   void addPlant({
     required int id,
@@ -29,7 +30,7 @@ class MyPlants {
     required String pruning,
   }) {
     var plant = Plant(
-      id-1,
+      lastIndex,
       name,
       type,
       imagePath,
@@ -52,6 +53,7 @@ class MyPlants {
       pruning,
     );
     myPlants.add(plant);
+    lastIndex=lastIndex+1;
   }
 
   Plant getPlant(String id) {
