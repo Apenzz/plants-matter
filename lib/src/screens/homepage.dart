@@ -48,7 +48,7 @@ class HomePageScreen extends StatelessWidget {
               },
             ),
             ListView.builder(
-              itemCount: myPlantsInstance.myPlants.length,
+              itemCount: 0,
               itemBuilder: (context, index) {
                 final plant = myPlantsInstance.myPlants[index];
                 return BasicPlantCard(
